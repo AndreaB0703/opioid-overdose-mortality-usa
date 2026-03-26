@@ -1,0 +1,3426 @@
+year;state;sex;race;age;deaths;population;crude_rate
+2021;Alabama;Female;Black or African American;25-34;28;104371;26.8
+2021;Alabama;Female;Black or African American;35-44;24;95581;25.1
+2021;Alabama;Female;Black or African American;45-54;10;87807;11.4
+2021;Alabama;Female;White;15-24;21;207378;10.1
+2021;Alabama;Female;White;25-34;54;213845;25.3
+2021;Alabama;Female;White;35-44;77;210346;36.6
+2021;Alabama;Female;White;45-54;44;218649;20.1
+2021;Alabama;Female;White;55-64;31;245661;12.6
+2021;Alabama;Male;Black or African American;15-24;11;96789;11.4
+2021;Alabama;Male;Black or African American;25-34;39;95309;40.9
+2021;Alabama;Male;Black or African American;35-44;54;78560;68.7
+2021;Alabama;Male;Black or African American;45-54;38;71161;53.4
+2021;Alabama;Male;Black or African American;55-64;17;74817;22.7
+2021;Alabama;Male;White;15-24;38;215161;17.7
+2021;Alabama;Male;White;25-34;131;214381;61.1
+2021;Alabama;Male;White;35-44;170;210579;80.7
+2021;Alabama;Male;White;45-54;82;221551;37.0
+2021;Alabama;Male;White;55-64;62;240037;25.8
+2021;Alabama;Male;White;65-74;10;192493;5.2
+2021;Alaska;Female;American Indian or Alaska Native;25-34;11;8583;128.2
+2021;Alaska;Female;American Indian or Alaska Native;35-44;12;6865;174.8
+2021;Alaska;Female;White;25-34;12;33549;35.8
+2021;Alaska;Female;White;45-54;10;26568;37.6
+2021;Alaska;Male;White;15-24;10;30663;32.6
+2021;Alaska;Male;White;25-34;18;38539;46.7
+2021;Alaska;Male;White;35-44;17;37105;45.8
+2021;Alaska;Male;White;45-54;16;31235;51.2
+2021;Arizona;Female;American Indian or Alaska Native;25-34;15;30276;49.5
+2021;Arizona;Female;American Indian or Alaska Native;35-44;12;25098;47.8
+2021;Arizona;Female;Black or African American;25-34;13;31480;41.3
+2021;Arizona;Female;Black or African American;35-44;11;26822;41.0
+2021;Arizona;Female;White;15-24;57;373217;15.3
+2021;Arizona;Female;White;25-34;100;380326;26.3
+2021;Arizona;Female;White;35-44;93;356796;26.1
+2021;Arizona;Female;White;45-54;81;349285;23.2
+2021;Arizona;Female;White;55-64;82;390008;21.0
+2021;Arizona;Female;White;65-74;23;371710;6.2
+2021;Arizona;Male;American Indian or Alaska Native;25-34;34;31595;107.6
+2021;Arizona;Male;American Indian or Alaska Native;35-44;25;25049;99.8
+2021;Arizona;Male;American Indian or Alaska Native;45-54;14;19539;71.7
+2021;Arizona;Male;Black or African American;15-24;15;31587;47.5
+2021;Arizona;Male;Black or African American;25-34;35;37026;94.5
+2021;Arizona;Male;Black or African American;35-44;25;30041;83.2
+2021;Arizona;Male;Black or African American;45-54;25;23440;106.7
+2021;Arizona;Male;Black or African American;55-64;17;20055;84.8
+2021;Arizona;Male;White;15-24;167;393080;42.5
+2021;Arizona;Male;White;25-34;381;406700;93.7
+2021;Arizona;Male;White;35-44;288;376958;76.4
+2021;Arizona;Male;White;45-54;167;354462;47.1
+2021;Arizona;Male;White;55-64;121;371042;32.6
+2021;Arizona;Male;White;65-74;44;333098;13.2
+2021;Arizona;Male;More than one race;25-34;22;17474;125.9
+2021;Arizona;Male;More than one race;35-44;15;11614;129.2
+2021;Arkansas;Female;White;25-34;40;148339;27.0
+2021;Arkansas;Female;White;35-44;31;146588;21.1
+2021;Arkansas;Female;White;45-54;25;143746;17.4
+2021;Arkansas;Female;White;55-64;19;159964;11.9
+2021;Arkansas;Male;Black or African American;25-34;11;34054;32.3
+2021;Arkansas;Male;Black or African American;35-44;10;28245;35.4
+2021;Arkansas;Male;White;15-24;15;153905;9.7
+2021;Arkansas;Male;White;25-34;75;149801;50.1
+2021;Arkansas;Male;White;35-44;54;150516;35.9
+2021;Arkansas;Male;White;45-54;30;146603;20.5
+2021;Arkansas;Male;White;55-64;22;156598;14.0
+2021;California;Female;Asian;15-24;11;333131;3.3
+2021;California;Female;Asian;25-34;12;484964;2.5
+2021;California;Female;Black or African American;15-24;19;163502;11.6
+2021;California;Female;Black or African American;25-34;47;202434;23.2
+2021;California;Female;Black or African American;35-44;36;170465;21.1
+2021;California;Female;Black or African American;45-54;40;156903;25.5
+2021;California;Female;Black or African American;55-64;46;166336;27.7
+2021;California;Female;Black or African American;65-74;12;113920;10.5
+2021;California;Female;White;15-24;161;1784245;9.0
+2021;California;Female;White;25-34;281;1958231;14.3
+2021;California;Female;White;35-44;240;1808088;13.3
+2021;California;Female;White;45-54;248;1702080;14.6
+2021;California;Female;White;55-64;258;1726298;14.9
+2021;California;Female;White;65-74;110;1372023;8.0
+2021;California;Female;White;75-84;17;717917;2.4
+2021;California;Female;More than one race;15-24;13;150168;8.7
+2021;California;Female;More than one race;25-34;17;126167;13.5
+2021;California;Female;More than one race;35-44;13;94750;13.7
+2021;California;Female;More than one race;45-54;13;67065;19.4
+2021;California;Female;More than one race;55-64;10;55378;18.1
+2021;California;Male;American Indian or Alaska Native;25-34;22;56452;39.0
+2021;California;Male;American Indian or Alaska Native;45-54;13;43681;29.8
+2021;California;Male;Asian;15-24;17;344603;4.9
+2021;California;Male;Asian;25-34;35;481241;7.3
+2021;California;Male;Asian;35-44;24;455641;5.3
+2021;California;Male;Asian;45-54;25;408494;6.1
+2021;California;Male;Asian;55-64;16;353747;4.5
+2021;California;Male;Black or African American;15-24;53;176284;30.1
+2021;California;Male;Black or African American;25-34;154;225843;68.2
+2021;California;Male;Black or African American;35-44;110;183300;60.0
+2021;California;Male;Black or African American;45-54;93;158684;58.6
+2021;California;Male;Black or African American;55-64;143;158963;90.0
+2021;California;Male;Black or African American;65-74;56;94430;59.3
+2021;California;Male;White;15-24;497;1873635;26.5
+2021;California;Male;White;25-34;1277;2092059;61.0
+2021;California;Male;White;35-44;1060;1970139;53.8
+2021;California;Male;White;45-54;732;1794758;40.8
+2021;California;Male;White;55-64;659;1753423;37.6
+2021;California;Male;White;65-74;232;1259731;18.4
+2021;California;Male;White;75-84;22;577671;3.8
+2021;California;Male;More than one race;15-24;45;154924;29.0
+2021;California;Male;More than one race;25-34;69;127418;54.2
+2021;California;Male;More than one race;35-44;46;90822;50.6
+2021;California;Male;More than one race;45-54;20;62364;32.1
+2021;Colorado;Female;Black or African American;25-34;10;21579;46.3
+2021;Colorado;Female;White;15-24;44;302776;14.5
+2021;Colorado;Female;White;25-34;61;368987;16.5
+2021;Colorado;Female;White;35-44;101;347199;29.1
+2021;Colorado;Female;White;45-54;60;300602;20.0
+2021;Colorado;Female;White;55-64;61;319419;19.1
+2021;Colorado;Female;White;65-74;16;266404;6.0
+2021;Colorado;Male;Black or African American;25-34;14;28306;49.5
+2021;Colorado;Male;Black or African American;35-44;12;22818;52.6
+2021;Colorado;Male;Black or African American;55-64;10;15047;66.5
+2021;Colorado;Male;White;15-24;108;326967;33.0
+2021;Colorado;Male;White;25-34;266;402264;66.1
+2021;Colorado;Male;White;35-44;202;377925;53.4
+2021;Colorado;Male;White;45-54;113;321601;35.1
+2021;Colorado;Male;White;55-64;75;312934;24.0
+2021;Colorado;Male;White;65-74;26;249094;10.4
+2021;Connecticut;Female;Black or African American;35-44;14;33507;41.8
+2021;Connecticut;Female;Black or African American;45-54;15;31238;48.0
+2021;Connecticut;Female;Black or African American;55-64;18;29167;61.7
+2021;Connecticut;Female;White;15-24;24;176778;13.6
+2021;Connecticut;Female;White;25-34;56;163044;34.3
+2021;Connecticut;Female;White;35-44;66;170532;38.7
+2021;Connecticut;Female;White;45-54;82;184603;44.4
+2021;Connecticut;Female;White;55-64;70;223902;31.3
+2021;Connecticut;Female;White;65-74;14;174482;8.0
+2021;Connecticut;Male;Black or African American;25-34;23;36560;62.9
+2021;Connecticut;Male;Black or African American;35-44;38;30470;124.7
+2021;Connecticut;Male;Black or African American;45-54;40;26872;148.9
+2021;Connecticut;Male;Black or African American;55-64;61;24360;250.4
+2021;Connecticut;Male;Black or African American;65-74;10;13174;75.9
+2021;Connecticut;Male;White;15-24;33;184663;17.9
+2021;Connecticut;Male;White;25-34;145;170904;84.8
+2021;Connecticut;Male;White;35-44;226;171676;131.6
+2021;Connecticut;Male;White;45-54;185;181252;102.1
+2021;Connecticut;Male;White;55-64;180;217205;82.9
+2021;Connecticut;Male;White;65-74;42;157931;26.6
+2021;Delaware;Female;Black or African American;25-34;11;17282;63.7
+2021;Delaware;Female;White;25-34;19;41041;46.3
+2021;Delaware;Female;White;35-44;40;39517;101.2
+2021;Delaware;Female;White;45-54;27;40274;67.0
+2021;Delaware;Female;White;55-64;13;55417;23.5
+2021;Delaware;Male;Black or African American;35-44;13;13791;94.3
+2021;Delaware;Male;Black or African American;45-54;22;13426;163.9
+2021;Delaware;Male;Black or African American;55-64;20;13788;145.1
+2021;Delaware;Male;White;25-34;50;41417;120.7
+2021;Delaware;Male;White;35-44;74;40110;184.5
+2021;Delaware;Male;White;45-54;54;39191;137.8
+2021;Delaware;Male;White;55-64;40;50960;78.5
+2021;District of Columbia;Female;Black or African American;35-44;10;21978;45.5
+2021;District of Columbia;Female;Black or African American;45-54;14;17877;78.3
+2021;District of Columbia;Female;Black or African American;55-64;34;20977;162.1
+2021;District of Columbia;Female;Black or African American;65-74;15;17089;87.8
+2021;District of Columbia;Male;Black or African American;25-34;21;23817;88.2
+2021;District of Columbia;Male;Black or African American;35-44;21;18005;116.6
+2021;District of Columbia;Male;Black or African American;45-54;34;15211;223.5
+2021;District of Columbia;Male;Black or African American;55-64;90;17030;528.5
+2021;District of Columbia;Male;Black or African American;65-74;59;11715;503.6
+2021;Florida;Female;Black or African American;15-24;15;261374;5.7
+2021;Florida;Female;Black or African American;25-34;40;287735;13.9
+2021;Florida;Female;Black or African American;35-44;51;260200;19.6
+2021;Florida;Female;Black or African American;45-54;34;231967;14.7
+2021;Florida;Female;Black or African American;55-64;19;224068;8.5
+2021;Florida;Female;White;15-24;80;862020;9.3
+2021;Florida;Female;White;25-34;359;981419;36.6
+2021;Florida;Female;White;35-44;416;998697;41.7
+2021;Florida;Female;White;45-54;291;1047127;27.8
+2021;Florida;Female;White;55-64;279;1245345;22.4
+2021;Florida;Female;White;65-74;63;1172878;5.4
+2021;Florida;Female;White;75-84;15;704852;2.1
+2021;Florida;Male;Black or African American;15-24;32;268080;11.9
+2021;Florida;Male;Black or African American;25-34;113;285661;39.6
+2021;Florida;Male;Black or African American;35-44;121;243957;49.6
+2021;Florida;Male;Black or African American;45-54;99;210318;47.1
+2021;Florida;Male;Black or African American;55-64;69;196620;35.1
+2021;Florida;Male;Black or African American;65-74;33;126701;26.0
+2021;Florida;Male;White;15-24;178;903252;19.7
+2021;Florida;Male;White;25-34;942;1023052;92.1
+2021;Florida;Male;White;35-44;1133;1036491;109.3
+2021;Florida;Male;White;45-54;767;1056630;72.6
+2021;Florida;Male;White;55-64;544;1182879;46.0
+2021;Florida;Male;White;65-74;122;1034639;11.8
+2021;Florida;Male;More than one race;25-34;19;35196;54.0
+2021;Florida;Male;More than one race;35-44;13;24749;52.5
+2021;Georgia;Female;Black or African American;15-24;11;265243;4.1
+2021;Georgia;Female;Black or African American;25-34;35;285749;12.2
+2021;Georgia;Female;Black or African American;35-44;41;265740;15.4
+2021;Georgia;Female;Black or African American;45-54;30;245389;12.2
+2021;Georgia;Female;Black or African American;55-64;13;227500;5.7
+2021;Georgia;Female;White;15-24;41;403808;10.2
+2021;Georgia;Female;White;25-34;115;408030;28.2
+2021;Georgia;Female;White;35-44;113;406020;27.8
+2021;Georgia;Female;White;45-54;97;417576;23.2
+2021;Georgia;Female;White;55-64;62;429676;14.4
+2021;Georgia;Female;White;65-74;18;356019;5.1
+2021;Georgia;Male;Black or African American;15-24;28;260279;10.8
+2021;Georgia;Male;Black or African American;25-34;90;261558;34.4
+2021;Georgia;Male;Black or African American;35-44;85;221446;38.4
+2021;Georgia;Male;Black or African American;45-54;56;204182;27.4
+2021;Georgia;Male;Black or African American;55-64;35;188246;18.6
+2021;Georgia;Male;Black or African American;65-74;13;113091;11.5
+2021;Georgia;Male;White;15-24;74;428951;17.3
+2021;Georgia;Male;White;25-34;265;418367;63.3
+2021;Georgia;Male;White;35-44;262;416445;62.9
+2021;Georgia;Male;White;45-54;157;429811;36.5
+2021;Georgia;Male;White;55-64;88;426404;20.6
+2021;Georgia;Male;White;65-74;24;319128;7.5
+2021;Hawaii;Male;White;35-44;11;28940;38.0
+2021;Idaho;Female;White;25-34;13;111444;11.7
+2021;Idaho;Female;White;35-44;22;113808;19.3
+2021;Idaho;Female;White;45-54;15;98682;15.2
+2021;Idaho;Female;White;55-64;20;109735;18.2
+2021;Idaho;Male;White;15-24;23;121816;18.9
+2021;Idaho;Male;White;25-34;46;115619;39.8
+2021;Idaho;Male;White;35-44;30;118157;25.4
+2021;Idaho;Male;White;45-54;16;103798;15.4
+2021;Idaho;Male;White;55-64;22;107263;20.5
+2021;Illinois;Female;Black or African American;25-34;42;146969;28.6
+2021;Illinois;Female;Black or African American;35-44;54;124589;43.3
+2021;Illinois;Female;Black or African American;45-54;68;120840;56.3
+2021;Illinois;Female;Black or African American;55-64;97;122676;79.1
+2021;Illinois;Female;Black or African American;65-74;23;91183;25.2
+2021;Illinois;Female;White;15-24;52;595214;8.7
+2021;Illinois;Female;White;25-34;107;613802;17.4
+2021;Illinois;Female;White;35-44;143;623078;23.0
+2021;Illinois;Female;White;45-54;89;598641;14.9
+2021;Illinois;Female;White;55-64;70;661520;10.6
+2021;Illinois;Female;White;65-74;21;532797;3.9
+2021;Illinois;Male;Black or African American;15-24;45;133577;33.7
+2021;Illinois;Male;Black or African American;25-34;69;142386;48.5
+2021;Illinois;Male;Black or African American;35-44;104;111762;93.1
+2021;Illinois;Male;Black or African American;45-54;253;102238;247.5
+2021;Illinois;Male;Black or African American;55-64;323;102007;316.6
+2021;Illinois;Male;Black or African American;65-74;90;64551;139.4
+2021;Illinois;Male;White;15-24;116;622555;18.6
+2021;Illinois;Male;White;25-34;382;634775;60.2
+2021;Illinois;Male;White;35-44;361;653118;55.3
+2021;Illinois;Male;White;45-54;263;623072;42.2
+2021;Illinois;Male;White;55-64;170;661827;25.7
+2021;Illinois;Male;White;65-74;34;493423;6.9
+2021;Indiana;Female;Black or African American;25-34;31;55140;56.2
+2021;Indiana;Female;Black or African American;35-44;28;47514;58.9
+2021;Indiana;Female;Black or African American;45-54;20;41020;48.8
+2021;Indiana;Female;White;15-24;45;371006;12.1
+2021;Indiana;Female;White;25-34;155;358741;43.2
+2021;Indiana;Female;White;35-44;175;355037;49.3
+2021;Indiana;Female;White;45-54;121;348250;34.7
+2021;Indiana;Female;White;55-64;99;391210;25.3
+2021;Indiana;Female;White;65-74;15;322834;4.6
+2021;Indiana;Male;Black or African American;15-24;21;54556;38.5
+2021;Indiana;Male;Black or African American;25-34;74;54980;134.6
+2021;Indiana;Male;Black or African American;35-44;54;43991;122.8
+2021;Indiana;Male;Black or African American;45-54;53;37459;141.5
+2021;Indiana;Male;Black or African American;55-64;45;33860;132.9
+2021;Indiana;Male;Black or African American;65-74;19;20648;92.0
+2021;Indiana;Male;White;15-24;129;388116;33.2
+2021;Indiana;Male;White;25-34;357;367542;97.1
+2021;Indiana;Male;White;35-44;342;363351;94.1
+2021;Indiana;Male;White;45-54;180;357337;50.4
+2021;Indiana;Male;White;55-64;162;384842;42.1
+2021;Indiana;Male;White;65-74;25;295359;8.5
+2021;Iowa;Female;White;25-34;12;168244;7.1
+2021;Iowa;Female;White;35-44;21;176188;11.9
+2021;Iowa;Female;White;45-54;12;163183;7.4
+2021;Iowa;Female;White;55-64;15;196233;7.6
+2021;Iowa;Male;White;15-24;23;197233;11.7
+2021;Iowa;Male;White;25-34;54;175186;30.8
+2021;Iowa;Male;White;35-44;34;184732;18.4
+2021;Iowa;Male;White;45-54;18;169293;10.6
+2021;Kansas;Female;White;15-24;15;165811;9.0
+2021;Kansas;Female;White;25-34;28;152460;18.4
+2021;Kansas;Female;White;35-44;33;158986;20.8
+2021;Kansas;Female;White;45-54;21;140973;14.9
+2021;Kansas;Female;White;55-64;20;166585;12.0
+2021;Kansas;Male;White;15-24;36;178795;20.1
+2021;Kansas;Male;White;25-34;83;159667;52.0
+2021;Kansas;Male;White;35-44;63;164699;38.3
+2021;Kansas;Male;White;45-54;30;145266;20.7
+2021;Kansas;Male;White;55-64;17;162748;10.4
+2021;Kentucky;Female;Black or African American;15-24;10;29754;33.6
+2021;Kentucky;Female;Black or African American;25-34;15;27958;53.7
+2021;Kentucky;Female;Black or African American;35-44;10;24418;41.0
+2021;Kentucky;Female;Black or African American;45-54;11;22114;49.7
+2021;Kentucky;Female;White;15-24;47;241494;19.5
+2021;Kentucky;Female;White;25-34;119;247527;48.1
+2021;Kentucky;Female;White;35-44;176;244648;71.9
+2021;Kentucky;Female;White;45-54;114;247523;46.1
+2021;Kentucky;Female;White;55-64;86;276301;31.1
+2021;Kentucky;Female;White;65-74;12;230248;5.2
+2021;Kentucky;Male;Black or African American;15-24;13;33275;39.1
+2021;Kentucky;Male;Black or African American;25-34;45;32229;139.6
+2021;Kentucky;Male;Black or African American;35-44;30;25254;118.8
+2021;Kentucky;Male;Black or African American;45-54;31;21667;143.1
+2021;Kentucky;Male;Black or African American;55-64;22;21701;101.4
+2021;Kentucky;Male;White;15-24;66;253766;26.0
+2021;Kentucky;Male;White;25-34;260;253219;102.7
+2021;Kentucky;Male;White;35-44;365;246223;148.2
+2021;Kentucky;Male;White;45-54;234;248888;94.0
+2021;Kentucky;Male;White;55-64;158;263831;59.9
+2021;Kentucky;Male;White;65-74;31;206908;15.0
+2021;Louisiana;Female;Black or African American;25-34;24;115505;20.8
+2021;Louisiana;Female;Black or African American;35-44;17;105907;16.1
+2021;Louisiana;Female;White;15-24;28;164491;17.0
+2021;Louisiana;Female;White;25-34;79;183924;43.0
+2021;Louisiana;Female;White;35-44;90;188496;47.7
+2021;Louisiana;Female;White;45-54;67;172836;38.8
+2021;Louisiana;Female;White;55-64;63;201441;31.3
+2021;Louisiana;Male;Black or African American;15-24;12;114235;10.5
+2021;Louisiana;Male;Black or African American;25-34;62;110460;56.1
+2021;Louisiana;Male;Black or African American;35-44;95;93310;101.8
+2021;Louisiana;Male;Black or African American;45-54;59;75565;78.1
+2021;Louisiana;Male;Black or African American;55-64;28;80861;34.6
+2021;Louisiana;Male;White;15-24;44;173297;25.4
+2021;Louisiana;Male;White;25-34;175;186760;93.7
+2021;Louisiana;Male;White;35-44;193;195124;98.9
+2021;Louisiana;Male;White;45-54;138;176702;78.1
+2021;Louisiana;Male;White;55-64;79;196699;40.2
+2021;Louisiana;Male;White;65-74;17;157731;10.8
+2021;Maine;Female;White;25-34;25;77000;32.5
+2021;Maine;Female;White;35-44;47;77725;60.5
+2021;Maine;Female;White;45-54;31;82046;37.8
+2021;Maine;Female;White;55-64;31;105732;29.3
+2021;Maine;Male;White;15-24;19;72090;26.4
+2021;Maine;Male;White;25-34;85;77307;110.0
+2021;Maine;Male;White;35-44;111;77160;143.9
+2021;Maine;Male;White;45-54;75;80357;93.3
+2021;Maine;Male;White;55-64;66;100498;65.7
+2021;Maine;Male;White;65-74;11;85930;12.8
+2021;Maryland;Female;Black or African American;25-34;38;146070;26.0
+2021;Maryland;Female;Black or African American;35-44;34;141014;24.1
+2021;Maryland;Female;Black or African American;45-54;61;136178;44.8
+2021;Maryland;Female;Black or African American;55-64;104;139972;74.3
+2021;Maryland;Female;Black or African American;65-74;22;97153;22.6
+2021;Maryland;Female;White;15-24;18;204786;8.8
+2021;Maryland;Female;White;25-34;97;220787;43.9
+2021;Maryland;Female;White;35-44;113;229151;49.3
+2021;Maryland;Female;White;45-54;79;222029;35.6
+2021;Maryland;Female;White;55-64;74;259128;28.6
+2021;Maryland;Female;White;65-74;16;205450;7.8
+2021;Maryland;Male;Black or African American;15-24;34;125961;27.0
+2021;Maryland;Male;Black or African American;25-34;113;136707;82.7
+2021;Maryland;Male;Black or African American;35-44;120;123098;97.5
+2021;Maryland;Male;Black or African American;45-54;191;117115;163.1
+2021;Maryland;Male;Black or African American;55-64;254;117048;217.0
+2021;Maryland;Male;Black or African American;65-74;82;69237;118.4
+2021;Maryland;Male;White;15-24;54;215125;25.1
+2021;Maryland;Male;White;25-34;270;227976;118.4
+2021;Maryland;Male;White;35-44;260;238810;108.9
+2021;Maryland;Male;White;45-54;197;224499;87.8
+2021;Maryland;Male;White;55-64;140;255567;54.8
+2021;Maryland;Male;White;65-74;32;188359;17.0
+2021;Massachusetts;Female;Black or African American;35-44;14;45901;30.5
+2021;Massachusetts;Female;Black or African American;45-54;10;40890;24.5
+2021;Massachusetts;Female;Black or African American;55-64;16;37177;43.0
+2021;Massachusetts;Female;White;15-24;29;358008;8.1
+2021;Massachusetts;Female;White;25-34;114;370869;30.7
+2021;Massachusetts;Female;White;35-44;158;344940;45.8
+2021;Massachusetts;Female;White;45-54;122;358484;34.0
+2021;Massachusetts;Female;White;55-64;103;423352;24.3
+2021;Massachusetts;Female;White;65-74;16;340619;4.7
+2021;Massachusetts;Male;Black or African American;25-34;35;53806;65.0
+2021;Massachusetts;Male;Black or African American;35-44;38;44859;84.7
+2021;Massachusetts;Male;Black or African American;45-54;34;37915;89.7
+2021;Massachusetts;Male;Black or African American;55-64;48;34027;141.1
+2021;Massachusetts;Male;White;15-24;80;357419;22.4
+2021;Massachusetts;Male;White;25-34;314;374584;83.8
+2021;Massachusetts;Male;White;35-44;412;345900;119.1
+2021;Massachusetts;Male;White;45-54;337;348342;96.7
+2021;Massachusetts;Male;White;55-64;246;405371;60.7
+2021;Massachusetts;Male;White;65-74;60;302825;19.8
+2021;Michigan;Female;Black or African American;25-34;51;113247;45.0
+2021;Michigan;Female;Black or African American;35-44;44;87284;50.4
+2021;Michigan;Female;Black or African American;45-54;37;93002;39.8
+2021;Michigan;Female;Black or African American;55-64;53;88584;59.8
+2021;Michigan;Female;Black or African American;65-74;18;69610;25.9
+2021;Michigan;Female;White;15-24;35;484447;7.2
+2021;Michigan;Female;White;25-34;144;481095;29.9
+2021;Michigan;Female;White;35-44;157;469630;33.4
+2021;Michigan;Female;White;45-54;115;482062;23.9
+2021;Michigan;Female;White;55-64;74;588760;12.6
+2021;Michigan;Female;White;65-74;17;496122;3.4
+2021;Michigan;Male;Black or African American;15-24;13;101787;12.8
+2021;Michigan;Male;Black or African American;25-34;73;109675;66.6
+2021;Michigan;Male;Black or African American;35-44;88;79177;111.1
+2021;Michigan;Male;Black or African American;45-54;99;79981;123.8
+2021;Michigan;Male;Black or African American;55-64;137;75475;181.5
+2021;Michigan;Male;Black or African American;65-74;78;51082;152.7
+2021;Michigan;Male;White;15-24;64;507391;12.6
+2021;Michigan;Male;White;25-34;333;505341;65.9
+2021;Michigan;Male;White;35-44;364;485125;75.0
+2021;Michigan;Male;White;45-54;220;494386;44.5
+2021;Michigan;Male;White;55-64;194;583848;33.2
+2021;Michigan;Male;White;65-74;43;464644;9.3
+2021;Minnesota;Female;American Indian or Alaska Native;25-34;12;5615;213.7
+2021;Minnesota;Female;American Indian or Alaska Native;35-44;11;4795;229.4
+2021;Minnesota;Female;American Indian or Alaska Native;45-54;12;3875;309.7
+2021;Minnesota;Female;Black or African American;25-34;14;33756;41.5
+2021;Minnesota;Female;Black or African American;55-64;10;15432;64.8
+2021;Minnesota;Female;White;15-24;26;279388;9.3
+2021;Minnesota;Female;White;25-34;47;285443;16.5
+2021;Minnesota;Female;White;35-44;33;305844;10.8
+2021;Minnesota;Female;White;45-54;20;278061;7.2
+2021;Minnesota;Female;White;55-64;36;343209;10.5
+2021;Minnesota;Male;American Indian or Alaska Native;25-34;19;5801;327.5
+2021;Minnesota;Male;American Indian or Alaska Native;35-44;15;5061;296.4
+2021;Minnesota;Male;American Indian or Alaska Native;45-54;10;3985;250.9
+2021;Minnesota;Male;Black or African American;15-24;16;34342;46.6
+2021;Minnesota;Male;Black or African American;25-34;33;35909;91.9
+2021;Minnesota;Male;Black or African American;35-44;34;33006;103.0
+2021;Minnesota;Male;Black or African American;45-54;35;23337;150.0
+2021;Minnesota;Male;Black or African American;55-64;32;17008;188.1
+2021;Minnesota;Male;White;15-24;51;288062;17.7
+2021;Minnesota;Male;White;25-34;141;299413;47.1
+2021;Minnesota;Male;White;35-44;116;322999;35.9
+2021;Minnesota;Male;White;45-54;71;290245;24.5
+2021;Minnesota;Male;White;55-64;35;344427;10.2
+2021;Minnesota;Male;More than one race;25-34;10;11034;90.6
+2021;Mississippi;Female;Black or African American;35-44;17;78635;21.6
+2021;Mississippi;Female;White;15-24;11;104062;10.6
+2021;Mississippi;Female;White;25-34;39;103680;37.6
+2021;Mississippi;Female;White;35-44;46;104359;44.1
+2021;Mississippi;Female;White;45-54;32;106257;30.1
+2021;Mississippi;Female;White;55-64;23;119962;19.2
+2021;Mississippi;Male;Black or African American;15-24;12;84566;14.2
+2021;Mississippi;Male;Black or African American;25-34;25;76681;32.6
+2021;Mississippi;Male;Black or African American;35-44;25;66611;37.5
+2021;Mississippi;Male;White;15-24;25;111391;22.4
+2021;Mississippi;Male;White;25-34;75;105440;71.1
+2021;Mississippi;Male;White;35-44;81;107362;75.4
+2021;Mississippi;Male;White;45-54;50;109441;45.7
+2021;Mississippi;Male;White;55-64;28;118424;23.6
+2021;Missouri;Female;Black or African American;25-34;30;58091;51.6
+2021;Missouri;Female;Black or African American;35-44;29;48767;59.5
+2021;Missouri;Female;Black or African American;45-54;28;43718;64.0
+2021;Missouri;Female;Black or African American;55-64;22;45798;48.0
+2021;Missouri;Female;White;15-24;32;310068;10.3
+2021;Missouri;Female;White;25-34;91;320942;28.4
+2021;Missouri;Female;White;35-44;93;320798;29.0
+2021;Missouri;Female;White;45-54;62;300726;20.6
+2021;Missouri;Female;White;55-64;48;360257;13.3
+2021;Missouri;Female;White;65-74;16;300908;5.3
+2021;Missouri;Male;Black or African American;15-24;16;54582;29.3
+2021;Missouri;Male;Black or African American;25-34;70;55733;125.6
+2021;Missouri;Male;Black or African American;35-44;96;42803;224.3
+2021;Missouri;Male;Black or African American;45-54;60;37956;158.1
+2021;Missouri;Male;Black or African American;55-64;67;38657;173.3
+2021;Missouri;Male;Black or African American;65-74;21;24003;87.5
+2021;Missouri;Male;White;15-24;87;324193;26.8
+2021;Missouri;Male;White;25-34;265;325653;81.4
+2021;Missouri;Male;White;35-44;199;329863;60.3
+2021;Missouri;Male;White;45-54;117;305181;38.3
+2021;Missouri;Male;White;55-64;73;352082;20.7
+2021;Missouri;Male;White;65-74;12;273717;4.4
+2021;Montana;Male;White;25-34;19;63941;29.7
+2021;Montana;Male;White;35-44;20;65074;30.7
+2021;Montana;Male;White;45-54;13;56455;23.0
+2021;Nebraska;Female;White;45-54;10;95190;10.5
+2021;Nebraska;Male;White;15-24;13;119404;10.9
+2021;Nebraska;Male;White;25-34;21;109440;19.2
+2021;Nebraska;Male;White;35-44;11;114980;9.6
+2021;Nevada;Female;Black or African American;25-34;14;29131;48.1
+2021;Nevada;Female;White;15-24;18;127724;14.1
+2021;Nevada;Female;White;25-34;32;153162;20.9
+2021;Nevada;Female;White;35-44;31;147894;21.0
+2021;Nevada;Female;White;45-54;36;140952;25.5
+2021;Nevada;Female;White;55-64;34;146103;23.3
+2021;Nevada;Female;White;65-74;19;128798;14.8
+2021;Nevada;Male;Black or African American;25-34;11;29331;37.5
+2021;Nevada;Male;White;15-24;34;135035;25.2
+2021;Nevada;Male;White;25-34;96;163680;58.7
+2021;Nevada;Male;White;35-44;67;162908;41.1
+2021;Nevada;Male;White;45-54;50;154475;32.4
+2021;Nevada;Male;White;55-64;40;155239;25.8
+2021;Nevada;Male;White;65-74;27;125170;21.6
+2021;New Hampshire;Female;White;25-34;32;77994;41.0
+2021;New Hampshire;Female;White;35-44;26;75672;34.4
+2021;New Hampshire;Female;White;45-54;26;82561;31.5
+2021;New Hampshire;Female;White;55-64;26;105896;24.6
+2021;New Hampshire;Male;White;15-24;14;78633;17.8
+2021;New Hampshire;Male;White;25-34;75;83520;89.8
+2021;New Hampshire;Male;White;35-44;70;77902;89.9
+2021;New Hampshire;Male;White;45-54;43;82011;52.4
+2021;New Hampshire;Male;White;55-64;41;103986;39.4
+2021;New Jersey;Female;Black or African American;25-34;26;106335;24.5
+2021;New Jersey;Female;Black or African American;35-44;31;98996;31.3
+2021;New Jersey;Female;Black or African American;45-54;50;98679;50.7
+2021;New Jersey;Female;Black or African American;55-64;61;94839;64.3
+2021;New Jersey;Female;Black or African American;65-74;12;61780;19.4
+2021;New Jersey;Female;White;15-24;24;383514;6.3
+2021;New Jersey;Female;White;25-34;118;391713;30.1
+2021;New Jersey;Female;White;35-44;135;404899;33.3
+2021;New Jersey;Female;White;45-54;119;428625;27.8
+2021;New Jersey;Female;White;55-64;96;492591;19.5
+2021;New Jersey;Female;White;65-74;17;383134;4.4
+2021;New Jersey;Male;Asian;25-34;11;66343;16.6
+2021;New Jersey;Male;Black or African American;15-24;20;98060;20.4
+2021;New Jersey;Male;Black or African American;25-34;52;107651;48.3
+2021;New Jersey;Male;Black or African American;35-44;81;92936;87.2
+2021;New Jersey;Male;Black or African American;45-54;137;87017;157.4
+2021;New Jersey;Male;Black or African American;55-64;175;81611;214.4
+2021;New Jersey;Male;Black or African American;65-74;39;44681;87.3
+2021;New Jersey;Male;White;15-24;79;402133;19.6
+2021;New Jersey;Male;White;25-34;347;407614;85.1
+2021;New Jersey;Male;White;35-44;394;419224;94.0
+2021;New Jersey;Male;White;45-54;315;432317;72.9
+2021;New Jersey;Male;White;55-64;217;482829;44.9
+2021;New Jersey;Male;White;65-74;57;344912;16.5
+2021;New Mexico;Female;White;15-24;14;107747;13.0
+2021;New Mexico;Female;White;25-34;49;106165;46.2
+2021;New Mexico;Female;White;35-44;50;105551;47.4
+2021;New Mexico;Female;White;45-54;45;97225;46.3
+2021;New Mexico;Female;White;55-64;39;117751;33.1
+2021;New Mexico;Male;American Indian or Alaska Native;25-34;14;18108;77.3
+2021;New Mexico;Male;American Indian or Alaska Native;35-44;13;15293;85.0
+2021;New Mexico;Male;White;15-24;42;114788;36.6
+2021;New Mexico;Male;White;25-34;126;113592;110.9
+2021;New Mexico;Male;White;35-44;107;110944;96.4
+2021;New Mexico;Male;White;45-54;80;96895;82.6
+2021;New Mexico;Male;White;55-64;68;111261;61.1
+2021;New Mexico;Male;White;65-74;23;100086;23.0
+2021;New York;Female;Black or African American;15-24;11;230387;4.8
+2021;New York;Female;Black or African American;25-34;65;275922;23.6
+2021;New York;Female;Black or African American;35-44;60;239200;25.1
+2021;New York;Female;Black or African American;45-54;72;233722;30.8
+2021;New York;Female;Black or African American;55-64;80;248272;32.2
+2021;New York;Female;Black or African American;65-74;22;168593;13.0
+2021;New York;Female;White;15-24;42;812163;5.2
+2021;New York;Female;White;25-34;215;912142;23.6
+2021;New York;Female;White;35-44;265;843415;31.4
+2021;New York;Female;White;45-54;208;845473;24.6
+2021;New York;Female;White;55-64;202;981785;20.6
+2021;New York;Female;White;65-74;38;810322;4.7
+2021;New York;Male;Asian;15-24;10;106372;9.4
+2021;New York;Male;Asian;25-34;15;139967;10.7
+2021;New York;Male;Black or African American;15-24;29;231851;12.5
+2021;New York;Male;Black or African American;25-34;106;274801;38.6
+2021;New York;Male;Black or African American;35-44;144;218759;65.8
+2021;New York;Male;Black or African American;45-54;170;197995;85.9
+2021;New York;Male;Black or African American;55-64;299;203929;146.6
+2021;New York;Male;Black or African American;65-74;72;123370;58.4
+2021;New York;Male;White;15-24;145;835604;17.4
+2021;New York;Male;White;25-34;616;927106;66.4
+2021;New York;Male;White;35-44;746;878106;85.0
+2021;New York;Male;White;45-54;573;859807;66.6
+2021;New York;Male;White;55-64;500;961623;52.0
+2021;New York;Male;White;65-74;126;731808;17.2
+2021;New York;Male;White;75-84;12;337560;3.6
+2021;New York;Male;More than one race;25-34;10;39523;25.3
+2021;North Carolina;Female;American Indian or Alaska Native;25-34;11;11585;95.0
+2021;North Carolina;Female;American Indian or Alaska Native;35-44;10;10817;92.4
+2021;North Carolina;Female;Black or African American;15-24;21;169566;12.4
+2021;North Carolina;Female;Black or African American;25-34;63;180252;35.0
+2021;North Carolina;Female;Black or African American;35-44;51;160575;31.8
+2021;North Carolina;Female;Black or African American;45-54;24;158848;15.1
+2021;North Carolina;Female;Black or African American;55-64;20;157998;12.7
+2021;North Carolina;Female;White;15-24;59;448909;13.1
+2021;North Carolina;Female;White;25-34;213;469682;45.3
+2021;North Carolina;Female;White;35-44;239;460404;51.9
+2021;North Carolina;Female;White;45-54;159;480762;33.1
+2021;North Carolina;Female;White;55-64;90;520862;17.3
+2021;North Carolina;Female;White;65-74;19;451563;4.2
+2021;North Carolina;Male;American Indian or Alaska Native;25-34;25;11672;214.2
+2021;North Carolina;Male;American Indian or Alaska Native;45-54;14;10720;130.6
+2021;North Carolina;Male;American Indian or Alaska Native;55-64;10;8724;114.6
+2021;North Carolina;Male;Black or African American;15-24;37;169073;21.9
+2021;North Carolina;Male;Black or African American;25-34;140;168688;83.0
+2021;North Carolina;Male;Black or African American;35-44;153;138438;110.5
+2021;North Carolina;Male;Black or African American;45-54;86;132236;65.0
+2021;North Carolina;Male;Black or African American;55-64;81;132115;61.3
+2021;North Carolina;Male;Black or African American;65-74;13;88607;14.7
+2021;North Carolina;Male;White;15-24;144;482941;29.8
+2021;North Carolina;Male;White;25-34;533;474693;112.3
+2021;North Carolina;Male;White;35-44;477;458862;104.0
+2021;North Carolina;Male;White;45-54;338;485789;69.6
+2021;North Carolina;Male;White;55-64;196;500261;39.2
+2021;North Carolina;Male;White;65-74;35;401559;8.7
+2021;North Dakota;Male;White;25-34;16;49423;32.4
+2021;North Dakota;Male;White;35-44;13;46047;28.2
+2021;Ohio;Female;Black or African American;15-24;11;110580;9.9
+2021;Ohio;Female;Black or African American;25-34;56;122713;45.6
+2021;Ohio;Female;Black or African American;35-44;51;101030;50.5
+2021;Ohio;Female;Black or African American;45-54;45;90581;49.7
+2021;Ohio;Female;Black or African American;55-64;37;94371;39.2
+2021;Ohio;Female;Black or African American;65-74;14;69923;20.0
+2021;Ohio;Female;White;15-24;61;574309;10.6
+2021;Ohio;Female;White;25-34;266;595265;44.7
+2021;Ohio;Female;White;35-44;332;583244;56.9
+2021;Ohio;Female;White;45-54;251;589217;42.6
+2021;Ohio;Female;White;55-64;158;691592;22.8
+2021;Ohio;Female;White;65-74;37;586990;6.3
+2021;Ohio;Male;Black or African American;15-24;24;114134;21.0
+2021;Ohio;Male;Black or African American;25-34;118;119446;98.8
+2021;Ohio;Male;Black or African American;35-44;129;92690;139.2
+2021;Ohio;Male;Black or African American;45-54;128;84584;151.3
+2021;Ohio;Male;Black or African American;55-64;117;83344;140.4
+2021;Ohio;Male;Black or African American;65-74;52;54064;96.2
+2021;Ohio;Male;White;15-24;137;599578;22.8
+2021;Ohio;Male;White;25-34;659;612747;107.5
+2021;Ohio;Male;White;35-44;781;595388;131.2
+2021;Ohio;Male;White;45-54;505;596646;84.6
+2021;Ohio;Male;White;55-64;365;673827;54.2
+2021;Ohio;Male;White;65-74;56;536470;10.4
+2021;Oklahoma;Female;White;25-34;19;185903;10.2
+2021;Oklahoma;Female;White;35-44;26;188665;13.8
+2021;Oklahoma;Female;White;45-54;29;171260;16.9
+2021;Oklahoma;Female;White;55-64;27;195700;13.8
+2021;Oklahoma;Male;American Indian or Alaska Native;25-34;10;28246;35.4
+2021;Oklahoma;Male;Black or African American;25-34;18;26550;67.8
+2021;Oklahoma;Male;White;15-24;30;190795;15.7
+2021;Oklahoma;Male;White;25-34;59;190977;30.9
+2021;Oklahoma;Male;White;35-44;58;195775;29.6
+2021;Oklahoma;Male;White;45-54;36;176148;20.4
+2021;Oklahoma;Male;White;55-64;24;190317;12.6
+2021;Oklahoma;Male;White;65-74;11;153051;7.2
+2021;Oregon;Female;White;15-24;13;205714;6.3
+2021;Oregon;Female;White;25-34;36;244925;14.7
+2021;Oregon;Female;White;35-44;46;248951;18.5
+2021;Oregon;Female;White;45-54;40;220075;18.2
+2021;Oregon;Female;White;55-64;42;241964;17.4
+2021;Oregon;Female;White;65-74;18;237101;7.6
+2021;Oregon;Male;White;15-24;58;214044;27.1
+2021;Oregon;Male;White;25-34;126;252633;49.9
+2021;Oregon;Male;White;35-44;112;258637;43.3
+2021;Oregon;Male;White;45-54;81;231391;35.0
+2021;Oregon;Male;White;55-64;77;233263;33.0
+2021;Oregon;Male;White;65-74;29;216354;13.4
+2021;Pennsylvania;Female;Black or African American;25-34;81;126705;63.9
+2021;Pennsylvania;Female;Black or African American;35-44;66;102993;64.1
+2021;Pennsylvania;Female;Black or African American;45-54;59;92608;63.7
+2021;Pennsylvania;Female;Black or African American;55-64;47;95214;49.4
+2021;Pennsylvania;Female;White;15-24;66;607996;10.9
+2021;Pennsylvania;Female;White;25-34;223;639777;34.9
+2021;Pennsylvania;Female;White;35-44;261;630492;41.4
+2021;Pennsylvania;Female;White;45-54;179;643237;27.8
+2021;Pennsylvania;Female;White;55-64;155;789863;19.6
+2021;Pennsylvania;Female;White;65-74;36;676604;5.3
+2021;Pennsylvania;Male;Black or African American;15-24;20;121271;16.5
+2021;Pennsylvania;Male;Black or African American;25-34;80;131122;61.0
+2021;Pennsylvania;Male;Black or African American;35-44;91;98696;92.2
+2021;Pennsylvania;Male;Black or African American;45-54;120;86874;138.1
+2021;Pennsylvania;Male;Black or African American;55-64;152;83085;182.9
+2021;Pennsylvania;Male;Black or African American;65-74;36;50381;71.5
+2021;Pennsylvania;Male;White;15-24;131;629029;20.8
+2021;Pennsylvania;Male;White;25-34;631;666864;94.6
+2021;Pennsylvania;Male;White;35-44;691;652824;105.8
+2021;Pennsylvania;Male;White;45-54;441;654405;67.4
+2021;Pennsylvania;Male;White;55-64;336;773251;43.5
+2021;Pennsylvania;Male;White;65-74;79;624450;12.7
+2021;Rhode Island;Female;White;25-34;23;59509;38.6
+2021;Rhode Island;Female;White;35-44;31;54834;56.5
+2021;Rhode Island;Female;White;45-54;29;57883;50.1
+2021;Rhode Island;Female;White;55-64;18;71424;25.2
+2021;Rhode Island;Male;White;15-24;13;58952;22.1
+2021;Rhode Island;Male;White;25-34;69;61724;111.8
+2021;Rhode Island;Male;White;35-44;60;55848;107.4
+2021;Rhode Island;Male;White;45-54;47;55920;84.0
+2021;Rhode Island;Male;White;55-64;36;66830;53.9
+2021;South Carolina;Female;Black or African American;25-34;16;103883;15.4
+2021;South Carolina;Female;Black or African American;35-44;15;94153;15.9
+2021;South Carolina;Female;Black or African American;45-54;12;88777;13.5
+2021;South Carolina;Female;Black or African American;55-64;17;95874;17.7
+2021;South Carolina;Female;White;15-24;46;203964;22.6
+2021;South Carolina;Female;White;25-34;111;221030;50.2
+2021;South Carolina;Female;White;35-44;92;217597;42.3
+2021;South Carolina;Female;White;45-54;118;222522;53.0
+2021;South Carolina;Female;White;55-64;70;259119;27.0
+2021;South Carolina;Female;White;65-74;18;241238;7.5
+2021;South Carolina;Male;Black or African American;15-24;12;98563;12.2
+2021;South Carolina;Male;Black or African American;25-34;58;95595;60.7
+2021;South Carolina;Male;Black or African American;35-44;64;79626;80.4
+2021;South Carolina;Male;Black or African American;45-54;48;72911;65.8
+2021;South Carolina;Male;Black or African American;55-64;39;78434;49.7
+2021;South Carolina;Male;White;15-24;76;218616;34.8
+2021;South Carolina;Male;White;25-34;253;218432;115.8
+2021;South Carolina;Male;White;35-44;270;218059;123.8
+2021;South Carolina;Male;White;45-54;182;222844;81.7
+2021;South Carolina;Male;White;55-64;120;244161;49.1
+2021;South Carolina;Male;White;65-74;32;215115;14.9
+2021;Tennessee;Female;Black or African American;15-24;18;86565;20.8
+2021;Tennessee;Female;Black or African American;25-34;53;97297;54.5
+2021;Tennessee;Female;Black or African American;35-44;50;81507;61.3
+2021;Tennessee;Female;Black or African American;45-54;18;74521;24.2
+2021;Tennessee;Female;Black or African American;55-64;21;75611;27.8
+2021;Tennessee;Female;White;15-24;48;324016;14.8
+2021;Tennessee;Female;White;25-34;188;362358;51.9
+2021;Tennessee;Female;White;35-44;212;342596;61.9
+2021;Tennessee;Female;White;45-54;195;347931;56.0
+2021;Tennessee;Female;White;55-64;131;382760;34.2
+2021;Tennessee;Female;White;65-74;23;324640;7.1
+2021;Tennessee;Male;Black or African American;15-24;36;86242;41.7
+2021;Tennessee;Male;Black or African American;25-34;127;91784;138.4
+2021;Tennessee;Male;Black or African American;35-44;152;71537;212.5
+2021;Tennessee;Male;Black or African American;45-54;74;64651;114.5
+2021;Tennessee;Male;Black or African American;55-64;60;63030;95.2
+2021;Tennessee;Male;White;15-24;105;336486;31.2
+2021;Tennessee;Male;White;25-34;393;362884;108.3
+2021;Tennessee;Male;White;35-44;486;345070;140.8
+2021;Tennessee;Male;White;45-54;315;350881;89.8
+2021;Tennessee;Male;White;55-64;239;366424;65.2
+2021;Tennessee;Male;White;65-74;33;291113;11.3
+2021;Texas;Female;Black or African American;25-34;34;319024;10.7
+2021;Texas;Female;Black or African American;35-44;37;291662;12.7
+2021;Texas;Female;Black or African American;45-54;19;245687;7.7
+2021;Texas;Female;Black or African American;55-64;24;223115;10.8
+2021;Texas;Female;White;15-24;86;1567836;5.5
+2021;Texas;Female;White;25-34;188;1570742;12.0
+2021;Texas;Female;White;35-44;169;1534775;11.0
+2021;Texas;Female;White;45-54;121;1397148;8.7
+2021;Texas;Female;White;55-64;138;1343098;10.3
+2021;Texas;Female;White;65-74;37;1044159;3.5
+2021;Texas;Male;Black or African American;15-24;34;288421;11.8
+2021;Texas;Male;Black or African American;25-34;95;314485;30.2
+2021;Texas;Male;Black or African American;35-44;67;272934;24.5
+2021;Texas;Male;Black or African American;45-54;39;226794;17.2
+2021;Texas;Male;Black or African American;55-64;32;197466;16.2
+2021;Texas;Male;Black or African American;65-74;16;114524;14.0
+2021;Texas;Male;White;15-24;248;1648122;15.0
+2021;Texas;Male;White;25-34;481;1649443;29.2
+2021;Texas;Male;White;35-44;366;1614239;22.7
+2021;Texas;Male;White;45-54;246;1429576;17.2
+2021;Texas;Male;White;55-64;160;1326686;12.1
+2021;Texas;Male;White;65-74;50;947512;5.3
+2021;Utah;Female;White;25-34;30;211042;14.2
+2021;Utah;Female;White;35-44;41;206776;19.8
+2021;Utah;Female;White;45-54;40;159172;25.1
+2021;Utah;Female;White;55-64;15;144624;10.4
+2021;Utah;Female;White;65-74;16;117785;13.6
+2021;Utah;Male;White;15-24;28;249193;11.2
+2021;Utah;Male;White;25-34;85;219341;38.8
+2021;Utah;Male;White;35-44;71;215821;32.9
+2021;Utah;Male;White;45-54;38;168225;22.6
+2021;Utah;Male;White;55-64;23;143989;16.0
+2021;Utah;Male;White;65-74;10;111631;9.0
+2021;Vermont;Female;White;25-34;12;35251;34.0
+2021;Vermont;Female;White;35-44;19;36566;52.0
+2021;Vermont;Female;White;45-54;16;36805;43.5
+2021;Vermont;Female;White;55-64;12;47188;25.4
+2021;Vermont;Male;White;15-24;11;41110;26.8
+2021;Vermont;Male;White;25-34;38;36430;104.3
+2021;Vermont;Male;White;35-44;45;36225;124.2
+2021;Vermont;Male;White;45-54;31;36846;84.1
+2021;Vermont;Male;White;55-64;12;45649;26.3
+2021;Virginia;Female;Black or African American;25-34;44;128789;34.2
+2021;Virginia;Female;Black or African American;35-44;39;118848;32.8
+2021;Virginia;Female;Black or African American;45-54;42;109232;38.5
+2021;Virginia;Female;Black or African American;55-64;19;118992;16.0
+2021;Virginia;Female;White;15-24;49;357503;13.7
+2021;Virginia;Female;White;25-34;118;381686;30.9
+2021;Virginia;Female;White;35-44;114;383345;29.7
+2021;Virginia;Female;White;45-54;82;372761;22.0
+2021;Virginia;Female;White;55-64;78;410252;19.0
+2021;Virginia;Female;White;65-74;15;337869;4.4
+2021;Virginia;Male;Black or African American;15-24;30;121742;24.6
+2021;Virginia;Male;Black or African American;25-34;103;131199;78.5
+2021;Virginia;Male;Black or African American;35-44;113;113582;99.5
+2021;Virginia;Male;Black or African American;45-54;106;99947;106.1
+2021;Virginia;Male;Black or African American;55-64;114;104100;109.5
+2021;Virginia;Male;Black or African American;65-74;28;65753;42.6
+2021;Virginia;Male;White;15-24;92;385503;23.9
+2021;Virginia;Male;White;25-34;306;395762;77.3
+2021;Virginia;Male;White;35-44;289;400510;72.2
+2021;Virginia;Male;White;45-54;200;382344;52.3
+2021;Virginia;Male;White;55-64;139;404770;34.3
+2021;Virginia;Male;White;65-74;32;307953;10.4
+2021;Washington;Female;American Indian or Alaska Native;25-34;11;11123;98.9
+2021;Washington;Female;American Indian or Alaska Native;35-44;14;9534;146.8
+2021;Washington;Female;American Indian or Alaska Native;55-64;15;7681;195.3
+2021;Washington;Female;Black or African American;45-54;12;17890;67.1
+2021;Washington;Female;White;15-24;37;333492;11.1
+2021;Washington;Female;White;25-34;68;411869;16.5
+2021;Washington;Female;White;35-44;79;400532;19.7
+2021;Washington;Female;White;45-54;86;358303;24.0
+2021;Washington;Female;White;55-64;77;398101;19.3
+2021;Washington;Female;White;65-74;22;352263;6.2
+2021;Washington;Male;American Indian or Alaska Native;25-34;15;12006;124.9
+2021;Washington;Male;American Indian or Alaska Native;35-44;14;10321;135.6
+2021;Washington;Male;American Indian or Alaska Native;55-64;11;7220;152.4
+2021;Washington;Male;Black or African American;15-24;11;25872;42.5
+2021;Washington;Male;Black or African American;25-34;30;36163;83.0
+2021;Washington;Male;Black or African American;35-44;26;31951;81.4
+2021;Washington;Male;Black or African American;45-54;23;24024;95.7
+2021;Washington;Male;Black or African American;55-64;18;20166;89.3
+2021;Washington;Male;White;15-24;83;357615;23.2
+2021;Washington;Male;White;25-34;217;444160;48.9
+2021;Washington;Male;White;35-44;212;429689;49.3
+2021;Washington;Male;White;45-54;139;378760;36.7
+2021;Washington;Male;White;55-64;155;399067;38.8
+2021;Washington;Male;White;65-74;52;326802;15.9
+2021;Washington;Male;More than one race;15-24;10;39448;25.3
+2021;Washington;Male;More than one race;25-34;21;32351;64.9
+2021;Washington;Male;More than one race;35-44;12;21778;55.1
+2021;Washington;Male;More than one race;45-54;13;13740;94.6
+2021;West Virginia;Female;White;15-24;30;95858;31.3
+2021;West Virginia;Female;White;25-34;89;95557;93.1
+2021;West Virginia;Female;White;35-44;115;98902;116.3
+2021;West Virginia;Female;White;45-54;83;105508;78.7
+2021;West Virginia;Female;White;55-64;45;120069;37.5
+2021;West Virginia;Male;Black or African American;25-34;17;6227;273.0
+2021;West Virginia;Male;Black or African American;35-44;18;5285;340.6
+2021;West Virginia;Male;Black or African American;45-54;11;4276;257.2
+2021;West Virginia;Male;White;15-24;35;101583;34.5
+2021;West Virginia;Male;White;25-34;170;99513;170.8
+2021;West Virginia;Male;White;35-44;259;100403;258.0
+2021;West Virginia;Male;White;45-54;184;107690;170.9
+2021;West Virginia;Male;White;55-64;124;116239;106.7
+2021;West Virginia;Male;White;65-74;20;103611;19.3
+2021;Wisconsin;Female;Black or African American;35-44;20;26368;75.8
+2021;Wisconsin;Female;Black or African American;45-54;15;21710;69.1
+2021;Wisconsin;Female;Black or African American;55-64;16;20047;79.8
+2021;Wisconsin;Female;White;15-24;25;317466;7.9
+2021;Wisconsin;Female;White;25-34;88;294279;29.9
+2021;Wisconsin;Female;White;35-44;104;313929;33.1
+2021;Wisconsin;Female;White;45-54;57;305161;18.7
+2021;Wisconsin;Female;White;55-64;53;381617;13.9
+2021;Wisconsin;Female;White;65-74;11;309658;3.6
+2021;Wisconsin;Male;Black or African American;25-34;36;33531;107.4
+2021;Wisconsin;Male;Black or African American;35-44;34;25002;136.0
+2021;Wisconsin;Male;Black or African American;45-54;51;21078;242.0
+2021;Wisconsin;Male;Black or African American;55-64;45;17632;255.2
+2021;Wisconsin;Male;Black or African American;65-74;18;10232;175.9
+2021;Wisconsin;Male;White;15-24;51;327552;15.6
+2021;Wisconsin;Male;White;25-34;207;312605;66.2
+2021;Wisconsin;Male;White;35-44;242;330033;73.3
+2021;Wisconsin;Male;White;45-54;145;318854;45.5
+2021;Wisconsin;Male;White;55-64;89;384157;23.2
+2021;Wisconsin;Male;White;65-74;24;300432;8.0
+2022;Alabama;Female;Black or African American;25-34;19;102976;18.5
+2022;Alabama;Female;Black or African American;35-44;24;95070;25.2
+2022;Alabama;Female;Black or African American;45-54;15;87091;17.2
+2022;Alabama;Female;White;15-24;14;218974;6.4
+2022;Alabama;Female;White;25-34;75;212809;35.2
+2022;Alabama;Female;White;35-44;79;209414;37.7
+2022;Alabama;Female;White;45-54;61;215788;28.3
+2022;Alabama;Female;White;55-64;41;239832;17.1
+2022;Alabama;Male;Black or African American;15-24;11;102718;10.7
+2022;Alabama;Male;Black or African American;25-34;57;95714;59.6
+2022;Alabama;Male;Black or African American;35-44;62;79057;78.4
+2022;Alabama;Male;Black or African American;45-54;50;71081;70.3
+2022;Alabama;Male;Black or African American;55-64;35;72667;48.2
+2022;Alabama;Male;Black or African American;65-74;12;52839;22.7
+2022;Alabama;Male;White;15-24;33;227109;14.5
+2022;Alabama;Male;White;25-34;148;216510;68.4
+2022;Alabama;Male;White;35-44;162;211720;76.5
+2022;Alabama;Male;White;45-54;98;220196;44.5
+2022;Alabama;Male;White;55-64;66;236269;27.9
+2022;Alabama;Male;White;65-74;11;190575;5.8
+2022;Alaska;Female;White;55-64;14;29150;48.0
+2022;Alaska;Male;American Indian or Alaska Native;35-44;11;7688;143.1
+2022;Alaska;Male;White;25-34;20;38568;51.9
+2022;Alaska;Male;White;35-44;21;38019;55.2
+2022;Alaska;Male;White;45-54;10;31346;31.9
+2022;Alaska;Male;White;55-64;10;33586;29.8
+2022;Arizona;Female;American Indian or Alaska Native;25-34;11;29650;37.1
+2022;Arizona;Female;American Indian or Alaska Native;35-44;12;24912;48.2
+2022;Arizona;Female;Black or African American;25-34;13;32566;39.9
+2022;Arizona;Female;White;15-24;34;385360;8.8
+2022;Arizona;Female;White;25-34;88;383888;22.9
+2022;Arizona;Female;White;35-44;77;357452;21.5
+2022;Arizona;Female;White;45-54;62;347691;17.8
+2022;Arizona;Female;White;55-64;75;383846;19.5
+2022;Arizona;Female;White;65-74;21;370324;5.7
+2022;Arizona;Female;More than one race;25-34;10;18093;55.3
+2022;Arizona;Male;American Indian or Alaska Native;15-24;14;32383;43.2
+2022;Arizona;Male;American Indian or Alaska Native;25-34;47;31069;151.3
+2022;Arizona;Male;American Indian or Alaska Native;35-44;40;24884;160.7
+2022;Arizona;Male;American Indian or Alaska Native;45-54;15;19398;77.3
+2022;Arizona;Male;Black or African American;25-34;38;38748;98.1
+2022;Arizona;Male;Black or African American;35-44;25;31427;79.5
+2022;Arizona;Male;Black or African American;45-54;14;24078;58.1
+2022;Arizona;Male;Black or African American;55-64;14;20248;69.1
+2022;Arizona;Male;White;15-24;96;407519;23.6
+2022;Arizona;Male;White;25-34;317;414999;76.4
+2022;Arizona;Male;White;35-44;310;382771;81.0
+2022;Arizona;Male;White;45-54;233;356400;65.4
+2022;Arizona;Male;White;55-64;170;369034;46.1
+2022;Arizona;Male;White;65-74;48;329552;14.6
+2022;Arizona;Male;More than one race;25-34;15;18779;79.9
+2022;Arizona;Male;More than one race;35-44;12;11980;100.2
+2022;Arkansas;Female;White;15-24;13;151073;8.6
+2022;Arkansas;Female;White;25-34;23;148407;15.5
+2022;Arkansas;Female;White;35-44;33;146647;22.5
+2022;Arkansas;Female;White;45-54;33;142693;23.1
+2022;Arkansas;Female;White;55-64;22;156832;14.0
+2022;Arkansas;Male;Black or African American;25-34;13;34744;37.4
+2022;Arkansas;Male;Black or African American;35-44;11;28349;38.8
+2022;Arkansas;Male;Black or African American;55-64;10;24077;41.5
+2022;Arkansas;Male;White;15-24;18;159315;11.3
+2022;Arkansas;Male;White;25-34;42;151915;27.6
+2022;Arkansas;Male;White;35-44;71;152104;46.7
+2022;Arkansas;Male;White;45-54;29;147238;19.7
+2022;Arkansas;Male;White;55-64;15;154637;9.7
+2022;California;Female;Asian;25-34;14;482115;2.9
+2022;California;Female;Black or African American;15-24;17;165366;10.3
+2022;California;Female;Black or African American;25-34;41;198321;20.7
+2022;California;Female;Black or African American;35-44;47;170767;27.5
+2022;California;Female;Black or African American;45-54;37;154229;24.0
+2022;California;Female;Black or African American;55-64;51;162526;31.4
+2022;California;Female;Black or African American;65-74;23;115798;19.9
+2022;California;Female;White;15-24;131;1808275;7.2
+2022;California;Female;White;25-34;267;1909504;14.0
+2022;California;Female;White;35-44;254;1780240;14.3
+2022;California;Female;White;45-54;221;1660413;13.3
+2022;California;Female;White;55-64;247;1677360;14.7
+2022;California;Female;White;65-74;98;1361928;7.2
+2022;California;Female;White;75-84;18;776025;2.3
+2022;California;Female;More than one race;15-24;17;155046;11.0
+2022;California;Female;More than one race;25-34;13;126621;10.3
+2022;California;Female;More than one race;35-44;13;95269;13.6
+2022;California;Female;More than one race;45-54;12;67584;17.8
+2022;California;Female;More than one race;55-64;10;55093;18.2
+2022;California;Male;American Indian or Alaska Native;25-34;23;56216;40.9
+2022;California;Male;American Indian or Alaska Native;35-44;17;52254;32.5
+2022;California;Male;American Indian or Alaska Native;55-64;19;36765;51.7
+2022;California;Male;Asian;15-24;13;360877;3.6
+2022;California;Male;Asian;25-34;58;486625;11.9
+2022;California;Male;Asian;35-44;41;468573;8.7
+2022;California;Male;Asian;45-54;30;416361;7.2
+2022;California;Male;Asian;55-64;23;355609;6.5
+2022;California;Male;Black or African American;15-24;46;177184;26.0
+2022;California;Male;Black or African American;25-34;144;222528;64.7
+2022;California;Male;Black or African American;35-44;134;184887;72.5
+2022;California;Male;Black or African American;45-54;116;157616;73.6
+2022;California;Male;Black or African American;55-64;135;156840;86.1
+2022;California;Male;Black or African American;65-74;55;96268;57.1
+2022;California;Male;White;15-24;386;1908594;20.2
+2022;California;Male;White;25-34;1296;2051878;63.2
+2022;California;Male;White;35-44;1175;1960827;59.9
+2022;California;Male;White;45-54;830;1769479;46.9
+2022;California;Male;White;55-64;669;1718403;38.9
+2022;California;Male;White;65-74;230;1250735;18.4
+2022;California;Male;White;75-84;27;622617;4.3
+2022;California;Male;White;85+;11;197107;5.6
+2022;California;Male;More than one race;15-24;32;161637;19.8
+2022;California;Male;More than one race;25-34;70;130037;53.8
+2022;California;Male;More than one race;35-44;53;92641;57.2
+2022;California;Male;More than one race;45-54;38;63638;59.7
+2022;California;Male;More than one race;55-64;17;50688;33.5
+2022;Colorado;Female;Black or African American;25-34;10;21808;45.9
+2022;Colorado;Female;White;15-24;30;310948;9.6
+2022;Colorado;Female;White;25-34;85;367800;23.1
+2022;Colorado;Female;White;35-44;87;346755;25.1
+2022;Colorado;Female;White;45-54;45;297312;15.1
+2022;Colorado;Female;White;55-64;49;309182;15.8
+2022;Colorado;Female;White;65-74;17;267082;6.4
+2022;Colorado;Male;Black or African American;25-34;26;29089;89.4
+2022;Colorado;Male;Black or African American;35-44;13;23683;54.9
+2022;Colorado;Male;Black or African American;45-54;10;18257;54.8
+2022;Colorado;Male;White;15-24;80;337849;23.7
+2022;Colorado;Male;White;25-34;213;406100;52.5
+2022;Colorado;Male;White;35-44;192;382568;50.2
+2022;Colorado;Male;White;45-54;95;322173;29.5
+2022;Colorado;Male;White;55-64;100;304905;32.8
+2022;Colorado;Male;White;65-74;27;248490;10.9
+2022;Connecticut;Female;Black or African American;25-34;12;36182;33.2
+2022;Connecticut;Female;Black or African American;35-44;22;34451;63.9
+2022;Connecticut;Female;Black or African American;45-54;14;31818;44.0
+2022;Connecticut;Female;Black or African American;55-64;18;29802;60.4
+2022;Connecticut;Female;White;25-34;55;162884;33.8
+2022;Connecticut;Female;White;35-44;75;172854;43.4
+2022;Connecticut;Female;White;45-54;62;179587;34.5
+2022;Connecticut;Female;White;55-64;64;220561;29.0
+2022;Connecticut;Male;Black or African American;25-34;30;36842;81.4
+2022;Connecticut;Male;Black or African American;35-44;36;31546;114.1
+2022;Connecticut;Male;Black or African American;45-54;32;26958;118.7
+2022;Connecticut;Male;Black or African American;55-64;52;24807;209.6
+2022;Connecticut;Male;Black or African American;65-74;15;13583;110.4
+2022;Connecticut;Male;White;15-24;21;186109;11.3
+2022;Connecticut;Male;White;25-34;151;169803;88.9
+2022;Connecticut;Male;White;35-44;197;173933;113.3
+2022;Connecticut;Male;White;45-54;186;176155;105.6
+2022;Connecticut;Male;White;55-64;175;213250;82.1
+2022;Connecticut;Male;White;65-74;64;157894;40.5
+2022;Delaware;Female;Black or African American;25-34;15;17548;85.5
+2022;Delaware;Female;White;25-34;22;40469;54.4
+2022;Delaware;Female;White;35-44;31;39860;77.8
+2022;Delaware;Female;White;45-54;23;39386;58.4
+2022;Delaware;Female;White;55-64;23;54876;41.9
+2022;Delaware;Male;Black or African American;25-34;16;16539;96.7
+2022;Delaware;Male;Black or African American;35-44;15;14218;105.5
+2022;Delaware;Male;Black or African American;45-54;26;13355;194.7
+2022;Delaware;Male;Black or African American;55-64;27;13951;193.5
+2022;Delaware;Male;White;15-24;10;38414;26.0
+2022;Delaware;Male;White;25-34;48;41156;116.6
+2022;Delaware;Male;White;35-44;63;40934;153.9
+2022;Delaware;Male;White;45-54;62;38530;160.9
+2022;Delaware;Male;White;55-64;39;50781;76.8
+2022;Delaware;Male;White;65-74;18;47631;37.8
+2022;District of Columbia;Female;Black or African American;35-44;18;21885;82.2
+2022;District of Columbia;Female;Black or African American;45-54;15;17483;85.8
+2022;District of Columbia;Female;Black or African American;55-64;40;19806;202.0
+2022;District of Columbia;Female;Black or African American;65-74;11;16852;65.3
+2022;District of Columbia;Male;Black or African American;25-34;21;23609;88.9
+2022;District of Columbia;Male;Black or African American;35-44;28;18126;154.5
+2022;District of Columbia;Male;Black or African American;45-54;30;15125;198.3
+2022;District of Columbia;Male;Black or African American;55-64;85;16218;524.1
+2022;District of Columbia;Male;Black or African American;65-74;44;11406;385.8
+2022;District of Columbia;Male;White;35-44;10;31805;31.4
+2022;Florida;Female;Black or African American;25-34;40;288401;13.9
+2022;Florida;Female;Black or African American;35-44;45;264589;17.0
+2022;Florida;Female;Black or African American;45-54;31;234354;13.2
+2022;Florida;Female;Black or African American;55-64;27;224290;12.0
+2022;Florida;Female;White;15-24;68;909267;7.5
+2022;Florida;Female;White;25-34;310;988301;31.4
+2022;Florida;Female;White;35-44;424;1015365;41.8
+2022;Florida;Female;White;45-54;314;1046541;30.0
+2022;Florida;Female;White;55-64;243;1242241;19.6
+2022;Florida;Female;White;65-74;65;1171664;5.5
+2022;Florida;Female;White;75-84;15;764575;2.0
+2022;Florida;Male;Asian;35-44;10;50968;19.6
+2022;Florida;Male;Black or African American;15-24;29;277916;10.4
+2022;Florida;Male;Black or African American;25-34;110;290264;37.9
+2022;Florida;Male;Black or African American;35-44;143;250296;57.1
+2022;Florida;Male;Black or African American;45-54;112;212736;52.6
+2022;Florida;Male;Black or African American;55-64;108;198613;54.4
+2022;Florida;Male;Black or African American;65-74;33;131072;25.2
+2022;Florida;Male;White;15-24;175;954143;18.3
+2022;Florida;Male;White;25-34;781;1041638;75.0
+2022;Florida;Male;White;35-44;996;1067845;93.3
+2022;Florida;Male;White;45-54;701;1067455;65.7
+2022;Florida;Male;White;55-64;543;1189001;45.7
+2022;Florida;Male;White;65-74;132;1030812;12.8
+2022;Florida;Male;White;75-84;15;643583;2.3
+2022;Florida;Male;More than one race;35-44;14;26249;53.3
+2022;Georgia;Female;Black or African American;15-24;10;271559;3.7
+2022;Georgia;Female;Black or African American;25-34;37;289777;12.8
+2022;Georgia;Female;Black or African American;35-44;52;269295;19.3
+2022;Georgia;Female;Black or African American;45-54;27;246886;10.9
+2022;Georgia;Female;Black or African American;55-64;24;228997;10.5
+2022;Georgia;Female;White;15-24;44;413398;10.6
+2022;Georgia;Female;White;25-34;96;406475;23.6
+2022;Georgia;Female;White;35-44;125;405327;30.8
+2022;Georgia;Female;White;45-54;96;411131;23.4
+2022;Georgia;Female;White;55-64;63;422007;14.9
+2022;Georgia;Female;White;65-74;21;353290;5.9
+2022;Georgia;Male;Black or African American;15-24;32;269310;11.9
+2022;Georgia;Male;Black or African American;25-34;98;267263;36.7
+2022;Georgia;Male;Black or African American;35-44;100;226815;44.1
+2022;Georgia;Male;Black or African American;45-54;78;205729;37.9
+2022;Georgia;Male;Black or African American;55-64;58;189412;30.6
+2022;Georgia;Male;Black or African American;65-74;17;116437;14.6
+2022;Georgia;Male;White;15-24;77;441770;17.4
+2022;Georgia;Male;White;25-34;289;421317;68.6
+2022;Georgia;Male;White;35-44;309;418676;73.8
+2022;Georgia;Male;White;45-54;155;426706;36.3
+2022;Georgia;Male;White;55-64;96;422251;22.7
+2022;Georgia;Male;White;65-74;27;316422;8.5
+2022;Hawaii;Male;White;35-44;12;29190;41.1
+2022;Idaho;Female;White;25-34;23;110972;20.7
+2022;Idaho;Female;White;35-44;17;114294;14.9
+2022;Idaho;Female;White;45-54;23;99539;23.1
+2022;Idaho;Female;White;55-64;15;107612;13.9
+2022;Idaho;Male;White;15-24;14;129966;10.8
+2022;Idaho;Male;White;25-34;56;117629;47.6
+2022;Idaho;Male;White;35-44;44;120023;36.7
+2022;Idaho;Male;White;45-54;21;106018;19.8
+2022;Idaho;Male;White;55-64;13;106646;12.2
+2022;Illinois;Female;Black or African American;15-24;17;131628;12.9
+2022;Illinois;Female;Black or African American;25-34;35;145737;24.0
+2022;Illinois;Female;Black or African American;35-44;34;123628;27.5
+2022;Illinois;Female;Black or African American;45-54;61;118627;51.4
+2022;Illinois;Female;Black or African American;55-64;117;119962;97.5
+2022;Illinois;Female;Black or African American;65-74;32;92764;34.5
+2022;Illinois;Female;White;15-24;43;598761;7.2
+2022;Illinois;Female;White;25-34;129;600502;21.5
+2022;Illinois;Female;White;35-44;147;613188;24.0
+2022;Illinois;Female;White;45-54;110;583584;18.8
+2022;Illinois;Female;White;55-64;72;639415;11.3
+2022;Illinois;Female;White;65-74;22;531436;4.1
+2022;Illinois;Male;Black or African American;15-24;36;133826;26.9
+2022;Illinois;Male;Black or African American;25-34;110;141645;77.7
+2022;Illinois;Male;Black or African American;35-44;149;111099;134.1
+2022;Illinois;Male;Black or African American;45-54;229;100144;228.7
+2022;Illinois;Male;Black or African American;55-64;343;99088;346.2
+2022;Illinois;Male;Black or African American;65-74;122;64735;188.5
+2022;Illinois;Male;White;15-24;85;631756;13.5
+2022;Illinois;Male;White;25-34;339;629546;53.8
+2022;Illinois;Male;White;35-44;396;649683;61.0
+2022;Illinois;Male;White;45-54;267;615096;43.4
+2022;Illinois;Male;White;55-64;182;644308;28.2
+2022;Illinois;Male;White;65-74;35;492735;7.1
+2022;Indiana;Female;Black or African American;15-24;10;53570;18.7
+2022;Indiana;Female;Black or African American;25-34;22;55696;39.5
+2022;Indiana;Female;Black or African American;35-44;25;48017;52.1
+2022;Indiana;Female;Black or African American;55-64;15;38497;39.0
+2022;Indiana;Female;White;15-24;52;375227;13.9
+2022;Indiana;Female;White;25-34;153;356052;43.0
+2022;Indiana;Female;White;35-44;149;353273;42.2
+2022;Indiana;Female;White;45-54;102;343253;29.7
+2022;Indiana;Female;White;55-64;74;381671;19.4
+2022;Indiana;Female;White;65-74;15;323815;4.6
+2022;Indiana;Male;Black or African American;15-24;13;56002;23.2
+2022;Indiana;Male;Black or African American;25-34;59;55764;105.8
+2022;Indiana;Male;Black or African American;35-44;55;44999;122.2
+2022;Indiana;Male;Black or African American;45-54;65;37900;171.5
+2022;Indiana;Male;Black or African American;55-64;49;33421;146.6
+2022;Indiana;Male;Black or African American;65-74;29;21279;136.3
+2022;Indiana;Male;White;15-24;103;396414;26.0
+2022;Indiana;Male;White;25-34;304;369876;82.2
+2022;Indiana;Male;White;35-44;339;363985;93.1
+2022;Indiana;Male;White;45-54;199;355905;55.9
+2022;Indiana;Male;White;55-64;156;377310;41.3
+2022;Indiana;Male;White;65-74;25;297304;8.4
+2022;Iowa;Female;White;25-34;13;166425;7.8
+2022;Iowa;Female;White;35-44;11;174257;6.3
+2022;Iowa;Female;White;45-54;16;160614;10.0
+2022;Iowa;Female;White;55-64;10;190230;5.3
+2022;Iowa;Male;White;15-24;16;203433;7.9
+2022;Iowa;Male;White;25-34;56;176383;31.7
+2022;Iowa;Male;White;35-44;29;184348;15.7
+2022;Iowa;Male;White;45-54;12;168412;7.1
+2022;Iowa;Male;White;55-64;11;190095;5.8
+2022;Kansas;Female;White;15-24;13;169844;7.7
+2022;Kansas;Female;White;25-34;23;150327;15.3
+2022;Kansas;Female;White;35-44;34;157645;21.6
+2022;Kansas;Female;White;45-54;24;139463;17.2
+2022;Kansas;Female;White;55-64;25;160685;15.6
+2022;Kansas;Male;Black or African American;25-34;11;16176;68.0
+2022;Kansas;Male;Black or African American;35-44;13;13267;98.0
+2022;Kansas;Male;White;15-24;51;185327;27.5
+2022;Kansas;Male;White;25-34;71;160178;44.3
+2022;Kansas;Male;White;35-44;75;165224;45.4
+2022;Kansas;Male;White;45-54;36;145615;24.7
+2022;Kansas;Male;White;55-64;36;157904;22.8
+2022;Kansas;Male;White;65-74;11;131194;8.4
+2022;Kentucky;Female;Black or African American;25-34;17;28169;60.4
+2022;Kentucky;Female;Black or African American;35-44;25;24539;101.9
+2022;Kentucky;Female;Black or African American;45-54;13;22085;58.9
+2022;Kentucky;Female;White;15-24;35;241741;14.5
+2022;Kentucky;Female;White;25-34;95;245668;38.7
+2022;Kentucky;Female;White;35-44;160;241889;66.1
+2022;Kentucky;Female;White;45-54;119;243856;48.8
+2022;Kentucky;Female;White;55-64;73;270081;27.0
+2022;Kentucky;Female;White;65-74;19;230099;8.3
+2022;Kentucky;Male;Black or African American;25-34;48;33184;144.6
+2022;Kentucky;Male;Black or African American;35-44;40;25956;154.1
+2022;Kentucky;Male;Black or African American;45-54;30;22060;136.0
+2022;Kentucky;Male;Black or African American;55-64;20;21241;94.2
+2022;Kentucky;Male;White;15-24;53;256291;20.7
+2022;Kentucky;Male;White;25-34;220;256229;85.9
+2022;Kentucky;Male;White;35-44;331;245996;134.6
+2022;Kentucky;Male;White;45-54;217;248419;87.4
+2022;Kentucky;Male;White;55-64;159;259615;61.2
+2022;Kentucky;Male;White;65-74;31;206317;15.0
+2022;Louisiana;Female;Black or African American;25-34;28;111154;25.2
+2022;Louisiana;Female;Black or African American;35-44;27;104563;25.8
+2022;Louisiana;Female;Black or African American;45-54;10;86305;11.6
+2022;Louisiana;Female;Black or African American;55-64;10;94019;10.6
+2022;Louisiana;Female;White;15-24;23;170106;13.5
+2022;Louisiana;Female;White;25-34;76;178514;42.6
+2022;Louisiana;Female;White;35-44;91;186607;48.8
+2022;Louisiana;Female;White;45-54;73;169152;43.2
+2022;Louisiana;Female;White;55-64;53;195253;27.1
+2022;Louisiana;Female;White;65-74;14;170362;8.2
+2022;Louisiana;Male;Black or African American;15-24;12;116235;10.3
+2022;Louisiana;Male;Black or African American;25-34;62;106667;58.1
+2022;Louisiana;Male;Black or African American;35-44;103;92328;111.6
+2022;Louisiana;Male;Black or African American;45-54;75;73824;101.6
+2022;Louisiana;Male;Black or African American;55-64;38;77948;48.8
+2022;Louisiana;Male;White;15-24;46;178484;25.8
+2022;Louisiana;Male;White;25-34;139;182841;76.0
+2022;Louisiana;Male;White;35-44;212;193994;109.3
+2022;Louisiana;Male;White;45-54;112;174808;64.1
+2022;Louisiana;Male;White;55-64;93;191696;48.5
+2022;Louisiana;Male;White;65-74;23;156776;14.7
+2022;Maine;Female;White;25-34;30;76817;39.1
+2022;Maine;Female;White;35-44;42;78679;53.4
+2022;Maine;Female;White;45-54;41;80106;51.2
+2022;Maine;Female;White;55-64;20;103675;19.3
+2022;Maine;Male;White;15-24;22;73327;30.0
+2022;Maine;Male;White;25-34;88;78383;112.3
+2022;Maine;Male;White;35-44;152;78868;192.7
+2022;Maine;Male;White;45-54;81;79367;102.1
+2022;Maine;Male;White;55-64;75;98652;76.0
+2022;Maine;Male;White;65-74;18;86505;20.8
+2022;Maryland;Female;Black or African American;25-34;40;144475;27.7
+2022;Maryland;Female;Black or African American;35-44;43;142420;30.2
+2022;Maryland;Female;Black or African American;45-54;55;135124;40.7
+2022;Maryland;Female;Black or African American;55-64;74;140325;52.7
+2022;Maryland;Female;Black or African American;65-74;23;100793;22.8
+2022;Maryland;Female;White;15-24;25;204484;12.2
+2022;Maryland;Female;White;25-34;81;214163;37.8
+2022;Maryland;Female;White;35-44;104;228779;45.5
+2022;Maryland;Female;White;45-54;72;214296;33.6
+2022;Maryland;Female;White;55-64;75;250842;29.9
+2022;Maryland;Female;White;65-74;18;203546;8.8
+2022;Maryland;Male;Black or African American;15-24;25;128290;19.5
+2022;Maryland;Male;Black or African American;25-34;111;136211;81.5
+2022;Maryland;Male;Black or African American;35-44;107;125127;85.5
+2022;Maryland;Male;Black or African American;45-54;174;116204;149.7
+2022;Maryland;Male;Black or African American;55-64;233;117777;197.8
+2022;Maryland;Male;Black or African American;65-74;78;71477;109.1
+2022;Maryland;Male;White;15-24;45;214733;21.0
+2022;Maryland;Male;White;25-34;200;223334;89.6
+2022;Maryland;Male;White;35-44;254;240696;105.5
+2022;Maryland;Male;White;45-54;162;220103;73.6
+2022;Maryland;Male;White;55-64;144;248836;57.9
+2022;Maryland;Male;White;65-74;43;186636;23.0
+2022;Massachusetts;Female;Black or African American;25-34;18;51046;35.3
+2022;Massachusetts;Female;Black or African American;35-44;15;45913;32.7
+2022;Massachusetts;Female;Black or African American;45-54;14;40565;34.5
+2022;Massachusetts;Female;Black or African American;55-64;13;37065;35.1
+2022;Massachusetts;Female;White;15-24;18;356932;5.0
+2022;Massachusetts;Female;White;25-34;93;362031;25.7
+2022;Massachusetts;Female;White;35-44;168;345440;48.6
+2022;Massachusetts;Female;White;45-54;120;345495;34.7
+2022;Massachusetts;Female;White;55-64;118;414607;28.5
+2022;Massachusetts;Female;White;65-74;25;341321;7.3
+2022;Massachusetts;Male;Black or African American;15-24;11;49533;22.2
+2022;Massachusetts;Male;Black or African American;25-34;50;54286;92.1
+2022;Massachusetts;Male;Black or African American;35-44;54;45874;117.7
+2022;Massachusetts;Male;Black or African American;45-54;50;37851;132.1
+2022;Massachusetts;Male;Black or African American;55-64;58;34083;170.2
+2022;Massachusetts;Male;Black or African American;65-74;18;19319;93.2
+2022;Massachusetts;Male;White;15-24;67;360106;18.6
+2022;Massachusetts;Male;White;25-34;251;371519;67.6
+2022;Massachusetts;Male;White;35-44;406;349561;116.1
+2022;Massachusetts;Male;White;45-54;311;340166;91.4
+2022;Massachusetts;Male;White;55-64;303;398643;76.0
+2022;Massachusetts;Male;White;65-74;67;304030;22.0
+2022;Michigan;Female;Black or African American;15-24;15;101103;14.8
+2022;Michigan;Female;Black or African American;25-34;45;113001;39.8
+2022;Michigan;Female;Black or African American;35-44;38;86701;43.8
+2022;Michigan;Female;Black or African American;45-54;32;91590;34.9
+2022;Michigan;Female;Black or African American;55-64;36;86703;41.5
+2022;Michigan;Female;Black or African American;65-74;16;70258;22.8
+2022;Michigan;Female;White;15-24;28;487834;5.7
+2022;Michigan;Female;White;25-34;111;475916;23.3
+2022;Michigan;Female;White;35-44;144;466525;30.9
+2022;Michigan;Female;White;45-54;121;467928;25.9
+2022;Michigan;Female;White;55-64;76;570316;13.3
+2022;Michigan;Female;White;65-74;20;498361;4.0
+2022;Michigan;Male;Black or African American;15-24;15;103813;14.4
+2022;Michigan;Male;Black or African American;25-34;85;111480;76.2
+2022;Michigan;Male;Black or African American;35-44;98;80063;122.4
+2022;Michigan;Male;Black or African American;45-54;92;78673;116.9
+2022;Michigan;Male;Black or African American;55-64;148;73385;201.7
+2022;Michigan;Male;Black or African American;65-74;70;50832;137.7
+2022;Michigan;Male;White;15-24;44;515424;8.5
+2022;Michigan;Male;White;25-34;293;508115;57.7
+2022;Michigan;Male;White;35-44;324;488335;66.3
+2022;Michigan;Male;White;45-54;249;486202;51.2
+2022;Michigan;Male;White;55-64;173;569161;30.4
+2022;Michigan;Male;White;65-74;55;466228;11.8
+2022;Minnesota;Female;American Indian or Alaska Native;25-34;17;5513;308.4
+2022;Minnesota;Female;American Indian or Alaska Native;35-44;16;4826;331.5
+2022;Minnesota;Female;Black or African American;25-34;11;34131;32.2
+2022;Minnesota;Female;Black or African American;35-44;11;30963;35.5
+2022;Minnesota;Female;Black or African American;45-54;12;21776;55.1
+2022;Minnesota;Female;White;15-24;32;282192;11.3
+2022;Minnesota;Female;White;25-34;35;279175;12.5
+2022;Minnesota;Female;White;35-44;36;303902;11.8
+2022;Minnesota;Female;White;45-54;28;271808;10.3
+2022;Minnesota;Female;White;55-64;28;332731;8.4
+2022;Minnesota;Male;American Indian or Alaska Native;25-34;17;5680;299.3
+2022;Minnesota;Male;American Indian or Alaska Native;35-44;19;5089;373.4
+2022;Minnesota;Male;American Indian or Alaska Native;45-54;15;3972;377.6
+2022;Minnesota;Male;Black or African American;15-24;13;36695;35.4
+2022;Minnesota;Male;Black or African American;25-34;45;36089;124.7
+2022;Minnesota;Male;Black or African American;35-44;41;34607;118.5
+2022;Minnesota;Male;Black or African American;45-54;30;24149;124.2
+2022;Minnesota;Male;Black or African American;55-64;55;17522;313.9
+2022;Minnesota;Male;White;15-24;49;294021;16.7
+2022;Minnesota;Male;White;25-34;134;297350;45.1
+2022;Minnesota;Male;White;35-44;123;324298;37.9
+2022;Minnesota;Male;White;45-54;70;288454;24.3
+2022;Minnesota;Male;White;55-64;53;335898;15.8
+2022;Minnesota;Male;White;65-74;15;267412;5.6
+2022;Minnesota;Male;More than one race;25-34;12;11583;103.6
+2022;Mississippi;Female;Black or African American;35-44;10;77022;13.0
+2022;Mississippi;Female;White;25-34;27;101957;26.5
+2022;Mississippi;Female;White;35-44;40;103181;38.8
+2022;Mississippi;Female;White;45-54;31;104284;29.7
+2022;Mississippi;Female;White;55-64;18;116616;15.4
+2022;Mississippi;Male;Black or African American;25-34;19;75869;25.0
+2022;Mississippi;Male;Black or African American;35-44;29;65872;44.0
+2022;Mississippi;Male;Black or African American;45-54;11;58312;18.9
+2022;Mississippi;Male;Black or African American;55-64;12;58636;20.5
+2022;Mississippi;Male;White;15-24;30;115614;25.9
+2022;Mississippi;Male;White;25-34;62;104691;59.2
+2022;Mississippi;Male;White;35-44;94;106105;88.6
+2022;Mississippi;Male;White;45-54;57;108063;52.7
+2022;Mississippi;Male;White;55-64;38;115978;32.8
+2022;Missouri;Female;Black or African American;25-34;24;57295;41.9
+2022;Missouri;Female;Black or African American;35-44;27;48687;55.5
+2022;Missouri;Female;Black or African American;45-54;20;43055;46.5
+2022;Missouri;Female;Black or African American;55-64;21;44523;47.2
+2022;Missouri;Female;White;15-24;35;316820;11.0
+2022;Missouri;Female;White;25-34;93;317270;29.3
+2022;Missouri;Female;White;35-44;112;320864;34.9
+2022;Missouri;Female;White;45-54;54;296238;18.2
+2022;Missouri;Female;White;55-64;51;349074;14.6
+2022;Missouri;Female;White;65-74;15;300802;5.0
+2022;Missouri;Male;Black or African American;15-24;18;55587;32.4
+2022;Missouri;Male;Black or African American;25-34;75;55656;134.8
+2022;Missouri;Male;Black or African American;35-44;80;43460;184.1
+2022;Missouri;Male;Black or African American;45-54;68;37424;181.7
+2022;Missouri;Male;Black or African American;55-64;76;37649;201.9
+2022;Missouri;Male;Black or African American;65-74;28;24409;114.7
+2022;Missouri;Male;White;15-24;84;333476;25.2
+2022;Missouri;Male;White;25-34;228;327244;69.7
+2022;Missouri;Male;White;35-44;213;332865;64.0
+2022;Missouri;Male;White;45-54;98;304966;32.1
+2022;Missouri;Male;White;55-64;65;343414;18.9
+2022;Missouri;Male;White;65-74;23;273680;8.4
+2022;Montana;Male;White;25-34;23;66029;34.8
+2022;Montana;Male;White;35-44;22;67037;32.8
+2022;Montana;Male;White;45-54;11;58000;19.0
+2022;Nebraska;Female;White;25-34;11;103090;10.7
+2022;Nebraska;Female;White;35-44;10;109026;9.2
+2022;Nebraska;Male;White;25-34;17;109395;15.5
+2022;Nebraska;Male;White;35-44;18;115721;15.6
+2022;Nevada;Female;White;15-24;18;131690;13.7
+2022;Nevada;Female;White;25-34;24;152019;15.8
+2022;Nevada;Female;White;35-44;57;147822;38.6
+2022;Nevada;Female;White;45-54;35;139310;25.1
+2022;Nevada;Female;White;55-64;34;144198;23.6
+2022;Nevada;Female;White;65-74;14;128059;10.9
+2022;Nevada;Male;Black or African American;25-34;17;30321;56.1
+2022;Nevada;Male;Black or African American;35-44;14;24003;58.3
+2022;Nevada;Male;White;15-24;26;140186;18.5
+2022;Nevada;Male;White;25-34;97;165038;58.8
+2022;Nevada;Male;White;35-44;92;164860;55.8
+2022;Nevada;Male;White;45-54;44;153808;28.6
+2022;Nevada;Male;White;55-64;41;154517;26.5
+2022;Nevada;Male;White;65-74;26;123956;21.0
+2022;New Hampshire;Female;White;25-34;30;77688;38.6
+2022;New Hampshire;Female;White;35-44;29;76381;38.0
+2022;New Hampshire;Female;White;45-54;29;79732;36.4
+2022;New Hampshire;Female;White;55-64;15;103965;14.4
+2022;New Hampshire;Male;White;15-24;10;77416;12.9
+2022;New Hampshire;Male;White;25-34;71;84358;84.2
+2022;New Hampshire;Male;White;35-44;90;80420;111.9
+2022;New Hampshire;Male;White;45-54;57;80187;71.1
+2022;New Hampshire;Male;White;55-64;54;102681;52.6
+2022;New Hampshire;Male;White;65-74;13;79673;16.3
+2022;New Jersey;Female;Black or African American;25-34;33;107046;30.8
+2022;New Jersey;Female;Black or African American;35-44;37;99813;37.1
+2022;New Jersey;Female;Black or African American;45-54;45;97241;46.3
+2022;New Jersey;Female;Black or African American;55-64;69;94614;72.9
+2022;New Jersey;Female;Black or African American;65-74;12;62516;19.2
+2022;New Jersey;Female;White;15-24;19;386225;4.9
+2022;New Jersey;Female;White;25-34;71;387129;18.3
+2022;New Jersey;Female;White;35-44;120;401383;29.9
+2022;New Jersey;Female;White;45-54;117;413984;28.3
+2022;New Jersey;Female;White;55-64;101;478543;21.1
+2022;New Jersey;Female;White;65-74;17;381782;4.5
+2022;New Jersey;Male;Black or African American;15-24;15;98369;15.2
+2022;New Jersey;Male;Black or African American;25-34;78;108828;71.7
+2022;New Jersey;Male;Black or African American;35-44;90;94699;95.0
+2022;New Jersey;Male;Black or African American;45-54;131;85989;152.3
+2022;New Jersey;Male;Black or African American;55-64;170;80851;210.3
+2022;New Jersey;Male;Black or African American;65-74;56;45305;123.6
+2022;New Jersey;Male;White;15-24;59;408252;14.5
+2022;New Jersey;Male;White;25-34;341;406322;83.9
+2022;New Jersey;Male;White;35-44;379;420754;90.1
+2022;New Jersey;Male;White;45-54;306;422957;72.3
+2022;New Jersey;Male;White;55-64;233;471238;49.4
+2022;New Jersey;Male;White;65-74;52;343673;15.1
+2022;New Jersey;Male;White;75-84;12;170289;7.0
+2022;New Mexico;Female;White;15-24;17;110590;15.4
+2022;New Mexico;Female;White;25-34;39;104412;37.4
+2022;New Mexico;Female;White;35-44;51;105477;48.4
+2022;New Mexico;Female;White;45-54;35;96137;36.4
+2022;New Mexico;Female;White;55-64;36;113562;31.7
+2022;New Mexico;Female;White;65-74;15;110620;13.6
+2022;New Mexico;Male;American Indian or Alaska Native;25-34;16;17643;90.7
+2022;New Mexico;Male;American Indian or Alaska Native;35-44;24;15509;154.7
+2022;New Mexico;Male;White;15-24;41;119150;34.4
+2022;New Mexico;Male;White;25-34;99;112912;87.7
+2022;New Mexico;Male;White;35-44;115;111694;103.0
+2022;New Mexico;Male;White;45-54;78;96766;80.6
+2022;New Mexico;Male;White;55-64;76;107856;70.5
+2022;New Mexico;Male;White;65-74;20;99468;20.1
+2022;New York;Female;Black or African American;15-24;10;234578;4.3
+2022;New York;Female;Black or African American;25-34;59;270770;21.8
+2022;New York;Female;Black or African American;35-44;73;237255;30.8
+2022;New York;Female;Black or African American;45-54;86;229790;37.4
+2022;New York;Female;Black or African American;55-64;115;245471;46.8
+2022;New York;Female;Black or African American;65-74;28;172032;16.3
+2022;New York;Female;White;15-24;48;822179;5.8
+2022;New York;Female;White;25-34;219;889374;24.6
+2022;New York;Female;White;35-44;255;828694;30.8
+2022;New York;Female;White;45-54;186;809731;23.0
+2022;New York;Female;White;55-64;178;944212;18.9
+2022;New York;Female;White;65-74;49;796520;6.2
+2022;New York;Male;Asian;25-34;26;143791;18.1
+2022;New York;Male;Asian;35-44;12;132926;9.0
+2022;New York;Male;Black or African American;15-24;23;234433;9.8
+2022;New York;Male;Black or African American;25-34;115;270324;42.5
+2022;New York;Male;Black or African American;35-44;186;219928;84.6
+2022;New York;Male;Black or African American;45-54;232;196665;118.0
+2022;New York;Male;Black or African American;55-64;370;202118;183.1
+2022;New York;Male;Black or African American;65-74;148;125725;117.7
+2022;New York;Male;Black or African American;75-84;12;53554;22.4
+2022;New York;Male;White;15-24;130;846924;15.3
+2022;New York;Male;White;25-34;643;914758;70.3
+2022;New York;Male;White;35-44;743;872238;85.2
+2022;New York;Male;White;45-54;632;834039;75.8
+2022;New York;Male;White;55-64;507;932043;54.4
+2022;New York;Male;White;65-74;136;720627;18.9
+2022;New York;Male;White;75-84;16;360722;4.4
+2022;New York;Male;More than one race;25-34;13;41100;31.6
+2022;North Carolina;Female;Black or African American;15-24;24;175747;13.7
+2022;North Carolina;Female;Black or African American;25-34;66;180908;36.5
+2022;North Carolina;Female;Black or African American;35-44;55;161139;34.1
+2022;North Carolina;Female;Black or African American;45-54;33;157869;20.9
+2022;North Carolina;Female;Black or African American;55-64;29;155665;18.6
+2022;North Carolina;Female;White;15-24;82;464510;17.7
+2022;North Carolina;Female;White;25-34;204;472870;43.1
+2022;North Carolina;Female;White;35-44;240;462743;51.9
+2022;North Carolina;Female;White;45-54;184;476430;38.6
+2022;North Carolina;Female;White;55-64;109;516564;21.1
+2022;North Carolina;Female;White;65-74;25;452144;5.5
+2022;North Carolina;Male;American Indian or Alaska Native;25-34;26;11504;226.0
+2022;North Carolina;Male;American Indian or Alaska Native;35-44;13;10458;124.3
+2022;North Carolina;Male;American Indian or Alaska Native;45-54;19;10670;178.1
+2022;North Carolina;Male;Black or African American;15-24;43;175562;24.5
+2022;North Carolina;Male;Black or African American;25-34;172;173358;99.2
+2022;North Carolina;Male;Black or African American;35-44;135;141843;95.2
+2022;North Carolina;Male;Black or African American;45-54;124;132598;93.5
+2022;North Carolina;Male;Black or African American;55-64;97;130656;74.2
+2022;North Carolina;Male;Black or African American;65-74;32;89651;35.7
+2022;North Carolina;Male;White;15-24;129;500372;25.8
+2022;North Carolina;Male;White;25-34;508;485404;104.7
+2022;North Carolina;Male;White;35-44;548;466610;117.4
+2022;North Carolina;Male;White;45-54;375;485449;77.2
+2022;North Carolina;Male;White;55-64;218;500450;43.6
+2022;North Carolina;Male;White;65-74;28;401789;7.0
+2022;North Carolina;Male;More than one race;25-34;15;18407;81.5
+2022;North Dakota;Male;White;25-34;14;48809;28.7
+2022;North Dakota;Male;White;35-44;15;46808;32.0
+2022;Ohio;Female;Black or African American;15-24;21;112793;18.6
+2022;Ohio;Female;Black or African American;25-34;66;122201;54.0
+2022;Ohio;Female;Black or African American;35-44;55;101915;54.0
+2022;Ohio;Female;Black or African American;45-54;36;89921;40.0
+2022;Ohio;Female;Black or African American;55-64;52;91927;56.6
+2022;Ohio;Female;Black or African American;65-74;13;71319;18.2
+2022;Ohio;Female;White;15-24;55;573802;9.6
+2022;Ohio;Female;White;25-34;257;587621;43.7
+2022;Ohio;Female;White;35-44;336;579904;57.9
+2022;Ohio;Female;White;45-54;223;575034;38.8
+2022;Ohio;Female;White;55-64;152;669340;22.7
+2022;Ohio;Female;White;65-74;30;587245;5.1
+2022;Ohio;Male;Black or African American;15-24;26;116753;22.3
+2022;Ohio;Male;Black or African American;25-34;148;120850;122.5
+2022;Ohio;Male;Black or African American;35-44;150;94446;158.8
+2022;Ohio;Male;Black or African American;45-54;118;83950;140.6
+2022;Ohio;Male;Black or African American;55-64;118;81170;145.4
+2022;Ohio;Male;Black or African American;65-74;68;54895;123.9
+2022;Ohio;Male;White;15-24;125;605134;20.7
+2022;Ohio;Male;White;25-34;548;613171;89.4
+2022;Ohio;Male;White;35-44;669;598825;111.7
+2022;Ohio;Male;White;45-54;480;588191;81.6
+2022;Ohio;Male;White;55-64;336;656408;51.2
+2022;Ohio;Male;White;65-74;72;535709;13.4
+2022;Oklahoma;Female;American Indian or Alaska Native;25-34;11;26808;41.0
+2022;Oklahoma;Female;Black or African American;25-34;10;24091;41.5
+2022;Oklahoma;Female;White;15-24;14;186724;7.5
+2022;Oklahoma;Female;White;25-34;44;185137;23.8
+2022;Oklahoma;Female;White;35-44;30;189904;15.8
+2022;Oklahoma;Female;White;45-54;34;170918;19.9
+2022;Oklahoma;Female;White;55-64;28;190404;14.7
+2022;Oklahoma;Female;White;65-74;15;167872;8.9
+2022;Oklahoma;Male;American Indian or Alaska Native;25-34;22;28313;77.7
+2022;Oklahoma;Male;American Indian or Alaska Native;35-44;12;24088;49.8
+2022;Oklahoma;Male;Black or African American;15-24;11;27581;39.9
+2022;Oklahoma;Male;Black or African American;25-34;21;27265;77.0
+2022;Oklahoma;Male;Black or African American;35-44;12;22051;54.4
+2022;Oklahoma;Male;Black or African American;45-54;11;17317;63.5
+2022;Oklahoma;Male;White;15-24;22;200399;11.0
+2022;Oklahoma;Male;White;25-34;116;193577;59.9
+2022;Oklahoma;Male;White;35-44;101;198985;50.8
+2022;Oklahoma;Male;White;45-54;60;178035;33.7
+2022;Oklahoma;Male;White;55-64;41;186455;22.0
+2022;Oklahoma;Male;White;65-74;19;152208;12.5
+2022;Oklahoma;Male;More than one race;25-34;10;18343;54.5
+2022;Oregon;Female;White;15-24;14;209530;6.7
+2022;Oregon;Female;White;25-34;52;239555;21.7
+2022;Oregon;Female;White;35-44;51;245866;20.7
+2022;Oregon;Female;White;45-54;43;217897;19.7
+2022;Oregon;Female;White;55-64;49;232801;21.0
+2022;Oregon;Female;White;65-74;19;234994;8.1
+2022;Oregon;Male;Black or African American;25-34;11;10354;106.2
+2022;Oregon;Male;Black or African American;35-44;11;9041;121.7
+2022;Oregon;Male;Black or African American;45-54;11;6769;162.5
+2022;Oregon;Male;White;15-24;40;219073;18.3
+2022;Oregon;Male;White;25-34;148;250813;59.0
+2022;Oregon;Male;White;35-44;157;258215;60.8
+2022;Oregon;Male;White;45-54;102;232153;43.9
+2022;Oregon;Male;White;55-64;98;226694;43.2
+2022;Oregon;Male;White;65-74;39;213524;18.3
+2022;Pennsylvania;Female;Black or African American;15-24;21;118973;17.7
+2022;Pennsylvania;Female;Black or African American;25-34;43;125265;34.3
+2022;Pennsylvania;Female;Black or African American;35-44;60;103912;57.7
+2022;Pennsylvania;Female;Black or African American;45-54;50;91211;54.8
+2022;Pennsylvania;Female;Black or African American;55-64;51;93480;54.6
+2022;Pennsylvania;Female;White;15-24;41;628430;6.5
+2022;Pennsylvania;Female;White;25-34;204;626548;32.6
+2022;Pennsylvania;Female;White;35-44;272;630462;43.1
+2022;Pennsylvania;Female;White;45-54;184;622975;29.5
+2022;Pennsylvania;Female;White;55-64;144;765609;18.8
+2022;Pennsylvania;Female;White;65-74;37;675995;5.5
+2022;Pennsylvania;Male;Black or African American;15-24;24;122699;19.6
+2022;Pennsylvania;Male;Black or African American;25-34;94;129443;72.6
+2022;Pennsylvania;Male;Black or African American;35-44;124;99050;125.2
+2022;Pennsylvania;Male;Black or African American;45-54;139;84640;164.2
+2022;Pennsylvania;Male;Black or African American;55-64;176;80916;217.5
+2022;Pennsylvania;Male;Black or African American;65-74;49;50709;96.6
+2022;Pennsylvania;Male;Black or African American;75-84;10;19354;51.7
+2022;Pennsylvania;Male;White;15-24;90;651723;13.8
+2022;Pennsylvania;Male;White;25-34;522;660882;79.0
+2022;Pennsylvania;Male;White;35-44;637;659455;96.6
+2022;Pennsylvania;Male;White;45-54;441;640771;68.8
+2022;Pennsylvania;Male;White;55-64;355;753583;47.1
+2022;Pennsylvania;Male;White;65-74;74;624959;11.8
+2022;Pennsylvania;Male;More than one race;25-34;12;21759;55.1
+2022;Rhode Island;Female;White;25-34;20;58484;34.2
+2022;Rhode Island;Female;White;35-44;17;54944;30.9
+2022;Rhode Island;Female;White;45-54;21;55505;37.8
+2022;Rhode Island;Female;White;55-64;14;69341;20.2
+2022;Rhode Island;Male;White;15-24;12;58943;20.4
+2022;Rhode Island;Male;White;25-34;43;61448;70.0
+2022;Rhode Island;Male;White;35-44;56;56877;98.5
+2022;Rhode Island;Male;White;45-54;41;54574;75.1
+2022;Rhode Island;Male;White;55-64;46;65494;70.2
+2022;Rhode Island;Male;White;65-74;11;51291;21.4
+2022;South Carolina;Female;Black or African American;25-34;16;102435;15.6
+2022;South Carolina;Female;Black or African American;35-44;23;93897;24.5
+2022;South Carolina;Female;Black or African American;45-54;20;87653;22.8
+2022;South Carolina;Female;Black or African American;55-64;16;93859;17.0
+2022;South Carolina;Female;White;15-24;40;214441;18.7
+2022;South Carolina;Female;White;25-34;110;222988;49.3
+2022;South Carolina;Female;White;35-44;141;221160;63.8
+2022;South Carolina;Female;White;45-54;109;222776;48.9
+2022;South Carolina;Female;White;55-64;70;259040;27.0
+2022;South Carolina;Female;White;65-74;25;242707;10.3
+2022;South Carolina;Male;Black or African American;15-24;17;102942;16.5
+2022;South Carolina;Male;Black or African American;25-34;53;96327;55.0
+2022;South Carolina;Male;Black or African American;35-44;66;80589;81.9
+2022;South Carolina;Male;Black or African American;45-54;59;72614;81.3
+2022;South Carolina;Male;Black or African American;55-64;61;77029;79.2
+2022;South Carolina;Male;Black or African American;65-74;23;56475;40.7
+2022;South Carolina;Male;White;15-24;68;230785;29.5
+2022;South Carolina;Male;White;25-34;251;223202;112.5
+2022;South Carolina;Male;White;35-44;257;223522;115.0
+2022;South Carolina;Male;White;45-54;195;225241;86.6
+2022;South Carolina;Male;White;55-64;128;245663;52.1
+2022;South Carolina;Male;White;65-74;37;215470;17.2
+2022;Tennessee;Female;Black or African American;15-24;14;87042;16.1
+2022;Tennessee;Female;Black or African American;25-34;61;96530;63.2
+2022;Tennessee;Female;Black or African American;35-44;48;81281;59.1
+2022;Tennessee;Female;Black or African American;45-54;28;73629;38.0
+2022;Tennessee;Female;Black or African American;55-64;18;73950;24.3
+2022;Tennessee;Female;White;15-24;43;334911;12.8
+2022;Tennessee;Female;White;25-34;146;365823;39.9
+2022;Tennessee;Female;White;35-44;225;345556;65.1
+2022;Tennessee;Female;White;45-54;185;346391;53.4
+2022;Tennessee;Female;White;55-64;119;378286;31.5
+2022;Tennessee;Female;White;65-74;25;324040;7.7
+2022;Tennessee;Male;Black or African American;15-24;41;87634;46.8
+2022;Tennessee;Male;Black or African American;25-34;131;92274;142.0
+2022;Tennessee;Male;Black or African American;35-44;143;71466;200.1
+2022;Tennessee;Male;Black or African American;45-54;106;63737;166.3
+2022;Tennessee;Male;Black or African American;55-64;71;61456;115.5
+2022;Tennessee;Male;Black or African American;65-74;20;40973;48.8
+2022;Tennessee;Male;White;15-24;116;350583;33.1
+2022;Tennessee;Male;White;25-34;378;370888;101.9
+2022;Tennessee;Male;White;35-44;481;349807;137.5
+2022;Tennessee;Male;White;45-54;322;352753;91.3
+2022;Tennessee;Male;White;55-64;234;365900;64.0
+2022;Tennessee;Male;White;65-74;54;290158;18.6
+2022;Texas;Female;Black or African American;15-24;17;294796;5.8
+2022;Texas;Female;Black or African American;25-34;40;329148;12.2
+2022;Texas;Female;Black or African American;35-44;49;300533;16.3
+2022;Texas;Female;Black or African American;45-54;25;249628;10.0
+2022;Texas;Female;Black or African American;55-64;19;223209;8.5
+2022;Texas;Female;White;15-24;111;1625480;6.8
+2022;Texas;Female;White;25-34;185;1574445;11.8
+2022;Texas;Female;White;35-44;201;1542447;13.0
+2022;Texas;Female;White;45-54;148;1399650;10.6
+2022;Texas;Female;White;55-64;107;1324492;8.1
+2022;Texas;Female;White;65-74;38;1051736;3.6
+2022;Texas;Male;Asian;25-34;11;135029;8.1
+2022;Texas;Male;Black or African American;15-24;33;306060;10.8
+2022;Texas;Male;Black or African American;25-34;96;327872;29.3
+2022;Texas;Male;Black or African American;35-44;89;284096;31.3
+2022;Texas;Male;Black or African American;45-54;42;232453;18.1
+2022;Texas;Male;Black or African American;55-64;29;197709;14.7
+2022;Texas;Male;Black or African American;65-74;15;118404;12.7
+2022;Texas;Male;White;15-24;261;1723117;15.1
+2022;Texas;Male;White;25-34;546;1676325;32.6
+2022;Texas;Male;White;35-44;506;1643925;30.8
+2022;Texas;Male;White;45-54;258;1447515;17.8
+2022;Texas;Male;White;55-64;195;1316626;14.8
+2022;Texas;Male;White;65-74;68;950435;7.2
+2022;Utah;Female;White;25-34;32;212358;15.1
+2022;Utah;Female;White;35-44;38;204361;18.6
+2022;Utah;Female;White;45-54;46;163601;28.1
+2022;Utah;Female;White;55-64;23;142120;16.2
+2022;Utah;Male;White;15-24;21;261657;8.0
+2022;Utah;Male;White;25-34;62;225936;27.4
+2022;Utah;Male;White;35-44;73;214872;34.0
+2022;Utah;Male;White;45-54;44;174834;25.2
+2022;Utah;Male;White;55-64;28;143138;19.6
+2022;Vermont;Female;White;25-34;12;34896;34.4
+2022;Vermont;Female;White;35-44;31;36993;83.8
+2022;Vermont;Female;White;45-54;20;35922;55.7
+2022;Vermont;Female;White;55-64;13;45870;28.3
+2022;Vermont;Male;White;25-34;39;36440;107.0
+2022;Vermont;Male;White;35-44;42;37057;113.3
+2022;Vermont;Male;White;45-54;40;36619;109.2
+2022;Vermont;Male;White;55-64;18;44509;40.4
+2022;Virginia;Female;Black or African American;15-24;11;122022;9.0
+2022;Virginia;Female;Black or African American;25-34;47;127733;36.8
+2022;Virginia;Female;Black or African American;35-44;51;120076;42.5
+2022;Virginia;Female;Black or African American;45-54;27;107645;25.1
+2022;Virginia;Female;Black or African American;55-64;27;117743;22.9
+2022;Virginia;Female;White;15-24;35;364129;9.6
+2022;Virginia;Female;White;25-34;104;376096;27.7
+2022;Virginia;Female;White;35-44;96;382868;25.1
+2022;Virginia;Female;White;45-54;88;364470;24.1
+2022;Virginia;Female;White;55-64;54;401148;13.5
+2022;Virginia;Female;White;65-74;12;336501;3.6
+2022;Virginia;Male;Black or African American;15-24;14;123819;11.3
+2022;Virginia;Male;Black or African American;25-34;92;131728;69.8
+2022;Virginia;Male;Black or African American;35-44;127;115118;110.3
+2022;Virginia;Male;Black or African American;45-54;112;99184;112.9
+2022;Virginia;Male;Black or African American;55-64;130;102834;126.4
+2022;Virginia;Male;Black or African American;65-74;36;67631;53.2
+2022;Virginia;Male;White;15-24;80;390916;20.5
+2022;Virginia;Male;White;25-34;261;393758;66.3
+2022;Virginia;Male;White;35-44;279;403428;69.2
+2022;Virginia;Male;White;45-54;203;378345;53.7
+2022;Virginia;Male;White;55-64;134;398063;33.7
+2022;Virginia;Male;White;65-74;22;307132;7.2
+2022;Washington;Female;American Indian or Alaska Native;25-34;11;11026;99.8
+2022;Washington;Female;American Indian or Alaska Native;35-44;12;9507;126.2
+2022;Washington;Female;Black or African American;55-64;11;16101;68.3
+2022;Washington;Female;White;15-24;40;338731;11.8
+2022;Washington;Female;White;25-34;84;405966;20.7
+2022;Washington;Female;White;35-44;102;399013;25.6
+2022;Washington;Female;White;45-54;88;352613;25.0
+2022;Washington;Female;White;55-64;103;385213;26.7
+2022;Washington;Female;White;65-74;27;351469;7.7
+2022;Washington;Female;More than one race;25-34;10;32502;30.8
+2022;Washington;Male;American Indian or Alaska Native;25-34;13;11919;109.1
+2022;Washington;Male;American Indian or Alaska Native;35-44;29;10303;281.5
+2022;Washington;Male;American Indian or Alaska Native;55-64;14;7059;198.3
+2022;Washington;Male;Asian;25-34;11;85612;12.8
+2022;Washington;Male;Black or African American;25-34;36;36759;97.9
+2022;Washington;Male;Black or African American;35-44;36;33142;108.6
+2022;Washington;Male;Black or African American;45-54;27;24581;109.8
+2022;Washington;Male;Black or African American;55-64;28;20114;139.2
+2022;Washington;Male;White;15-24;108;366093;29.5
+2022;Washington;Male;White;25-34;258;443257;58.2
+2022;Washington;Male;White;35-44;279;434102;64.3
+2022;Washington;Male;White;45-54;220;376728;58.4
+2022;Washington;Male;White;55-64;213;388985;54.8
+2022;Washington;Male;White;65-74;57;325413;17.5
+2022;Washington;Male;More than one race;25-34;27;34073;79.2
+2022;Washington;Male;More than one race;35-44;16;22533;71.0
+2022;Washington;Male;More than one race;45-54;11;14225;77.3
+2022;West Virginia;Female;White;15-24;12;97685;12.3
+2022;West Virginia;Female;White;25-34;68;94238;72.2
+2022;West Virginia;Female;White;35-44;102;96446;105.8
+2022;West Virginia;Female;White;45-54;82;103439;79.3
+2022;West Virginia;Female;White;55-64;39;115699;33.7
+2022;West Virginia;Male;Black or African American;25-34;10;6209;161.1
+2022;West Virginia;Male;Black or African American;35-44;18;5374;334.9
+2022;West Virginia;Male;Black or African American;45-54;14;4263;328.4
+2022;West Virginia;Male;White;15-24;22;104675;21.0
+2022;West Virginia;Male;White;25-34;153;100215;152.7
+2022;West Virginia;Male;White;35-44;247;99188;249.0
+2022;West Virginia;Male;White;45-54;164;106691;153.7
+2022;West Virginia;Male;White;55-64;132;112633;117.2
+2022;West Virginia;Male;White;65-74;32;101433;31.5
+2022;Wisconsin;Female;American Indian or Alaska Native;25-34;13;4758;273.2
+2022;Wisconsin;Female;Black or African American;25-34;13;31792;40.9
+2022;Wisconsin;Female;Black or African American;35-44;15;25822;58.1
+2022;Wisconsin;Female;Black or African American;45-54;13;21102;61.6
+2022;Wisconsin;Female;Black or African American;55-64;22;19278;114.1
+2022;Wisconsin;Female;White;15-24;18;321544;5.6
+2022;Wisconsin;Female;White;25-34;74;291043;25.4
+2022;Wisconsin;Female;White;35-44;99;311247;31.8
+2022;Wisconsin;Female;White;45-54;61;297908;20.5
+2022;Wisconsin;Female;White;55-64;44;372662;11.8
+2022;Wisconsin;Female;White;65-74;12;314082;3.8
+2022;Wisconsin;Male;American Indian or Alaska Native;25-34;10;5353;186.8
+2022;Wisconsin;Male;American Indian or Alaska Native;35-44;13;4507;288.4
+2022;Wisconsin;Male;Black or African American;25-34;40;32528;123.0
+2022;Wisconsin;Male;Black or African American;35-44;29;24213;119.8
+2022;Wisconsin;Male;Black or African American;45-54;65;20224;321.4
+2022;Wisconsin;Male;Black or African American;55-64;61;16960;359.7
+2022;Wisconsin;Male;Black or African American;65-74;23;10118;227.3
+2022;Wisconsin;Male;White;15-24;44;334997;13.1
+2022;Wisconsin;Male;White;25-34;187;312628;59.8
+2022;Wisconsin;Male;White;35-44;239;330182;72.4
+2022;Wisconsin;Male;White;45-54;151;315101;47.9
+2022;Wisconsin;Male;White;55-64;74;377003;19.6
+2022;Wisconsin;Male;White;65-74;24;304762;7.9
+2022;Wyoming;Male;White;25-34;14;34396;40.7
+2022;Wyoming;Male;White;35-44;11;37588;29.3
+2023;Alabama;Female;Black or African American;25-34;29;102924;28.2
+2023;Alabama;Female;Black or African American;35-44;29;96469;30.1
+2023;Alabama;Female;Black or African American;45-54;20;88119;22.7
+2023;Alabama;Female;White;15-24;19;218103;8.7
+2023;Alabama;Female;White;25-34;44;215630;20.4
+2023;Alabama;Female;White;35-44;78;214190;36.4
+2023;Alabama;Female;White;45-54;62;217403;28.5
+2023;Alabama;Female;White;55-64;31;238718;13.0
+2023;Alabama;Female;White;65-74;15;215285;7.0
+2023;Alabama;Male;Black or African American;15-24;13;101354;12.8
+2023;Alabama;Male;Black or African American;25-34;64;94754;67.5
+2023;Alabama;Male;Black or African American;35-44;83;79680;104.2
+2023;Alabama;Male;Black or African American;45-54;53;70455;75.2
+2023;Alabama;Male;Black or African American;55-64;32;71947;44.5
+2023;Alabama;Male;Black or African American;65-74;16;54404;29.4
+2023;Alabama;Male;White;15-24;28;225811;12.4
+2023;Alabama;Male;White;25-34;140;216565;64.6
+2023;Alabama;Male;White;35-44;203;213544;95.1
+2023;Alabama;Male;White;45-54;128;218838;58.5
+2023;Alabama;Male;White;55-64;54;233952;23.1
+2023;Alabama;Male;White;65-74;17;193245;8.8
+2023;Alaska;Female;American Indian or Alaska Native;25-34;13;8352;155.7
+2023;Alaska;Female;American Indian or Alaska Native;35-44;17;7165;237.3
+2023;Alaska;Female;American Indian or Alaska Native;45-54;11;5335;206.2
+2023;Alaska;Female;White;35-44;13;32884;39.5
+2023;Alaska;Male;American Indian or Alaska Native;25-34;10;8959;111.6
+2023;Alaska;Male;American Indian or Alaska Native;35-44;16;7828;204.4
+2023;Alaska;Male;White;25-34;23;38219;60.2
+2023;Alaska;Male;White;35-44;38;38603;98.4
+2023;Alaska;Male;White;45-54;19;31176;60.9
+2023;Alaska;Male;White;55-64;22;32619;67.4
+2023;Arizona;Female;American Indian or Alaska Native;25-34;23;29841;77.1
+2023;Arizona;Female;Black or African American;25-34;12;33616;35.7
+2023;Arizona;Female;White;15-24;23;378798;6.1
+2023;Arizona;Female;White;25-34;69;387616;17.8
+2023;Arizona;Female;White;35-44;86;363661;23.6
+2023;Arizona;Female;White;45-54;68;350387;19.4
+2023;Arizona;Female;White;55-64;72;385919;18.7
+2023;Arizona;Female;White;65-74;32;380963;8.4
+2023;Arizona;Male;American Indian or Alaska Native;25-34;43;30829;139.5
+2023;Arizona;Male;American Indian or Alaska Native;35-44;39;25522;152.8
+2023;Arizona;Male;American Indian or Alaska Native;45-54;22;19662;111.9
+2023;Arizona;Male;Black or African American;15-24;11;33862;32.5
+2023;Arizona;Male;Black or African American;25-34;44;40051;109.9
+2023;Arizona;Male;Black or African American;35-44;34;33378;101.9
+2023;Arizona;Male;Black or African American;45-54;21;24802;84.7
+2023;Arizona;Male;Black or African American;55-64;19;21256;89.4
+2023;Arizona;Male;White;15-24;81;400383;20.2
+2023;Arizona;Male;White;25-34;305;414088;73.7
+2023;Arizona;Male;White;35-44;332;385824;86.0
+2023;Arizona;Male;White;45-54;194;354960;54.7
+2023;Arizona;Male;White;55-64;163;369868;44.1
+2023;Arizona;Male;White;65-74;73;337684;21.6
+2023;Arizona;Male;More than one race;25-34;18;19713;91.3
+2023;Arkansas;Female;White;25-34;18;150355;12.0
+2023;Arkansas;Female;White;35-44;16;149695;10.7
+2023;Arkansas;Female;White;45-54;19;144640;13.1
+2023;Arkansas;Female;White;55-64;19;155826;12.2
+2023;Arkansas;Male;Black or African American;25-34;15;34802;43.1
+2023;Arkansas;Male;Black or African American;35-44;12;28676;41.8
+2023;Arkansas;Male;White;15-24;12;159102;7.5
+2023;Arkansas;Male;White;25-34;46;152066;30.3
+2023;Arkansas;Male;White;35-44;55;153103;35.9
+2023;Arkansas;Male;White;45-54;23;147342;15.6
+2023;Arkansas;Male;White;55-64;17;153225;11.1
+2023;California;Female;Asian;35-44;12;524002;2.3
+2023;California;Female;Asian;45-54;10;479927;2.1
+2023;California;Female;Black or African American;15-24;19;162388;11.7
+2023;California;Female;Black or African American;25-34;57;196879;29.0
+2023;California;Female;Black or African American;35-44;43;174311;24.7
+2023;California;Female;Black or African American;45-54;47;154429;30.4
+2023;California;Female;Black or African American;55-64;54;162249;33.3
+2023;California;Female;Black or African American;65-74;24;120373;19.9
+2023;California;Female;White;15-24;124;1772631;7.0
+2023;California;Female;White;25-34;282;1896808;14.9
+2023;California;Female;White;35-44;270;1798154;15.0
+2023;California;Female;White;45-54;232;1655637;14.0
+2023;California;Female;White;55-64;267;1669496;16.0
+2023;California;Female;White;65-74;98;1390738;7.0
+2023;California;Female;White;75-84;27;806821;3.3
+2023;California;Female;More than one race;15-24;17;156541;10.9
+2023;California;Female;More than one race;25-34;29;129284;22.4
+2023;California;Female;More than one race;35-44;18;98303;18.3
+2023;California;Female;More than one race;45-54;16;69482;23.0
+2023;California;Male;American Indian or Alaska Native;25-34;22;56091;39.2
+2023;California;Male;American Indian or Alaska Native;35-44;19;52499;36.2
+2023;California;Male;American Indian or Alaska Native;45-54;12;42917;28.0
+2023;California;Male;American Indian or Alaska Native;55-64;12;36894;32.5
+2023;California;Male;Asian;15-24;12;360073;3.3
+2023;California;Male;Asian;25-34;60;480425;12.5
+2023;California;Male;Asian;35-44;51;482149;10.6
+2023;California;Male;Asian;45-54;34;418630;8.1
+2023;California;Male;Asian;55-64;20;361153;5.5
+2023;California;Male;Black or African American;15-24;40;172433;23.2
+2023;California;Male;Black or African American;25-34;167;217441;76.8
+2023;California;Male;Black or African American;35-44;200;188458;106.1
+2023;California;Male;Black or African American;45-54;129;156027;82.7
+2023;California;Male;Black or African American;55-64;169;155611;108.6
+2023;California;Male;Black or African American;65-74;80;100977;79.2
+2023;California;Male;Black or African American;75-84;10;40974;24.4
+2023;California;Male;White;15-24;342;1865083;18.3
+2023;California;Male;White;25-34;1262;1998677;63.1
+2023;California;Male;White;35-44;1257;1958240;64.2
+2023;California;Male;White;45-54;823;1739134;47.3
+2023;California;Male;White;55-64;823;1701670;48.4
+2023;California;Male;White;65-74;286;1281164;22.3
+2023;California;Male;White;75-84;26;655008;4.0
+2023;California;Male;More than one race;15-24;21;162720;12.9
+2023;California;Male;More than one race;25-34;79;131577;60.0
+2023;California;Male;More than one race;35-44;72;94876;75.9
+2023;California;Male;More than one race;45-54;28;64727;43.3
+2023;California;Male;More than one race;55-64;28;50780;55.1
+2023;Colorado;Female;White;15-24;25;307014;8.1
+2023;Colorado;Female;White;25-34;63;372961;16.9
+2023;Colorado;Female;White;35-44;95;354216;26.8
+2023;Colorado;Female;White;45-54;56;300841;18.6
+2023;Colorado;Female;White;55-64;46;305299;15.1
+2023;Colorado;Female;White;65-74;24;274209;8.8
+2023;Colorado;Female;White;75-84;10;141736;7.1
+2023;Colorado;Male;Black or African American;25-34;27;29698;90.9
+2023;Colorado;Male;Black or African American;35-44;28;24563;114.0
+2023;Colorado;Male;Black or African American;45-54;18;18546;97.1
+2023;Colorado;Male;Black or African American;55-64;10;14920;67.0
+2023;Colorado;Male;White;15-24;69;331886;20.8
+2023;Colorado;Male;White;25-34;202;405509;49.8
+2023;Colorado;Male;White;35-44;217;387211;56.0
+2023;Colorado;Male;White;45-54;152;321635;47.3
+2023;Colorado;Male;White;55-64;121;300267;40.3
+2023;Colorado;Male;White;65-74;30;254201;11.8
+2023;Connecticut;Female;Black or African American;35-44;20;35059;57.0
+2023;Connecticut;Female;Black or African American;55-64;19;30441;62.4
+2023;Connecticut;Female;White;25-34;30;162011;18.5
+2023;Connecticut;Female;White;35-44;45;174398;25.8
+2023;Connecticut;Female;White;45-54;47;174709;26.9
+2023;Connecticut;Female;White;55-64;65;215482;30.2
+2023;Connecticut;Female;White;65-74;20;179834;11.1
+2023;Connecticut;Male;Black or African American;25-34;23;37290;61.7
+2023;Connecticut;Male;Black or African American;35-44;31;32375;95.8
+2023;Connecticut;Male;Black or African American;45-54;45;27200;165.4
+2023;Connecticut;Male;Black or African American;55-64;51;24938;204.5
+2023;Connecticut;Male;Black or African American;65-74;22;14605;150.6
+2023;Connecticut;Male;White;15-24;15;179259;8.4
+2023;Connecticut;Male;White;25-34;122;169290;72.1
+2023;Connecticut;Male;White;35-44;186;175138;106.2
+2023;Connecticut;Male;White;45-54;172;172154;99.9
+2023;Connecticut;Male;White;55-64;161;207890;77.4
+2023;Connecticut;Male;White;65-74;54;164011;32.9
+2023;Delaware;Female;Black or African American;35-44;14;17380;80.6
+2023;Delaware;Female;Black or African American;45-54;15;15852;94.6
+2023;Delaware;Female;White;25-34;22;40126;54.8
+2023;Delaware;Female;White;35-44;39;41037;95.0
+2023;Delaware;Female;White;45-54;19;39465;48.1
+2023;Delaware;Female;White;55-64;17;54501;31.2
+2023;Delaware;Male;Black or African American;25-34;26;16693;155.8
+2023;Delaware;Male;Black or African American;35-44;21;14587;144.0
+2023;Delaware;Male;Black or African American;45-54;14;13343;104.9
+2023;Delaware;Male;Black or African American;55-64;29;14221;203.9
+2023;Delaware;Male;Black or African American;65-74;12;9831;122.1
+2023;Delaware;Male;White;25-34;41;39990;102.5
+2023;Delaware;Male;White;35-44;64;41616;153.8
+2023;Delaware;Male;White;45-54;44;38142;115.4
+2023;Delaware;Male;White;55-64;38;49919;76.1
+2023;Delaware;Male;White;65-74;11;49010;22.4
+2023;District of Columbia;Female;Black or African American;35-44;10;22460;44.5
+2023;District of Columbia;Female;Black or African American;45-54;16;17323;92.4
+2023;District of Columbia;Female;Black or African American;55-64;29;19270;150.5
+2023;District of Columbia;Female;Black or African American;65-74;24;17044;140.8
+2023;District of Columbia;Male;Black or African American;25-34;25;23137;108.1
+2023;District of Columbia;Male;Black or African American;35-44;38;18201;208.8
+2023;District of Columbia;Male;Black or African American;45-54;32;14649;218.4
+2023;District of Columbia;Male;Black or African American;55-64;75;15454;485.3
+2023;District of Columbia;Male;Black or African American;65-74;41;11580;354.1
+2023;District of Columbia;Male;White;45-54;11;18482;59.5
+2023;Florida;Female;Black or African American;15-24;17;271913;6.3
+2023;Florida;Female;Black or African American;25-34;36;290813;12.4
+2023;Florida;Female;Black or African American;35-44;33;273582;12.1
+2023;Florida;Female;Black or African American;45-54;23;240111;9.6
+2023;Florida;Female;Black or African American;55-64;22;227912;9.7
+2023;Florida;Female;White;15-24;57;905992;6.3
+2023;Florida;Female;White;25-34;248;1005480;24.7
+2023;Florida;Female;White;35-44;357;1051195;34.0
+2023;Florida;Female;White;45-54;299;1063101;28.1
+2023;Florida;Female;White;55-64;237;1257021;18.9
+2023;Florida;Female;White;65-74;81;1198312;6.8
+2023;Florida;Female;White;75-84;13;794226;1.6
+2023;Florida;Male;Asian;35-44;10;53836;18.6
+2023;Florida;Male;Black or African American;15-24;15;275475;5.4
+2023;Florida;Male;Black or African American;25-34;118;290370;40.6
+2023;Florida;Male;Black or African American;35-44;137;257822;53.1
+2023;Florida;Male;Black or African American;45-54;104;215602;48.2
+2023;Florida;Male;Black or African American;55-64;83;201328;41.2
+2023;Florida;Male;Black or African American;65-74;32;138206;23.2
+2023;Florida;Male;White;15-24;140;948481;14.8
+2023;Florida;Male;White;25-34;654;1043336;62.7
+2023;Florida;Male;White;35-44;907;1094204;82.9
+2023;Florida;Male;White;45-54;630;1071516;58.8
+2023;Florida;Male;White;55-64;511;1198725;42.6
+2023;Florida;Male;White;65-74;150;1054650;14.2
+2023;Florida;Male;White;75-84;17;672808;2.5
+2023;Florida;Male;More than one race;25-34;14;40195;34.8
+2023;Florida;Male;More than one race;35-44;12;27659;43.4
+2023;Georgia;Female;Black or African American;15-24;17;269444;6.3
+2023;Georgia;Female;Black or African American;25-34;44;294092;15.0
+2023;Georgia;Female;Black or African American;35-44;55;276211;19.9
+2023;Georgia;Female;Black or African American;45-54;25;251440;9.9
+2023;Georgia;Female;Black or African American;55-64;17;233455;7.3
+2023;Georgia;Female;White;15-24;31;410937;7.5
+2023;Georgia;Female;White;25-34;90;411833;21.9
+2023;Georgia;Female;White;35-44;132;413691;31.9
+2023;Georgia;Female;White;45-54;94;413128;22.8
+2023;Georgia;Female;White;55-64;64;421896;15.2
+2023;Georgia;Female;White;65-74;21;357972;5.9
+2023;Georgia;Male;Black or African American;15-24;31;267559;11.6
+2023;Georgia;Male;Black or African American;25-34;93;268700;34.6
+2023;Georgia;Male;Black or African American;35-44;107;231385;46.2
+2023;Georgia;Male;Black or African American;45-54;92;205934;44.7
+2023;Georgia;Male;Black or African American;55-64;70;191946;36.5
+2023;Georgia;Male;Black or African American;65-74;23;122832;18.7
+2023;Georgia;Male;White;15-24;71;437891;16.2
+2023;Georgia;Male;White;25-34;209;420432;49.7
+2023;Georgia;Male;White;35-44;272;422141;64.4
+2023;Georgia;Male;White;45-54;150;422457;35.5
+2023;Georgia;Male;White;55-64;95;420525;22.6
+2023;Georgia;Male;White;65-74;29;321547;9.0
+2023;Hawaii;Male;White;35-44;12;29045;41.3
+2023;Hawaii;Male;White;45-54;15;22381;67.0
+2023;Hawaii;Male;More than one race;25-34;11;25510;43.1
+2023;Hawaii;Male;More than one race;35-44;11;22076;49.8
+2023;Idaho;Female;White;25-34;11;112161;9.8
+2023;Idaho;Female;White;35-44;21;117101;17.9
+2023;Idaho;Female;White;45-54;18;102629;17.5
+2023;Idaho;Female;White;55-64;15;107364;14.0
+2023;Idaho;Male;White;15-24;14;130102;10.8
+2023;Idaho;Male;White;25-34;47;118683;39.6
+2023;Idaho;Male;White;35-44;51;121464;42.0
+2023;Idaho;Male;White;45-54;27;107788;25.0
+2023;Idaho;Male;White;55-64;13;106480;12.2
+2023;Illinois;Female;Black or African American;15-24;17;127703;13.3
+2023;Illinois;Female;Black or African American;25-34;41;145257;28.2
+2023;Illinois;Female;Black or African American;35-44;38;125036;30.4
+2023;Illinois;Female;Black or African American;45-54;59;117712;50.1
+2023;Illinois;Female;Black or African American;55-64;93;118626;78.4
+2023;Illinois;Female;Black or African American;65-74;22;95042;23.1
+2023;Illinois;Female;White;15-24;24;591531;4.1
+2023;Illinois;Female;White;25-34;100;602316;16.6
+2023;Illinois;Female;White;35-44;137;618298;22.2
+2023;Illinois;Female;White;45-54;92;584504;15.7
+2023;Illinois;Female;White;55-64;60;630227;9.5
+2023;Illinois;Female;White;65-74;17;543331;3.1
+2023;Illinois;Male;Black or African American;15-24;42;129341;32.5
+2023;Illinois;Male;Black or African American;25-34;92;139779;65.8
+2023;Illinois;Male;Black or African American;35-44;112;111983;100.0
+2023;Illinois;Male;Black or African American;45-54;197;98742;199.5
+2023;Illinois;Male;Black or African American;55-64;316;96994;325.8
+2023;Illinois;Male;Black or African American;65-74;143;67406;212.1
+2023;Illinois;Male;White;15-24;74;620875;11.9
+2023;Illinois;Male;White;25-34;292;622527;46.9
+2023;Illinois;Male;White;35-44;349;647090;53.9
+2023;Illinois;Male;White;45-54;269;608982;44.2
+2023;Illinois;Male;White;55-64;170;632493;26.9
+2023;Illinois;Male;White;65-74;47;504148;9.3
+2023;Indiana;Female;Black or African American;15-24;13;53428;24.3
+2023;Indiana;Female;Black or African American;25-34;19;56529;33.6
+2023;Indiana;Female;Black or African American;35-44;22;49477;44.5
+2023;Indiana;Female;Black or African American;45-54;19;42417;44.8
+2023;Indiana;Female;White;15-24;41;371672;11.0
+2023;Indiana;Female;White;25-34;113;358251;31.5
+2023;Indiana;Female;White;35-44;125;358142;34.9
+2023;Indiana;Female;White;45-54;97;345309;28.1
+2023;Indiana;Female;White;55-64;67;376236;17.8
+2023;Indiana;Female;White;65-74;17;330575;5.1
+2023;Indiana;Male;Black or African American;15-24;15;55172;27.2
+2023;Indiana;Male;Black or African American;25-34;42;56489;74.4
+2023;Indiana;Male;Black or African American;35-44;62;46265;134.0
+2023;Indiana;Male;Black or African American;45-54;49;38263;128.1
+2023;Indiana;Male;Black or African American;55-64;37;33132;111.7
+2023;Indiana;Male;Black or African American;65-74;17;22287;76.3
+2023;Indiana;Male;White;15-24;74;391267;18.9
+2023;Indiana;Male;White;25-34;240;368354;65.2
+2023;Indiana;Male;White;35-44;261;364547;71.6
+2023;Indiana;Male;White;45-54;202;353734;57.1
+2023;Indiana;Male;White;55-64;101;370033;27.3
+2023;Indiana;Male;White;65-74;28;303198;9.2
+2023;Iowa;Female;White;25-34;16;167622;9.5
+2023;Iowa;Female;White;35-44;22;175821;12.5
+2023;Iowa;Female;White;45-54;17;162117;10.5
+2023;Iowa;Male;White;15-24;11;200474;5.5
+2023;Iowa;Male;White;25-34;34;176315;19.3
+2023;Iowa;Male;White;35-44;36;183832;19.6
+2023;Iowa;Male;White;45-54;21;168246;12.5
+2023;Iowa;Male;White;55-64;13;186141;7.0
+2023;Kansas;Female;White;15-24;14;168580;8.3
+2023;Kansas;Female;White;25-34;20;151310;13.2
+2023;Kansas;Female;White;35-44;30;159891;18.8
+2023;Kansas;Female;White;45-54;20;140963;14.2
+2023;Kansas;Female;White;55-64;22;157287;14.0
+2023;Kansas;Female;White;65-74;10;143767;7.0
+2023;Kansas;Male;Black or African American;25-34;11;16116;68.3
+2023;Kansas;Male;Black or African American;35-44;11;13356;82.4
+2023;Kansas;Male;Black or African American;55-64;12;9541;125.8
+2023;Kansas;Male;White;15-24;28;183021;15.3
+2023;Kansas;Male;White;25-34;46;159643;28.8
+2023;Kansas;Male;White;35-44;56;165435;33.9
+2023;Kansas;Male;White;45-54;34;145932;23.3
+2023;Kansas;Male;White;55-64;29;154324;18.8
+2023;Kansas;Male;White;65-74;13;133464;9.7
+2023;Kentucky;Female;Black or African American;15-24;10;29600;33.8
+2023;Kentucky;Female;Black or African American;25-34;12;28759;41.7
+2023;Kentucky;Female;Black or African American;35-44;15;25042;59.9
+2023;Kentucky;Female;Black or African American;55-64;12;22528;53.3
+2023;Kentucky;Female;White;15-24;21;239188;8.8
+2023;Kentucky;Female;White;25-34;89;247919;35.9
+2023;Kentucky;Female;White;35-44;141;244115;57.8
+2023;Kentucky;Female;White;45-54;101;244302;41.3
+2023;Kentucky;Female;White;55-64;76;266537;28.5
+2023;Kentucky;Female;White;65-74;14;233676;6.0
+2023;Kentucky;Male;Black or African American;15-24;13;32430;40.1
+2023;Kentucky;Male;Black or African American;25-34;39;33318;117.1
+2023;Kentucky;Male;Black or African American;35-44;40;26468;151.1
+2023;Kentucky;Male;Black or African American;45-54;35;22082;158.5
+2023;Kentucky;Male;Black or African American;55-64;32;21023;152.2
+2023;Kentucky;Male;Black or African American;65-74;11;14584;75.4
+2023;Kentucky;Male;White;15-24;41;252445;16.2
+2023;Kentucky;Male;White;25-34;181;255085;71.0
+2023;Kentucky;Male;White;35-44;296;245842;120.4
+2023;Kentucky;Male;White;45-54;234;246216;95.0
+2023;Kentucky;Male;White;55-64;145;255357;56.8
+2023;Kentucky;Male;White;65-74;30;208816;14.4
+2023;Louisiana;Female;Black or African American;25-34;16;109257;14.6
+2023;Louisiana;Female;Black or African American;35-44;15;104617;14.3
+2023;Louisiana;Female;Black or African American;45-54;11;86104;12.8
+2023;Louisiana;Female;White;15-24;19;168319;11.3
+2023;Louisiana;Female;White;25-34;55;176471;31.2
+2023;Louisiana;Female;White;35-44;81;189595;42.7
+2023;Louisiana;Female;White;45-54;43;169178;25.4
+2023;Louisiana;Female;White;55-64;51;191326;26.7
+2023;Louisiana;Female;White;65-74;15;172448;8.7
+2023;Louisiana;Male;Black or African American;25-34;58;103995;55.8
+2023;Louisiana;Male;Black or African American;35-44;81;91707;88.3
+2023;Louisiana;Male;Black or African American;45-54;56;72732;77.0
+2023;Louisiana;Male;Black or African American;55-64;21;75801;27.7
+2023;Louisiana;Male;White;15-24;28;176188;15.9
+2023;Louisiana;Male;White;25-34;134;178562;75.0
+2023;Louisiana;Male;White;35-44;183;194515;94.1
+2023;Louisiana;Male;White;45-54;104;173590;59.9
+2023;Louisiana;Male;White;55-64;75;186710;40.2
+2023;Louisiana;Male;White;65-74;15;158264;9.5
+2023;Maine;Female;White;25-34;18;77141;23.3
+2023;Maine;Female;White;35-44;46;80909;56.9
+2023;Maine;Female;White;45-54;27;79688;33.9
+2023;Maine;Female;White;55-64;25;102432;24.4
+2023;Maine;Male;White;15-24;18;73547;24.5
+2023;Maine;Male;White;25-34;50;77840;64.2
+2023;Maine;Male;White;35-44;123;80341;153.1
+2023;Maine;Male;White;45-54;76;78136;97.3
+2023;Maine;Male;White;55-64;67;96629;69.3
+2023;Maine;Male;White;65-74;19;88503;21.5
+2023;Maryland;Female;Black or African American;15-24;10;125419;8.0
+2023;Maryland;Female;Black or African American;25-34;45;143189;31.4
+2023;Maryland;Female;Black or African American;35-44;51;144686;35.2
+2023;Maryland;Female;Black or African American;45-54;60;134508;44.6
+2023;Maryland;Female;Black or African American;55-64;95;140788;67.5
+2023;Maryland;Female;Black or African American;65-74;18;103803;17.3
+2023;Maryland;Female;White;15-24;22;203025;10.8
+2023;Maryland;Female;White;25-34;66;213088;31.0
+2023;Maryland;Female;White;35-44;101;234610;43.1
+2023;Maryland;Female;White;45-54;71;213098;33.3
+2023;Maryland;Female;White;55-64;61;247199;24.7
+2023;Maryland;Female;White;65-74;14;206771;6.8
+2023;Maryland;Male;Black or African American;15-24;27;125391;21.5
+2023;Maryland;Male;Black or African American;25-34;92;133617;68.9
+2023;Maryland;Male;Black or African American;35-44;101;126123;80.1
+2023;Maryland;Male;Black or African American;45-54;137;114228;119.9
+2023;Maryland;Male;Black or African American;55-64;282;117340;240.3
+2023;Maryland;Male;Black or African American;65-74;98;74437;131.7
+2023;Maryland;Male;Black or African American;75-84;10;31105;32.1
+2023;Maryland;Male;White;15-24;50;212591;23.5
+2023;Maryland;Male;White;25-34;160;218761;73.1
+2023;Maryland;Male;White;35-44;221;243768;90.7
+2023;Maryland;Male;White;45-54;172;218190;78.8
+2023;Maryland;Male;White;55-64;133;243242;54.7
+2023;Maryland;Male;White;65-74;44;189951;23.2
+2023;Massachusetts;Female;Black or African American;25-34;14;51608;27.1
+2023;Massachusetts;Female;Black or African American;35-44;17;47560;35.7
+2023;Massachusetts;Female;Black or African American;45-54;14;41064;34.1
+2023;Massachusetts;Female;Black or African American;55-64;22;38074;57.8
+2023;Massachusetts;Female;White;15-24;15;349612;4.3
+2023;Massachusetts;Female;White;25-34;81;361651;22.4
+2023;Massachusetts;Female;White;35-44;147;352538;41.7
+2023;Massachusetts;Female;White;45-54;133;340607;39.0
+2023;Massachusetts;Female;White;55-64;99;409774;24.2
+2023;Massachusetts;Female;White;65-74;24;349442;6.9
+2023;Massachusetts;Male;Black or African American;25-34;46;54369;84.6
+2023;Massachusetts;Male;Black or African American;35-44;71;47068;150.8
+2023;Massachusetts;Male;Black or African American;45-54;56;38365;146.0
+2023;Massachusetts;Male;Black or African American;55-64;52;34603;150.3
+2023;Massachusetts;Male;Black or African American;65-74;18;20641;87.2
+2023;Massachusetts;Male;White;15-24;39;351786;11.1
+2023;Massachusetts;Male;White;25-34;238;366363;65.0
+2023;Massachusetts;Male;White;35-44;360;353372;101.9
+2023;Massachusetts;Male;White;45-54;268;332022;80.7
+2023;Massachusetts;Male;White;55-64;252;391425;64.4
+2023;Massachusetts;Male;White;65-74;79;311478;25.4
+2023;Michigan;Female;Black or African American;15-24;11;98579;11.2
+2023;Michigan;Female;Black or African American;25-34;38;112952;33.6
+2023;Michigan;Female;Black or African American;35-44;46;87898;52.3
+2023;Michigan;Female;Black or African American;45-54;39;91162;42.8
+2023;Michigan;Female;Black or African American;55-64;42;86468;48.6
+2023;Michigan;Female;Black or African American;65-74;26;72204;36.0
+2023;Michigan;Female;White;15-24;24;478619;5.0
+2023;Michigan;Female;White;25-34;109;478958;22.8
+2023;Michigan;Female;White;35-44;119;473952;25.1
+2023;Michigan;Female;White;45-54;105;466600;22.5
+2023;Michigan;Female;White;55-64;66;561968;11.7
+2023;Michigan;Female;White;65-74;23;511966;4.5
+2023;Michigan;Male;Black or African American;15-24;12;101299;11.8
+2023;Michigan;Male;Black or African American;25-34;96;110336;87.0
+2023;Michigan;Male;Black or African American;35-44;106;81233;130.5
+2023;Michigan;Male;Black or African American;45-54;103;77270;133.3
+2023;Michigan;Male;Black or African American;55-64;152;73012;208.2
+2023;Michigan;Male;Black or African American;65-74;92;52682;174.6
+2023;Michigan;Male;White;15-24;39;503291;7.7
+2023;Michigan;Male;White;25-34;228;504426;45.2
+2023;Michigan;Male;White;35-44;327;490188;66.7
+2023;Michigan;Male;White;45-54;177;478794;37.0
+2023;Michigan;Male;White;55-64;177;557346;31.8
+2023;Michigan;Male;White;65-74;47;478299;9.8
+2023;Minnesota;Female;American Indian or Alaska Native;25-34;16;5740;278.7
+2023;Minnesota;Female;American Indian or Alaska Native;35-44;16;5024;318.5
+2023;Minnesota;Female;Black or African American;15-24;12;36115;33.2
+2023;Minnesota;Female;Black or African American;25-34;25;34881;71.7
+2023;Minnesota;Female;Black or African American;35-44;13;32804;39.6
+2023;Minnesota;Female;Black or African American;45-54;18;22771;79.0
+2023;Minnesota;Female;Black or African American;55-64;14;16240;86.2
+2023;Minnesota;Female;White;15-24;25;280245;8.9
+2023;Minnesota;Female;White;25-34;34;279344;12.2
+2023;Minnesota;Female;White;35-44;36;307252;11.7
+2023;Minnesota;Female;White;45-54;32;272787;11.7
+2023;Minnesota;Female;White;55-64;21;325828;6.4
+2023;Minnesota;Male;American Indian or Alaska Native;25-34;22;5742;383.1
+2023;Minnesota;Male;American Indian or Alaska Native;35-44;19;5258;361.4
+2023;Minnesota;Male;American Indian or Alaska Native;45-54;18;4058;443.6
+2023;Minnesota;Male;Black or African American;15-24;13;37483;34.7
+2023;Minnesota;Male;Black or African American;25-34;48;36355;132.0
+2023;Minnesota;Male;Black or African American;35-44;36;36262;99.3
+2023;Minnesota;Male;Black or African American;45-54;38;24762;153.5
+2023;Minnesota;Male;Black or African American;55-64;47;17979;261.4
+2023;Minnesota;Male;Black or African American;65-74;15;9019;166.3
+2023;Minnesota;Male;White;15-24;30;290496;10.3
+2023;Minnesota;Male;White;25-34;102;293782;34.7
+2023;Minnesota;Male;White;35-44;102;323850;31.5
+2023;Minnesota;Male;White;45-54;68;286784;23.7
+2023;Minnesota;Male;White;55-64;48;327704;14.6
+2023;Minnesota;Male;White;65-74;13;274793;4.7
+2023;Minnesota;Male;More than one race;25-34;13;12028;108.1
+2023;Mississippi;Female;Black or African American;35-44;11;77388;14.2
+2023;Mississippi;Female;White;15-24;12;107783;11.1
+2023;Mississippi;Female;White;25-34;23;102419;22.5
+2023;Mississippi;Female;White;35-44;39;104227;37.4
+2023;Mississippi;Female;White;45-54;33;104678;31.5
+2023;Mississippi;Female;White;55-64;15;115039;13.0
+2023;Mississippi;Male;Black or African American;15-24;11;86259;12.8
+2023;Mississippi;Male;Black or African American;25-34;20;75306;26.6
+2023;Mississippi;Male;Black or African American;35-44;26;65539;39.7
+2023;Mississippi;Male;Black or African American;45-54;22;58252;37.8
+2023;Mississippi;Male;White;15-24;21;114181;18.4
+2023;Mississippi;Male;White;25-34;64;103847;61.6
+2023;Mississippi;Male;White;35-44;70;105683;66.2
+2023;Mississippi;Male;White;45-54;40;106776;37.5
+2023;Mississippi;Male;White;55-64;37;113844;32.5
+2023;Mississippi;Male;White;65-74;11;95806;11.5
+2023;Missouri;Female;Black or African American;25-34;24;57340;41.9
+2023;Missouri;Female;Black or African American;35-44;28;49669;56.4
+2023;Missouri;Female;Black or African American;45-54;27;43341;62.3
+2023;Missouri;Female;Black or African American;55-64;18;44270;40.7
+2023;Missouri;Female;White;15-24;34;313585;10.8
+2023;Missouri;Female;White;25-34;58;319407;18.2
+2023;Missouri;Female;White;35-44;94;326889;28.8
+2023;Missouri;Female;White;45-54;69;298928;23.1
+2023;Missouri;Female;White;55-64;31;343868;9.0
+2023;Missouri;Female;White;65-74;12;307729;3.9
+2023;Missouri;Male;Black or African American;15-24;19;54437;34.9
+2023;Missouri;Male;Black or African American;25-34;51;55226;92.3
+2023;Missouri;Male;Black or African American;35-44;102;43916;232.3
+2023;Missouri;Male;Black or African American;45-54;85;37183;228.6
+2023;Missouri;Male;Black or African American;55-64;61;36996;164.9
+2023;Missouri;Male;Black or African American;65-74;26;25385;102.4
+2023;Missouri;Male;White;15-24;49;328987;14.9
+2023;Missouri;Male;White;25-34;181;325421;55.6
+2023;Missouri;Male;White;35-44;215;333920;64.4
+2023;Missouri;Male;White;45-54;97;304462;31.9
+2023;Missouri;Male;White;55-64;87;336460;25.9
+2023;Missouri;Male;White;65-74;23;280112;8.2
+2023;Montana;Male;White;25-34;16;66290;24.1
+2023;Montana;Male;White;35-44;19;67933;28.0
+2023;Montana;Male;White;45-54;16;59067;27.1
+2023;Nebraska;Male;White;25-34;11;108836;10.1
+2023;Nebraska;Male;White;35-44;17;115870;14.7
+2023;Nevada;Female;Black or African American;25-34;12;29701;40.4
+2023;Nevada;Female;Black or African American;35-44;11;25769;42.7
+2023;Nevada;Female;White;15-24;12;128266;9.4
+2023;Nevada;Female;White;25-34;39;151836;25.7
+2023;Nevada;Female;White;35-44;32;149578;21.4
+2023;Nevada;Female;White;45-54;37;139390;26.5
+2023;Nevada;Female;White;55-64;41;144695;28.3
+2023;Nevada;Female;White;65-74;14;130775;10.7
+2023;Nevada;Male;Black or African American;25-34;22;30508;72.1
+2023;Nevada;Male;Black or African American;35-44;27;25071;107.7
+2023;Nevada;Male;Black or African American;45-54;13;19698;66.0
+2023;Nevada;Male;Black or African American;55-64;20;17904;111.7
+2023;Nevada;Male;Black or African American;65-74;11;11826;93.0
+2023;Nevada;Male;White;15-24;25;136271;18.3
+2023;Nevada;Male;White;25-34;127;162356;78.2
+2023;Nevada;Male;White;35-44;142;165404;85.9
+2023;Nevada;Male;White;45-54;93;151891;61.2
+2023;Nevada;Male;White;55-64;66;154543;42.7
+2023;Nevada;Male;White;65-74;32;126203;25.4
+2023;New Hampshire;Female;White;25-34;17;77882;21.8
+2023;New Hampshire;Female;White;35-44;37;78684;47.0
+2023;New Hampshire;Female;White;45-54;26;78645;33.1
+2023;New Hampshire;Female;White;55-64;15;103237;14.5
+2023;New Hampshire;Male;White;15-24;10;76875;13.0
+2023;New Hampshire;Male;White;25-34;75;83363;90.0
+2023;New Hampshire;Male;White;35-44;85;82319;103.3
+2023;New Hampshire;Male;White;45-54;53;78086;67.9
+2023;New Hampshire;Male;White;55-64;34;100767;33.7
+2023;New Hampshire;Male;White;65-74;16;82539;19.4
+2023;New Jersey;Female;Black or African American;25-34;28;107819;26.0
+2023;New Jersey;Female;Black or African American;35-44;38;101682;37.4
+2023;New Jersey;Female;Black or African American;45-54;46;97537;47.2
+2023;New Jersey;Female;Black or African American;55-64;65;95449;68.1
+2023;New Jersey;Female;White;15-24;21;379692;5.5
+2023;New Jersey;Female;White;25-34;70;389715;18.0
+2023;New Jersey;Female;White;35-44;107;406645;26.3
+2023;New Jersey;Female;White;45-54;100;410319;24.4
+2023;New Jersey;Female;White;55-64;76;473596;16.0
+2023;New Jersey;Female;White;65-74;23;390321;5.9
+2023;New Jersey;Male;Black or African American;15-24;17;96962;17.5
+2023;New Jersey;Male;Black or African American;25-34;69;108143;63.8
+2023;New Jersey;Male;Black or African American;35-44;85;96773;87.8
+2023;New Jersey;Male;Black or African American;45-54;114;85613;133.2
+2023;New Jersey;Male;Black or African American;55-64;165;81321;202.9
+2023;New Jersey;Male;Black or African American;65-74;58;47954;120.9
+2023;New Jersey;Male;White;15-24;42;399807;10.5
+2023;New Jersey;Male;White;25-34;258;402748;64.1
+2023;New Jersey;Male;White;35-44;364;422135;86.2
+2023;New Jersey;Male;White;45-54;265;415381;63.8
+2023;New Jersey;Male;White;55-64;197;463878;42.5
+2023;New Jersey;Male;White;65-74;53;352988;15.0
+2023;New Mexico;Female;American Indian or Alaska Native;25-34;12;17878;67.1
+2023;New Mexico;Female;American Indian or Alaska Native;35-44;13;16494;78.8
+2023;New Mexico;Female;White;25-34;41;103795;39.5
+2023;New Mexico;Female;White;35-44;36;106100;33.9
+2023;New Mexico;Female;White;45-54;34;96400;35.3
+2023;New Mexico;Female;White;55-64;36;112135;32.1
+2023;New Mexico;Female;White;65-74;13;113568;11.4
+2023;New Mexico;Male;American Indian or Alaska Native;25-34;15;17582;85.3
+2023;New Mexico;Male;American Indian or Alaska Native;35-44;17;16056;105.9
+2023;New Mexico;Male;American Indian or Alaska Native;45-54;15;12446;120.5
+2023;New Mexico;Male;White;15-24;30;115754;25.9
+2023;New Mexico;Male;White;25-34;91;111263;81.8
+2023;New Mexico;Male;White;35-44;133;111820;118.9
+2023;New Mexico;Male;White;45-54;89;96021;92.7
+2023;New Mexico;Male;White;55-64;52;105700;49.2
+2023;New Mexico;Male;White;65-74;32;101571;31.5
+2023;New York;Female;Black or African American;15-24;14;226853;6.2
+2023;New York;Female;Black or African American;25-34;63;265123;23.8
+2023;New York;Female;Black or African American;35-44;79;236813;33.4
+2023;New York;Female;Black or African American;45-54;90;226045;39.8
+2023;New York;Female;Black or African American;55-64;119;244178;48.7
+2023;New York;Female;Black or African American;65-74;41;177307;23.1
+2023;New York;Female;White;15-24;47;805467;5.8
+2023;New York;Female;White;25-34;200;887836;22.5
+2023;New York;Female;White;35-44;232;837529;27.7
+2023;New York;Female;White;45-54;199;799434;24.9
+2023;New York;Female;White;55-64;199;932800;21.3
+2023;New York;Female;White;65-74;58;810441;7.2
+2023;New York;Male;Asian;25-34;17;142240;12.0
+2023;New York;Male;Asian;35-44;15;133471;11.2
+2023;New York;Male;Black or African American;15-24;23;225609;10.2
+2023;New York;Male;Black or African American;25-34;145;261982;55.3
+2023;New York;Male;Black or African American;35-44;204;220424;92.5
+2023;New York;Male;Black or African American;45-54;212;192005;110.4
+2023;New York;Male;Black or African American;55-64;416;200127;207.9
+2023;New York;Male;Black or African American;65-74;152;131621;115.5
+2023;New York;Male;Black or African American;75-84;15;56942;26.3
+2023;New York;Male;White;15-24;98;825908;11.9
+2023;New York;Male;White;25-34;516;897598;57.5
+2023;New York;Male;White;35-44;719;871424;82.5
+2023;New York;Male;White;45-54;569;813235;70.0
+2023;New York;Male;White;55-64;534;916264;58.3
+2023;New York;Male;White;65-74;186;735669;25.3
+2023;New York;Male;White;75-84;15;379368;4.0
+2023;New York;Male;More than one race;25-34;13;42013;30.9
+2023;North Carolina;Female;Black or African American;15-24;28;173451;16.1
+2023;North Carolina;Female;Black or African American;25-34;57;182541;31.2
+2023;North Carolina;Female;Black or African American;35-44;51;165293;30.9
+2023;North Carolina;Female;Black or African American;45-54;37;159068;23.3
+2023;North Carolina;Female;Black or African American;55-64;18;156828;11.5
+2023;North Carolina;Female;White;15-24;45;463946;9.7
+2023;North Carolina;Female;White;25-34;149;483006;30.8
+2023;North Carolina;Female;White;35-44;204;475976;42.9
+2023;North Carolina;Female;White;45-54;130;481144;27.0
+2023;North Carolina;Female;White;55-64;68;517966;13.1
+2023;North Carolina;Female;White;65-74;24;461006;5.2
+2023;North Carolina;Male;American Indian or Alaska Native;25-34;12;11840;101.4
+2023;North Carolina;Male;American Indian or Alaska Native;35-44;12;10758;111.5
+2023;North Carolina;Male;Black or African American;15-24;29;173518;16.7
+2023;North Carolina;Male;Black or African American;25-34;144;173037;83.2
+2023;North Carolina;Male;Black or African American;35-44;160;143875;111.2
+2023;North Carolina;Male;Black or African American;45-54;88;131191;67.1
+2023;North Carolina;Male;Black or African American;55-64;100;130044;76.9
+2023;North Carolina;Male;Black or African American;65-74;27;93104;29.0
+2023;North Carolina;Male;White;15-24;126;499629;25.2
+2023;North Carolina;Male;White;25-34;383;489472;78.2
+2023;North Carolina;Male;White;35-44;468;473704;98.8
+2023;North Carolina;Male;White;45-54;262;482685;54.3
+2023;North Carolina;Male;White;55-64;143;500965;28.5
+2023;North Carolina;Male;White;65-74;47;409910;11.5
+2023;North Dakota;Male;White;25-34;21;48375;43.4
+2023;North Dakota;Male;White;35-44;10;47410;21.1
+2023;Ohio;Female;Black or African American;25-34;56;123895;45.2
+2023;Ohio;Female;Black or African American;35-44;51;105041;48.6
+2023;Ohio;Female;Black or African American;45-54;42;91013;46.1
+2023;Ohio;Female;Black or African American;55-64;44;91006;48.3
+2023;Ohio;Female;Black or African American;65-74;14;74300;18.8
+2023;Ohio;Female;White;15-24;45;566572;7.9
+2023;Ohio;Female;White;25-34;183;589658;31.0
+2023;Ohio;Female;White;35-44;299;589301;50.7
+2023;Ohio;Female;White;45-54;211;574008;36.8
+2023;Ohio;Female;White;55-64;148;657677;22.5
+2023;Ohio;Female;White;65-74;35;600387;5.8
+2023;Ohio;Male;Black or African American;15-24;26;116253;22.4
+2023;Ohio;Male;Black or African American;25-34;121;121347;99.7
+2023;Ohio;Male;Black or African American;35-44;152;96717;157.2
+2023;Ohio;Male;Black or African American;45-54;104;84032;123.8
+2023;Ohio;Male;Black or African American;55-64;141;80402;175.4
+2023;Ohio;Male;Black or African American;65-74;55;57360;95.9
+2023;Ohio;Male;White;15-24;83;595562;13.9
+2023;Ohio;Male;White;25-34;453;607927;74.5
+2023;Ohio;Male;White;35-44;638;601538;106.1
+2023;Ohio;Male;White;45-54;435;580153;75.0
+2023;Ohio;Male;White;55-64;318;641798;49.5
+2023;Ohio;Male;White;65-74;70;547940;12.8
+2023;Oklahoma;Female;American Indian or Alaska Native;25-34;17;27697;61.4
+2023;Oklahoma;Female;American Indian or Alaska Native;35-44;12;24350;49.3
+2023;Oklahoma;Female;Black or African American;25-34;14;24493;57.2
+2023;Oklahoma;Female;White;15-24;12;186374;6.4
+2023;Oklahoma;Female;White;25-34;34;187080;18.2
+2023;Oklahoma;Female;White;35-44;58;195044;29.7
+2023;Oklahoma;Female;White;45-54;30;174018;17.2
+2023;Oklahoma;Female;White;55-64;24;188407;12.7
+2023;Oklahoma;Male;American Indian or Alaska Native;25-34;22;28413;77.4
+2023;Oklahoma;Male;American Indian or Alaska Native;35-44;18;24240;74.3
+2023;Oklahoma;Male;Black or African American;25-34;27;27346;98.7
+2023;Oklahoma;Male;Black or African American;35-44;16;22549;71.0
+2023;Oklahoma;Male;Black or African American;55-64;11;16105;68.3
+2023;Oklahoma;Male;White;15-24;21;199466;10.5
+2023;Oklahoma;Male;White;25-34;111;193985;57.2
+2023;Oklahoma;Male;White;35-44;129;201117;64.1
+2023;Oklahoma;Male;White;45-54;82;178918;45.8
+2023;Oklahoma;Male;White;55-64;54;183393;29.4
+2023;Oklahoma;Male;White;65-74;18;155226;11.6
+2023;Oklahoma;Male;More than one race;35-44;11;13364;82.3
+2023;Oregon;Female;White;15-24;25;205726;12.2
+2023;Oregon;Female;White;25-34;56;239139;23.4
+2023;Oregon;Female;White;35-44;63;248879;25.3
+2023;Oregon;Female;White;45-54;59;220608;26.7
+2023;Oregon;Female;White;55-64;63;228433;27.6
+2023;Oregon;Female;White;65-74;26;237553;10.9
+2023;Oregon;Male;Black or African American;25-34;13;10510;123.7
+2023;Oregon;Male;Black or African American;35-44;15;9373;160.0
+2023;Oregon;Male;Black or African American;45-54;10;6936;144.2
+2023;Oregon;Male;Black or African American;55-64;17;5554;306.1
+2023;Oregon;Male;White;15-24;55;214829;25.6
+2023;Oregon;Male;White;25-34;235;246716;95.3
+2023;Oregon;Male;White;35-44;245;257703;95.1
+2023;Oregon;Male;White;45-54;160;231752;69.0
+2023;Oregon;Male;White;55-64;140;222241;63.0
+2023;Oregon;Male;White;65-74;57;214283;26.6
+2023;Oregon;Male;More than one race;25-34;15;15725;95.4
+2023;Pennsylvania;Female;Black or African American;15-24;10;116919;8.6
+2023;Pennsylvania;Female;Black or African American;25-34;50;124774;40.1
+2023;Pennsylvania;Female;Black or African American;35-44;69;106904;64.5
+2023;Pennsylvania;Female;Black or African American;45-54;48;91633;52.4
+2023;Pennsylvania;Female;Black or African American;55-64;59;93604;63.0
+2023;Pennsylvania;Female;White;15-24;35;616732;5.7
+2023;Pennsylvania;Female;White;25-34;165;622240;26.5
+2023;Pennsylvania;Female;White;35-44;212;643489;32.9
+2023;Pennsylvania;Female;White;45-54;151;617860;24.4
+2023;Pennsylvania;Female;White;55-64;157;752243;20.9
+2023;Pennsylvania;Female;White;65-74;38;692171;5.5
+2023;Pennsylvania;Male;Black or African American;15-24;27;120566;22.4
+2023;Pennsylvania;Male;Black or African American;25-34;95;128351;74.0
+2023;Pennsylvania;Male;Black or African American;35-44;124;101691;121.9
+2023;Pennsylvania;Male;Black or African American;45-54;162;84037;192.8
+2023;Pennsylvania;Male;Black or African American;55-64;157;80892;194.1
+2023;Pennsylvania;Male;Black or African American;65-74;66;53065;124.4
+2023;Pennsylvania;Male;White;15-24;85;637781;13.3
+2023;Pennsylvania;Male;White;25-34;420;647137;64.9
+2023;Pennsylvania;Male;White;35-44;554;665515;83.2
+2023;Pennsylvania;Male;White;45-54;374;628414;59.5
+2023;Pennsylvania;Male;White;55-64;312;735888;42.4
+2023;Pennsylvania;Male;White;65-74;107;639520;16.7
+2023;Rhode Island;Female;White;25-34;12;58214;20.6
+2023;Rhode Island;Female;White;35-44;34;56518;60.2
+2023;Rhode Island;Female;White;45-54;26;54596;47.6
+2023;Rhode Island;Male;White;25-34;38;60357;63.0
+2023;Rhode Island;Male;White;35-44;60;58157;103.2
+2023;Rhode Island;Male;White;45-54;48;53286;90.1
+2023;Rhode Island;Male;White;55-64;46;64615;71.2
+2023;Rhode Island;Male;White;65-74;14;52720;26.6
+2023;South Carolina;Female;Black or African American;25-34;23;102275;22.5
+2023;South Carolina;Female;Black or African American;35-44;20;96118;20.8
+2023;South Carolina;Female;Black or African American;45-54;19;88511;21.5
+2023;South Carolina;Female;Black or African American;55-64;17;94341;18.0
+2023;South Carolina;Female;White;15-24;19;216417;8.8
+2023;South Carolina;Female;White;25-34;100;227766;43.9
+2023;South Carolina;Female;White;35-44;114;230145;49.5
+2023;South Carolina;Female;White;45-54;112;227044;49.3
+2023;South Carolina;Female;White;55-64;75;262163;28.6
+2023;South Carolina;Female;White;65-74;28;248710;11.3
+2023;South Carolina;Male;Black or African American;15-24;16;102175;15.7
+2023;South Carolina;Male;Black or African American;25-34;50;95731;52.2
+2023;South Carolina;Male;Black or African American;35-44;81;81572;99.3
+2023;South Carolina;Male;Black or African American;45-54;54;72276;74.7
+2023;South Carolina;Male;Black or African American;55-64;71;76796;92.5
+2023;South Carolina;Male;Black or African American;65-74;30;58161;51.6
+2023;South Carolina;Male;White;15-24;66;231073;28.6
+2023;South Carolina;Male;White;25-34;203;226181;89.8
+2023;South Carolina;Male;White;35-44;243;229212;106.0
+2023;South Carolina;Male;White;45-54;170;226656;75.0
+2023;South Carolina;Male;White;55-64;124;247735;50.1
+2023;South Carolina;Male;White;65-74;26;219912;11.8
+2023;Tennessee;Female;Black or African American;15-24;19;85454;22.2
+2023;Tennessee;Female;Black or African American;25-34;46;96063;47.9
+2023;Tennessee;Female;Black or African American;35-44;42;82517;50.9
+2023;Tennessee;Female;Black or African American;45-54;31;73737;42.0
+2023;Tennessee;Female;Black or African American;55-64;12;73192;16.4
+2023;Tennessee;Female;White;15-24;40;336863;11.9
+2023;Tennessee;Female;White;25-34;152;372886;40.8
+2023;Tennessee;Female;White;35-44;211;355418;59.4
+2023;Tennessee;Female;White;45-54;158;350317;45.1
+2023;Tennessee;Female;White;55-64;111;377437;29.4
+2023;Tennessee;Female;White;65-74;24;328716;7.3
+2023;Tennessee;Male;Black or African American;15-24;24;85769;28.0
+2023;Tennessee;Male;Black or African American;25-34;117;90980;128.6
+2023;Tennessee;Male;Black or African American;35-44;133;71831;185.2
+2023;Tennessee;Male;Black or African American;45-54;120;63040;190.4
+2023;Tennessee;Male;Black or African American;55-64;73;60569;120.5
+2023;Tennessee;Male;Black or African American;65-74;22;42449;51.8
+2023;Tennessee;Male;White;15-24;100;351418;28.5
+2023;Tennessee;Male;White;25-34;341;373906;91.2
+2023;Tennessee;Male;White;35-44;459;355841;129.0
+2023;Tennessee;Male;White;45-54;348;352110;98.8
+2023;Tennessee;Male;White;55-64;231;364131;63.4
+2023;Tennessee;Male;White;65-74;49;294396;16.6
+2023;Texas;Female;Black or African American;15-24;29;297706;9.7
+2023;Texas;Female;Black or African American;25-34;38;342848;11.1
+2023;Texas;Female;Black or African American;35-44;72;316162;22.8
+2023;Texas;Female;Black or African American;45-54;29;259770;11.2
+2023;Texas;Female;Black or African American;55-64;17;229691;7.4
+2023;Texas;Female;White;15-24;114;1611233;7.1
+2023;Texas;Female;White;25-34;156;1596182;9.8
+2023;Texas;Female;White;35-44;177;1574081;11.2
+2023;Texas;Female;White;45-54;131;1422860;9.2
+2023;Texas;Female;White;55-64;113;1335241;8.5
+2023;Texas;Female;White;65-74;42;1086222;3.9
+2023;Texas;Male;Asian;25-34;11;142581;7.7
+2023;Texas;Male;Asian;35-44;12;162993;7.4
+2023;Texas;Male;Black or African American;15-24;46;307058;15.0
+2023;Texas;Male;Black or African American;25-34;96;336463;28.5
+2023;Texas;Male;Black or African American;35-44;93;296450;31.4
+2023;Texas;Male;Black or African American;45-54;54;239160;22.6
+2023;Texas;Male;Black or African American;55-64;48;202575;23.7
+2023;Texas;Male;Black or African American;65-74;24;126879;18.9
+2023;Texas;Male;White;15-24;251;1701140;14.8
+2023;Texas;Male;White;25-34;500;1673189;29.9
+2023;Texas;Male;White;35-44;511;1659523;30.8
+2023;Texas;Male;White;45-54;260;1452667;17.9
+2023;Texas;Male;White;55-64;196;1319438;14.9
+2023;Texas;Male;White;65-74;69;982964;7.0
+2023;Utah;Female;White;15-24;10;249447;4.0
+2023;Utah;Female;White;25-34;23;217139;10.6
+2023;Utah;Female;White;35-44;41;205146;20.0
+2023;Utah;Female;White;45-54;38;171494;22.2
+2023;Utah;Female;White;55-64;38;142314;26.7
+2023;Utah;Female;White;65-74;14;123042;11.4
+2023;Utah;Male;White;15-24;25;261944;9.5
+2023;Utah;Male;White;25-34;76;229103;33.2
+2023;Utah;Male;White;35-44;82;213327;38.4
+2023;Utah;Male;White;45-54;50;181025;27.6
+2023;Utah;Male;White;55-64;46;143063;32.2
+2023;Vermont;Female;White;35-44;23;37835;60.8
+2023;Vermont;Female;White;45-54;15;35829;41.9
+2023;Vermont;Female;White;55-64;13;45149;28.8
+2023;Vermont;Male;White;25-34;34;35774;95.0
+2023;Vermont;Male;White;35-44;52;37502;138.7
+2023;Vermont;Male;White;45-54;35;36178;96.7
+2023;Vermont;Male;White;55-64;26;43285;60.1
+2023;Vermont;Male;White;65-74;11;40367;27.2
+2023;Virginia;Female;Black or African American;15-24;19;120067;15.8
+2023;Virginia;Female;Black or African American;25-34;43;127881;33.6
+2023;Virginia;Female;Black or African American;35-44;40;122669;32.6
+2023;Virginia;Female;Black or African American;45-54;36;107729;33.4
+2023;Virginia;Female;Black or African American;55-64;31;117648;26.3
+2023;Virginia;Female;Black or African American;65-74;11;88640;12.4
+2023;Virginia;Female;White;15-24;23;359954;6.4
+2023;Virginia;Female;White;25-34;96;376173;25.5
+2023;Virginia;Female;White;35-44;119;390934;30.4
+2023;Virginia;Female;White;45-54;72;365301;19.7
+2023;Virginia;Female;White;55-64;42;397036;10.6
+2023;Virginia;Female;White;65-74;13;342128;3.8
+2023;Virginia;Male;Black or African American;15-24;21;121814;17.2
+2023;Virginia;Male;Black or African American;25-34;102;130489;78.2
+2023;Virginia;Male;Black or African American;35-44;138;117143;117.8
+2023;Virginia;Male;Black or African American;45-54;102;98526;103.5
+2023;Virginia;Male;Black or African American;55-64;151;101667;148.5
+2023;Virginia;Male;Black or African American;65-74;37;70452;52.5
+2023;Virginia;Male;White;15-24;88;384547;22.9
+2023;Virginia;Male;White;25-34;217;389263;55.7
+2023;Virginia;Male;White;35-44;265;406418;65.2
+2023;Virginia;Male;White;45-54;190;374923;50.7
+2023;Virginia;Male;White;55-64;118;392413;30.1
+2023;Virginia;Male;White;65-74;31;311503;10.0
+2023;Virginia;Male;More than one race;25-34;10;22162;45.1
+2023;Washington;Female;American Indian or Alaska Native;25-34;14;11175;125.3
+2023;Washington;Female;American Indian or Alaska Native;35-44;14;9742;143.7
+2023;Washington;Female;American Indian or Alaska Native;45-54;10;7931;126.1
+2023;Washington;Female;American Indian or Alaska Native;55-64;13;7359;176.7
+2023;Washington;Female;Black or African American;25-34;10;28543;35.0
+2023;Washington;Female;Black or African American;35-44;19;25915;73.3
+2023;Washington;Female;Black or African American;45-54;16;18828;85.0
+2023;Washington;Female;Black or African American;55-64;13;16575;78.4
+2023;Washington;Female;White;15-24;34;333066;10.2
+2023;Washington;Female;White;25-34;90;405121;22.2
+2023;Washington;Female;White;35-44;136;406399;33.5
+2023;Washington;Female;White;45-54;111;353798;31.4
+2023;Washington;Female;White;55-64;134;378623;35.4
+2023;Washington;Female;White;65-74;38;357219;10.6
+2023;Washington;Female;More than one race;25-34;16;33724;47.4
+2023;Washington;Female;More than one race;45-54;12;15712;76.4
+2023;Washington;Male;American Indian or Alaska Native;25-34;22;11930;184.4
+2023;Washington;Male;American Indian or Alaska Native;35-44;27;10641;253.7
+2023;Washington;Male;American Indian or Alaska Native;45-54;13;8284;156.9
+2023;Washington;Male;American Indian or Alaska Native;55-64;14;7057;198.4
+2023;Washington;Male;Asian;25-34;14;87924;15.9
+2023;Washington;Male;Asian;35-44;11;72131;15.3
+2023;Washington;Male;Asian;45-54;17;49627;34.3
+2023;Washington;Male;Black or African American;15-24;10;26583;37.6
+2023;Washington;Male;Black or African American;25-34;52;36881;141.0
+2023;Washington;Male;Black or African American;35-44;52;33932;153.2
+2023;Washington;Male;Black or African American;45-54;56;25302;221.3
+2023;Washington;Male;Black or African American;55-64;60;20400;294.1
+2023;Washington;Male;Black or African American;65-74;29;12037;240.9
+2023;Washington;Male;White;15-24;71;358287;19.8
+2023;Washington;Male;White;25-34;307;437422;70.2
+2023;Washington;Male;White;35-44;418;438000;95.4
+2023;Washington;Male;White;45-54;314;373044;84.2
+2023;Washington;Male;White;55-64;327;381389;85.7
+2023;Washington;Male;White;65-74;113;330501;34.2
+2023;Washington;Male;White;75-84;10;166622;6.0
+2023;Washington;Male;More than one race;15-24;13;42109;30.9
+2023;Washington;Male;More than one race;25-34;29;35139;82.5
+2023;Washington;Male;More than one race;35-44;29;23446;123.7
+2023;Washington;Male;More than one race;45-54;19;14597;130.2
+2023;Washington;Male;More than one race;55-64;10;9953;100.5
+2023;West Virginia;Female;White;15-24;16;96376;16.6
+2023;West Virginia;Female;White;25-34;74;95025;77.9
+2023;West Virginia;Female;White;35-44;106;96440;109.9
+2023;West Virginia;Female;White;45-54;80;103685;77.2
+2023;West Virginia;Female;White;55-64;64;113345;56.5
+2023;West Virginia;Male;Black or African American;25-34;18;6389;281.7
+2023;West Virginia;Male;Black or African American;35-44;17;5604;303.4
+2023;West Virginia;Male;Black or African American;45-54;14;4372;320.2
+2023;West Virginia;Male;Black or African American;55-64;18;3943;456.5
+2023;West Virginia;Male;White;15-24;35;103062;34.0
+2023;West Virginia;Male;White;25-34;161;100354;160.4
+2023;West Virginia;Male;White;35-44;200;98350;203.4
+2023;West Virginia;Male;White;45-54;171;105749;161.7
+2023;West Virginia;Male;White;55-64;108;110044;98.1
+2023;West Virginia;Male;White;65-74;43;101817;42.2
+2023;Wisconsin;Female;Black or African American;25-34;13;32167;40.4
+2023;Wisconsin;Female;Black or African American;35-44;15;26501;56.6
+2023;Wisconsin;Female;Black or African American;45-54;17;21425;79.3
+2023;Wisconsin;Female;Black or African American;55-64;22;19326;113.8
+2023;Wisconsin;Female;White;15-24;22;316985;6.9
+2023;Wisconsin;Female;White;25-34;58;295005;19.7
+2023;Wisconsin;Female;White;35-44;99;314663;31.5
+2023;Wisconsin;Female;White;45-54;74;298519;24.8
+2023;Wisconsin;Female;White;55-64;56;367726;15.2
+2023;Wisconsin;Female;White;65-74;11;324442;3.4
+2023;Wisconsin;Male;American Indian or Alaska Native;35-44;10;4563;219.2
+2023;Wisconsin;Male;Black or African American;15-24;12;33312;36.0
+2023;Wisconsin;Male;Black or African American;25-34;31;32890;94.3
+2023;Wisconsin;Male;Black or African American;35-44;41;24532;167.1
+2023;Wisconsin;Male;Black or African American;45-54;62;20006;309.9
+2023;Wisconsin;Male;Black or African American;55-64;62;17070;363.2
+2023;Wisconsin;Male;Black or African American;65-74;24;10548;227.5
+2023;Wisconsin;Male;White;15-24;28;330172;8.5
+2023;Wisconsin;Male;White;25-34;156;312339;49.9
+2023;Wisconsin;Male;White;35-44;224;329783;67.9
+2023;Wisconsin;Male;White;45-54;144;312290;46.1
+2023;Wisconsin;Male;White;55-64;112;370065;30.3
+2023;Wisconsin;Male;White;65-74;35;314261;11.1
+2023;Wyoming;Female;White;55-64;12;33649;35.7
+2023;Wyoming;Male;White;25-34;16;33899;47.2
+2023;Wyoming;Male;White;35-44;16;37831;42.3
+2024;Alabama;Female;Black or African American;25-34;13;102600;12.7
+2024;Alabama;Female;Black or African American;45-54;11;89239;12.3
+2024;Alabama;Female;White;15-24;11;220961;5.0
+2024;Alabama;Female;White;25-34;36;217410;16.6
+2024;Alabama;Female;White;35-44;57;217688;26.2
+2024;Alabama;Female;White;45-54;47;216896;21.7
+2024;Alabama;Female;White;55-64;31;237236;13.1
+2024;Alabama;Female;White;65-74;11;217444;5.1
+2024;Alabama;Male;Black or African American;25-34;44;94498;46.6
+2024;Alabama;Male;Black or African American;35-44;55;80909;68.0
+2024;Alabama;Male;Black or African American;45-54;39;70895;55.0
+2024;Alabama;Male;Black or African American;55-64;20;70477;28.4
+2024;Alabama;Male;White;15-24;18;228420;7.9
+2024;Alabama;Male;White;25-34;91;218378;41.7
+2024;Alabama;Male;White;35-44;136;216188;62.9
+2024;Alabama;Male;White;45-54;103;217380;47.4
+2024;Alabama;Male;White;55-64;47;232747;20.2
+2024;Alaska;Female;American Indian or Alaska Native;35-44;13;7416;175.3
+2024;Alaska;Female;White;35-44;11;33639;32.7
+2024;Alaska;Male;American Indian or Alaska Native;25-34;17;8780;193.6
+2024;Alaska;Male;American Indian or Alaska Native;35-44;14;8028;174.4
+2024;Alaska;Male;American Indian or Alaska Native;45-54;10;5736;174.3
+2024;Alaska;Male;White;25-34;13;38070;34.1
+2024;Alaska;Male;White;35-44;25;39335;63.6
+2024;Alaska;Male;White;45-54;28;31382;89.2
+2024;Alaska;Male;White;55-64;19;31859;59.6
+2024;Alaska;Male;White;65-74;13;27816;46.7
+2024;Arizona;Female;American Indian or Alaska Native;25-34;12;29875;40.2
+2024;Arizona;Female;American Indian or Alaska Native;35-44;15;26687;56.2
+2024;Arizona;Female;Black or African American;25-34;11;34785;31.6
+2024;Arizona;Female;Black or African American;45-54;14;24853;56.3
+2024;Arizona;Female;White;15-24;20;382913;5.2
+2024;Arizona;Female;White;25-34;65;394771;16.5
+2024;Arizona;Female;White;35-44;85;371926;22.9
+2024;Arizona;Female;White;45-54;78;351522;22.2
+2024;Arizona;Female;White;55-64;86;384343;22.4
+2024;Arizona;Female;White;65-74;31;387432;8.0
+2024;Arizona;Male;American Indian or Alaska Native;25-34;32;30891;103.6
+2024;Arizona;Male;American Indian or Alaska Native;35-44;28;26281;106.5
+2024;Arizona;Male;Black or African American;25-34;33;41353;79.8
+2024;Arizona;Male;Black or African American;35-44;22;36425;60.4
+2024;Arizona;Male;Black or African American;45-54;16;25637;62.4
+2024;Arizona;Male;Black or African American;55-64;11;21742;50.6
+2024;Arizona;Male;White;15-24;46;406418;11.3
+2024;Arizona;Male;White;25-34;226;422819;53.5
+2024;Arizona;Male;White;35-44;289;394299;73.3
+2024;Arizona;Male;White;45-54;183;355800;51.4
+2024;Arizona;Male;White;55-64;165;368838;44.7
+2024;Arizona;Male;White;65-74;64;343597;18.6
+2024;Arizona;Male;More than one race;25-34;15;21196;70.8
+2024;Arkansas;Female;White;25-34;11;151231;7.3
+2024;Arkansas;Female;White;35-44;19;151622;12.5
+2024;Arkansas;Female;White;55-64;13;154422;8.4
+2024;Arkansas;Male;White;25-34;20;153056;13.1
+2024;Arkansas;Male;White;35-44;28;154441;18.1
+2024;Arkansas;Male;White;45-54;16;147803;10.8
+2024;Arkansas;Male;White;55-64;14;152012;9.2
+2024;California;Female;American Indian or Alaska Native;35-44;11;49519;22.2
+2024;California;Female;Black or African American;25-34;39;193623;20.1
+2024;California;Female;Black or African American;35-44;41;178369;23.0
+2024;California;Female;Black or African American;45-54;38;153496;24.8
+2024;California;Female;Black or African American;55-64;36;159785;22.5
+2024;California;Female;Black or African American;65-74;20;123632;16.2
+2024;California;Female;White;15-24;68;1786111;3.8
+2024;California;Female;White;25-34;197;1900752;10.4
+2024;California;Female;White;35-44;205;1824227;11.2
+2024;California;Female;White;45-54;188;1647774;11.4
+2024;California;Female;White;55-64;180;1658276;10.9
+2024;California;Female;White;65-74;102;1411402;7.2
+2024;California;Female;White;75-84;20;842026;2.4
+2024;California;Female;More than one race;25-34;19;133278;14.3
+2024;California;Female;More than one race;35-44;17;102141;16.6
+2024;California;Female;More than one race;45-54;12;71409;16.8
+2024;California;Male;American Indian or Alaska Native;25-34;10;60844;16.4
+2024;California;Male;American Indian or Alaska Native;35-44;19;55217;34.4
+2024;California;Male;American Indian or Alaska Native;45-54;14;43592;32.1
+2024;California;Male;Asian;15-24;10;380887;2.6
+2024;California;Male;Asian;25-34;36;495925;7.3
+2024;California;Male;Asian;35-44;47;513860;9.1
+2024;California;Male;Asian;45-54;27;429099;6.3
+2024;California;Male;Asian;55-64;18;371773;4.8
+2024;California;Male;Black or African American;15-24;31;172692;18.0
+2024;California;Male;Black or African American;25-34;103;213351;48.3
+2024;California;Male;Black or African American;35-44;115;194148;59.2
+2024;California;Male;Black or African American;45-54;92;155353;59.2
+2024;California;Male;Black or African American;55-64;97;153287;63.3
+2024;California;Male;Black or African American;65-74;67;104050;64.4
+2024;California;Male;Black or African American;75-84;10;42798;23.4
+2024;California;Male;White;15-24;173;1878152;9.2
+2024;California;Male;White;25-34;807;1994877;40.5
+2024;California;Male;White;35-44;856;1985177;43.1
+2024;California;Male;White;45-54;590;1729673;34.1
+2024;California;Male;White;55-64;576;1693512;34.0
+2024;California;Male;White;65-74;243;1306310;18.6
+2024;California;Male;White;75-84;33;684634;4.8
+2024;California;Male;More than one race;15-24;10;168352;5.9
+2024;California;Male;More than one race;25-34;62;136064;45.6
+2024;California;Male;More than one race;35-44;54;99657;54.2
+2024;California;Male;More than one race;45-54;29;66813;43.4
+2024;California;Male;More than one race;55-64;13;51208;25.4
+2024;Colorado;Female;White;15-24;20;309108;6.5
+2024;Colorado;Female;White;25-34;59;375817;15.7
+2024;Colorado;Female;White;35-44;71;360405;19.7
+2024;Colorado;Female;White;45-54;40;302169;13.2
+2024;Colorado;Female;White;55-64;49;300599;16.3
+2024;Colorado;Female;White;65-74;29;278550;10.4
+2024;Colorado;Male;Black or African American;25-34;16;31586;50.7
+2024;Colorado;Male;Black or African American;35-44;14;26366;53.1
+2024;Colorado;Male;Black or African American;55-64;18;15175;118.6
+2024;Colorado;Male;White;15-24;37;334734;11.1
+2024;Colorado;Male;White;25-34;139;406969;34.2
+2024;Colorado;Male;White;35-44;176;393735;44.7
+2024;Colorado;Male;White;45-54;106;323358;32.8
+2024;Colorado;Male;White;55-64;88;297556;29.6
+2024;Colorado;Male;White;65-74;35;258073;13.6
+2024;Connecticut;Female;Black or African American;45-54;15;32587;46.0
+2024;Connecticut;Female;Black or African American;55-64;16;31049;51.5
+2024;Connecticut;Female;White;25-34;21;163978;12.8
+2024;Connecticut;Female;White;35-44;61;177862;34.3
+2024;Connecticut;Female;White;45-54;45;171667;26.2
+2024;Connecticut;Female;White;55-64;65;211923;30.7
+2024;Connecticut;Female;White;65-74;17;183943;9.2
+2024;Connecticut;Male;Black or African American;25-34;11;38554;28.5
+2024;Connecticut;Male;Black or African American;35-44;27;34260;78.8
+2024;Connecticut;Male;Black or African American;45-54;23;27947;82.3
+2024;Connecticut;Male;Black or African American;55-64;28;25286;110.7
+2024;Connecticut;Male;Black or African American;65-74;13;15403;84.4
+2024;Connecticut;Male;White;15-24;10;181499;5.5
+2024;Connecticut;Male;White;25-34;75;171624;43.7
+2024;Connecticut;Male;White;35-44;126;178511;70.6
+2024;Connecticut;Male;White;45-54;111;169247;65.6
+2024;Connecticut;Male;White;55-64;104;204389;50.9
+2024;Connecticut;Male;White;65-74;30;168090;17.8
+2024;Delaware;Female;Black or African American;35-44;13;17951;72.4
+2024;Delaware;Female;White;35-44;23;42149;54.6
+2024;Delaware;Female;White;45-54;13;39223;33.1
+2024;Delaware;Female;White;55-64;14;53573;26.1
+2024;Delaware;Male;Black or African American;35-44;19;14968;126.9
+2024;Delaware;Male;Black or African American;45-54;14;13496;103.7
+2024;Delaware;Male;Black or African American;55-64;14;14386;97.3
+2024;Delaware;Male;White;25-34;18;39780;45.2
+2024;Delaware;Male;White;35-44;36;42365;85.0
+2024;Delaware;Male;White;45-54;34;37832;89.9
+2024;Delaware;Male;White;55-64;29;48961;59.2
+2024;Delaware;Male;White;65-74;10;50210;19.9
+2024;District of Columbia;Female;Black or African American;35-44;14;23223;60.3
+2024;District of Columbia;Female;Black or African American;55-64;19;18684;101.7
+2024;District of Columbia;Female;Black or African American;65-74;15;17146;87.5
+2024;District of Columbia;Male;Black or African American;25-34;13;23415;55.5
+2024;District of Columbia;Male;Black or African American;35-44;17;19153;88.8
+2024;District of Columbia;Male;Black or African American;45-54;24;14759;162.6
+2024;District of Columbia;Male;Black or African American;55-64;58;14938;388.3
+2024;District of Columbia;Male;Black or African American;65-74;35;11663;300.1
+2024;Florida;Female;Black or African American;15-24;10;279431;3.6
+2024;Florida;Female;Black or African American;25-34;32;297521;10.8
+2024;Florida;Female;Black or African American;35-44;27;288035;9.4
+2024;Florida;Female;Black or African American;45-54;26;247724;10.5
+2024;Florida;Female;Black or African American;55-64;17;229994;7.4
+2024;Florida;Female;Black or African American;65-74;11;180761;6.1
+2024;Florida;Female;White;15-24;43;936918;4.6
+2024;Florida;Female;White;25-34;150;1045017;14.4
+2024;Florida;Female;White;35-44;247;1106697;22.3
+2024;Florida;Female;White;45-54;202;1084072;18.6
+2024;Florida;Female;White;55-64;168;1264075;13.3
+2024;Florida;Female;White;65-74;56;1223982;4.6
+2024;Florida;Female;White;75-84;17;829262;2.1
+2024;Florida;Male;Black or African American;15-24;16;283786;5.6
+2024;Florida;Male;Black or African American;25-34;68;297722;22.8
+2024;Florida;Male;Black or African American;35-44;85;272062;31.2
+2024;Florida;Male;Black or African American;45-54;93;222699;41.8
+2024;Florida;Male;Black or African American;55-64;46;203422;22.6
+2024;Florida;Male;Black or African American;65-74;20;144984;13.8
+2024;Florida;Male;White;15-24;97;988296;9.8
+2024;Florida;Male;White;25-34;384;1086146;35.4
+2024;Florida;Male;White;35-44;564;1153209;48.9
+2024;Florida;Male;White;45-54;400;1093893;36.6
+2024;Florida;Male;White;55-64;304;1207917;25.2
+2024;Florida;Male;White;65-74;109;1077302;10.1
+2024;Florida;Male;White;75-84;14;696924;2.0
+2024;Georgia;Female;Black or African American;15-24;11;271527;4.1
+2024;Georgia;Female;Black or African American;25-34;35;294264;11.9
+2024;Georgia;Female;Black or African American;35-44;37;281187;13.2
+2024;Georgia;Female;Black or African American;45-54;11;255999;4.3
+2024;Georgia;Female;Black or African American;55-64;20;235796;8.5
+2024;Georgia;Female;White;15-24;16;413970;3.9
+2024;Georgia;Female;White;25-34;62;415038;14.9
+2024;Georgia;Female;White;35-44;93;418654;22.2
+2024;Georgia;Female;White;45-54;67;411907;16.3
+2024;Georgia;Female;White;55-64;42;421727;10.0
+2024;Georgia;Female;White;65-74;20;362538;5.5
+2024;Georgia;Male;Black or African American;25-34;76;268768;28.3
+2024;Georgia;Male;Black or African American;35-44;62;237106;26.1
+2024;Georgia;Male;Black or African American;45-54;50;207344;24.1
+2024;Georgia;Male;Black or African American;55-64;37;193498;19.1
+2024;Georgia;Male;Black or African American;65-74;15;127746;11.7
+2024;Georgia;Male;White;15-24;36;440805;8.2
+2024;Georgia;Male;White;25-34;141;423703;33.3
+2024;Georgia;Male;White;35-44;196;426405;46.0
+2024;Georgia;Male;White;45-54;112;419455;26.7
+2024;Georgia;Male;White;55-64;64;420682;15.2
+2024;Georgia;Male;White;65-74;30;327180;9.2
+2024;Hawaii;Male;White;55-64;11;23764;46.3
+2024;Hawaii;Male;More than one race;35-44;11;22386;49.1
+2024;Hawaii;Male;More than one race;45-54;10;17419;57.4
+2024;Idaho;Female;White;25-34;12;113753;10.5
+2024;Idaho;Female;White;35-44;23;118927;19.3
+2024;Idaho;Female;White;45-54;12;104829;11.4
+2024;Idaho;Female;White;55-64;11;107198;10.3
+2024;Idaho;Male;White;25-34;23;121263;19.0
+2024;Idaho;Male;White;35-44;43;123266;34.9
+2024;Idaho;Male;White;45-54;21;109999;19.1
+2024;Idaho;Male;White;55-64;10;106713;9.4
+2024;Idaho;Male;White;65-74;13;97975;13.3
+2024;Illinois;Female;Black or African American;25-34;13;146038;8.9
+2024;Illinois;Female;Black or African American;35-44;28;128150;21.8
+2024;Illinois;Female;Black or African American;45-54;40;117989;33.9
+2024;Illinois;Female;Black or African American;55-64;60;116649;51.4
+2024;Illinois;Female;Black or African American;65-74;23;97112;23.7
+2024;Illinois;Female;White;15-24;21;597445;3.5
+2024;Illinois;Female;White;25-34;70;612603;11.4
+2024;Illinois;Female;White;35-44;84;622146;13.5
+2024;Illinois;Female;White;45-54;64;584290;11.0
+2024;Illinois;Female;White;55-64;59;619850;9.5
+2024;Illinois;Female;White;65-74;17;552437;3.1
+2024;Illinois;Male;Black or African American;15-24;28;130128;21.5
+2024;Illinois;Male;Black or African American;25-34;50;140439;35.6
+2024;Illinois;Male;Black or African American;35-44;64;115961;55.2
+2024;Illinois;Male;Black or African American;45-54;118;99345;118.8
+2024;Illinois;Male;Black or African American;55-64;168;95165;176.5
+2024;Illinois;Male;Black or African American;65-74;113;68859;164.1
+2024;Illinois;Male;Black or African American;75-84;13;29883;43.5
+2024;Illinois;Male;White;15-24;46;629518;7.3
+2024;Illinois;Male;White;25-34;182;632886;28.8
+2024;Illinois;Male;White;35-44;232;651281;35.6
+2024;Illinois;Male;White;45-54;196;608822;32.2
+2024;Illinois;Male;White;55-64;107;623359;17.2
+2024;Illinois;Male;White;65-74;25;514102;4.9
+2024;Indiana;Female;Black or African American;25-34;15;57848;25.9
+2024;Indiana;Female;Black or African American;35-44;16;51798;30.9
+2024;Indiana;Female;White;15-24;25;372706;6.7
+2024;Indiana;Female;White;25-34;68;359247;18.9
+2024;Indiana;Female;White;35-44;93;359823;25.8
+2024;Indiana;Female;White;45-54;68;345120;19.7
+2024;Indiana;Female;White;55-64;43;370025;11.6
+2024;Indiana;Female;White;65-74;19;335938;5.7
+2024;Indiana;Male;Black or African American;25-34;34;58410;58.2
+2024;Indiana;Male;Black or African American;35-44;40;48723;82.1
+2024;Indiana;Male;Black or African American;45-54;23;39196;58.7
+2024;Indiana;Male;Black or African American;55-64;29;33117;87.6
+2024;Indiana;Male;Black or African American;65-74;10;23165;43.2
+2024;Indiana;Male;White;15-24;40;392970;10.2
+2024;Indiana;Male;White;25-34;162;370864;43.7
+2024;Indiana;Male;White;35-44;181;366067;49.4
+2024;Indiana;Male;White;45-54;133;352347;37.7
+2024;Indiana;Male;White;55-64;78;364543;21.4
+2024;Indiana;Male;White;65-74;32;308058;10.4
+2024;Iowa;Female;White;25-34;23;168802;13.6
+2024;Iowa;Female;White;35-44;12;175910;6.8
+2024;Iowa;Female;White;45-54;11;162636;6.8
+2024;Iowa;Male;White;15-24;11;203110;5.4
+2024;Iowa;Male;White;25-34;18;178214;10.1
+2024;Iowa;Male;White;35-44;31;183812;16.9
+2024;Iowa;Male;White;45-54;16;168781;9.5
+2024;Kansas;Female;White;15-24;11;170261;6.5
+2024;Kansas;Female;White;25-34;19;152589;12.5
+2024;Kansas;Female;White;35-44;23;160800;14.3
+2024;Kansas;Female;White;45-54;32;141786;22.6
+2024;Kansas;Female;White;55-64;15;154085;9.7
+2024;Kansas;Male;Black or African American;25-34;11;16632;66.1
+2024;Kansas;Male;Black or African American;35-44;10;13650;73.3
+2024;Kansas;Male;Black or African American;45-54;12;10777;111.3
+2024;Kansas;Male;White;15-24;17;185678;9.2
+2024;Kansas;Male;White;25-34;48;161429;29.7
+2024;Kansas;Male;White;35-44;41;166184;24.7
+2024;Kansas;Male;White;45-54;27;146761;18.4
+2024;Kansas;Male;White;55-64;21;151396;13.9
+2024;Kansas;Male;White;65-74;13;135720;9.6
+2024;Kentucky;Female;Black or African American;25-34;10;29707;33.7
+2024;Kentucky;Female;Black or African American;35-44;12;26363;45.5
+2024;Kentucky;Female;White;15-24;20;241745;8.3
+2024;Kentucky;Female;White;25-34;57;250335;22.8
+2024;Kentucky;Female;White;35-44;85;246534;34.5
+2024;Kentucky;Female;White;45-54;75;244392;30.7
+2024;Kentucky;Female;White;55-64;52;263530;19.7
+2024;Kentucky;Female;White;65-74;23;236471;9.7
+2024;Kentucky;Male;Black or African American;15-24;10;34194;29.2
+2024;Kentucky;Male;Black or African American;25-34;24;34037;70.5
+2024;Kentucky;Male;Black or African American;35-44;23;27684;83.1
+2024;Kentucky;Male;Black or African American;45-54;15;22843;65.7
+2024;Kentucky;Male;Black or African American;55-64;12;20657;58.1
+2024;Kentucky;Male;White;15-24;18;255385;7.0
+2024;Kentucky;Male;White;25-34;104;258883;40.2
+2024;Kentucky;Male;White;35-44;183;247797;73.9
+2024;Kentucky;Male;White;45-54;134;246023;54.5
+2024;Kentucky;Male;White;55-64;103;252739;40.8
+2024;Kentucky;Male;White;65-74;22;211203;10.4
+2024;Louisiana;Female;Black or African American;25-34;13;109035;11.9
+2024;Louisiana;Female;Black or African American;35-44;12;105698;11.4
+2024;Louisiana;Female;White;25-34;33;174922;18.9
+2024;Louisiana;Female;White;35-44;54;191247;28.2
+2024;Louisiana;Female;White;45-54;42;168479;24.9
+2024;Louisiana;Female;White;55-64;38;187437;20.3
+2024;Louisiana;Male;Black or African American;25-34;27;104149;25.9
+2024;Louisiana;Male;Black or African American;35-44;56;92254;60.7
+2024;Louisiana;Male;Black or African American;45-54;31;73242;42.3
+2024;Louisiana;Male;Black or African American;55-64;13;73665;17.6
+2024;Louisiana;Male;White;15-24;16;178333;9.0
+2024;Louisiana;Male;White;25-34;64;178002;36.0
+2024;Louisiana;Male;White;35-44;127;194978;65.1
+2024;Louisiana;Male;White;45-54;83;173187;47.9
+2024;Louisiana;Male;White;55-64;48;183145;26.2
+2024;Louisiana;Male;White;65-74;24;160134;15.0
+2024;Maine;Female;White;25-34;14;76628;18.3
+2024;Maine;Female;White;35-44;34;82278;41.3
+2024;Maine;Female;White;45-54;42;78708;53.4
+2024;Maine;Female;White;55-64;21;100240;20.9
+2024;Maine;Male;White;15-24;11;74001;14.9
+2024;Maine;Male;White;25-34;31;77522;40.0
+2024;Maine;Male;White;35-44;72;81662;88.2
+2024;Maine;Male;White;45-54;55;77226;71.2
+2024;Maine;Male;White;55-64;51;94666;53.9
+2024;Maine;Male;White;65-74;16;89397;17.9
+2024;Maryland;Female;Black or African American;25-34;28;143815;19.5
+2024;Maryland;Female;Black or African American;35-44;24;147958;16.2
+2024;Maryland;Female;Black or African American;45-54;23;135121;17.0
+2024;Maryland;Female;Black or African American;55-64;72;141078;51.0
+2024;Maryland;Female;Black or African American;65-74;21;106755;19.7
+2024;Maryland;Female;White;15-24;11;205830;5.3
+2024;Maryland;Female;White;25-34;45;212504;21.2
+2024;Maryland;Female;White;35-44;84;238087;35.3
+2024;Maryland;Female;White;45-54;47;211643;22.2
+2024;Maryland;Female;White;55-64;38;242702;15.7
+2024;Maryland;Female;White;65-74;17;209851;8.1
+2024;Maryland;Male;Black or African American;15-24;17;127231;13.4
+2024;Maryland;Male;Black or African American;25-34;62;134056;46.2
+2024;Maryland;Male;Black or African American;35-44;77;129908;59.3
+2024;Maryland;Male;Black or African American;45-54;88;114550;76.8
+2024;Maryland;Male;Black or African American;55-64;189;117141;161.3
+2024;Maryland;Male;Black or African American;65-74;58;77409;74.9
+2024;Maryland;Male;White;15-24;29;216881;13.4
+2024;Maryland;Male;White;25-34;77;217953;35.3
+2024;Maryland;Male;White;35-44;158;246625;64.1
+2024;Maryland;Male;White;45-54;109;217969;50.0
+2024;Maryland;Male;White;55-64;103;238896;43.1
+2024;Maryland;Male;White;65-74;27;192309;14.0
+2024;Massachusetts;Female;White;15-24;12;355715;3.4
+2024;Massachusetts;Female;White;25-34;50;366029;13.7
+2024;Massachusetts;Female;White;35-44;103;359774;28.6
+2024;Massachusetts;Female;White;45-54;77;335600;22.9
+2024;Massachusetts;Female;White;55-64;66;403103;16.4
+2024;Massachusetts;Female;White;65-74;20;354882;5.6
+2024;Massachusetts;Male;Black or African American;25-34;21;56481;37.2
+2024;Massachusetts;Male;Black or African American;35-44;26;50403;51.6
+2024;Massachusetts;Male;Black or African American;45-54;22;39748;55.3
+2024;Massachusetts;Male;Black or African American;55-64;33;34899;94.6
+2024;Massachusetts;Male;Black or African American;65-74;14;21836;64.1
+2024;Massachusetts;Male;White;15-24;25;357043;7.0
+2024;Massachusetts;Male;White;25-34;138;371619;37.1
+2024;Massachusetts;Male;White;35-44;228;361843;63.0
+2024;Massachusetts;Male;White;45-54;203;328379;61.8
+2024;Massachusetts;Male;White;55-64;171;384984;44.4
+2024;Massachusetts;Male;White;65-74;52;317540;16.4
+2024;Michigan;Female;Black or African American;25-34;24;113266;21.2
+2024;Michigan;Female;Black or African American;35-44;28;90766;30.8
+2024;Michigan;Female;Black or African American;45-54;25;90613;27.6
+2024;Michigan;Female;Black or African American;55-64;28;86155;32.5
+2024;Michigan;Female;Black or African American;65-74;14;73211;19.1
+2024;Michigan;Female;White;15-24;17;478701;3.6
+2024;Michigan;Female;White;25-34;50;482194;10.4
+2024;Michigan;Female;White;35-44;81;479841;16.9
+2024;Michigan;Female;White;45-54;71;464158;15.3
+2024;Michigan;Female;White;55-64;53;550943;9.6
+2024;Michigan;Female;White;65-74;26;521794;5.0
+2024;Michigan;Male;Black or African American;25-34;48;110492;43.4
+2024;Michigan;Male;Black or African American;35-44;66;84469;78.1
+2024;Michigan;Male;Black or African American;45-54;46;76608;60.0
+2024;Michigan;Male;Black or African American;55-64;67;72283;92.7
+2024;Michigan;Male;Black or African American;65-74;60;53777;111.6
+2024;Michigan;Male;White;15-24;16;503191;3.2
+2024;Michigan;Male;White;25-34;112;508814;22.0
+2024;Michigan;Male;White;35-44;197;496316;39.7
+2024;Michigan;Male;White;45-54;117;475040;24.6
+2024;Michigan;Male;White;55-64;97;547124;17.7
+2024;Michigan;Male;White;65-74;52;487296;10.7
+2024;Minnesota;Female;American Indian or Alaska Native;25-34;12;6114;196.3
+2024;Minnesota;Female;Black or African American;25-34;16;36983;43.3
+2024;Minnesota;Female;Black or African American;35-44;12;35227;34.1
+2024;Minnesota;Female;White;15-24;12;281188;4.3
+2024;Minnesota;Female;White;25-34;23;279871;8.2
+2024;Minnesota;Female;White;35-44;25;307506;8.1
+2024;Minnesota;Female;White;45-54;28;272602;10.3
+2024;Minnesota;Female;White;55-64;18;317838;5.7
+2024;Minnesota;Female;White;65-74;14;293504;4.8
+2024;Minnesota;Male;American Indian or Alaska Native;35-44;14;5420;258.3
+2024;Minnesota;Male;Black or African American;15-24;11;39922;27.6
+2024;Minnesota;Male;Black or African American;25-34;30;38613;77.7
+2024;Minnesota;Male;Black or African American;35-44;32;38670;82.8
+2024;Minnesota;Male;Black or African American;45-54;12;25829;46.5
+2024;Minnesota;Male;Black or African American;55-64;31;18696;165.8
+2024;Minnesota;Male;White;15-24;25;290919;8.6
+2024;Minnesota;Male;White;25-34;75;294192;25.5
+2024;Minnesota;Male;White;35-44;64;323646;19.8
+2024;Minnesota;Male;White;45-54;43;287103;15.0
+2024;Minnesota;Male;White;55-64;44;319969;13.8
+2024;Minnesota;Male;White;65-74;13;280613;4.6
+2024;Mississippi;Female;White;25-34;17;102253;16.6
+2024;Mississippi;Female;White;35-44;25;104854;23.8
+2024;Mississippi;Female;White;45-54;17;104134;16.3
+2024;Mississippi;Female;White;55-64;14;113505;12.3
+2024;Mississippi;Male;Black or African American;25-34;16;74596;21.4
+2024;Mississippi;Male;Black or African American;35-44;11;64871;17.0
+2024;Mississippi;Male;Black or African American;45-54;13;58403;22.3
+2024;Mississippi;Male;White;15-24;17;115491;14.7
+2024;Mississippi;Male;White;25-34;35;102917;34.0
+2024;Mississippi;Male;White;35-44;45;105588;42.6
+2024;Mississippi;Male;White;45-54;25;105430;23.7
+2024;Mississippi;Male;White;55-64;15;112518;13.3
+2024;Mississippi;Male;White;65-74;10;96483;10.4
+2024;Missouri;Female;Black or African American;25-34;20;57758;34.6
+2024;Missouri;Female;Black or African American;35-44;20;50831;39.3
+2024;Missouri;Female;Black or African American;45-54;14;43963;31.8
+2024;Missouri;Female;White;15-24;14;314321;4.5
+2024;Missouri;Female;White;25-34;46;320365;14.4
+2024;Missouri;Female;White;35-44;54;330430;16.3
+2024;Missouri;Female;White;45-54;37;299657;12.3
+2024;Missouri;Female;White;55-64;33;337416;9.8
+2024;Missouri;Female;White;65-74;11;313313;3.5
+2024;Missouri;Male;Black or African American;15-24;11;54755;20.1
+2024;Missouri;Male;Black or African American;25-34;40;55812;71.7
+2024;Missouri;Male;Black or African American;35-44;45;45249;99.4
+2024;Missouri;Male;Black or African American;45-54;41;37303;109.9
+2024;Missouri;Male;Black or African American;55-64;40;36171;110.6
+2024;Missouri;Male;Black or African American;65-74;22;26339;83.5
+2024;Missouri;Male;White;15-24;33;330401;10.0
+2024;Missouri;Male;White;25-34;117;327939;35.7
+2024;Missouri;Male;White;35-44;122;335863;36.3
+2024;Missouri;Male;White;45-54;78;305346;25.5
+2024;Missouri;Male;White;55-64;45;329923;13.6
+2024;Missouri;Male;White;65-74;19;285546;6.7
+2024;Montana;Male;White;25-34;13;66555;19.5
+2024;Montana;Male;White;35-44;16;68315;23.4
+2024;Montana;Male;White;45-54;10;59824;16.7
+2024;Montana;Male;White;55-64;10;63693;15.7
+2024;Nebraska;Male;White;25-34;12;110446;10.9
+2024;Nevada;Female;White;25-34;33;154496;21.4
+2024;Nevada;Female;White;35-44;39;153799;25.4
+2024;Nevada;Female;White;45-54;38;140282;27.1
+2024;Nevada;Female;White;55-64;25;144914;17.3
+2024;Nevada;Female;White;65-74;18;132313;13.6
+2024;Nevada;Male;Black or African American;25-34;16;31209;51.3
+2024;Nevada;Male;Black or African American;35-44;23;26762;85.9
+2024;Nevada;Male;Black or African American;45-54;16;20148;79.4
+2024;Nevada;Male;Black or African American;55-64;17;18517;91.8
+2024;Nevada;Male;White;15-24;24;137748;17.4
+2024;Nevada;Male;White;25-34;125;165597;75.5
+2024;Nevada;Male;White;35-44;137;169054;81.0
+2024;Nevada;Male;White;45-54;74;152949;48.4
+2024;Nevada;Male;White;55-64;74;155794;47.5
+2024;Nevada;Male;White;65-74;25;128033;19.5
+2024;New Hampshire;Female;White;25-34;16;77709;20.6
+2024;New Hampshire;Female;White;35-44;28;80049;35.0
+2024;New Hampshire;Female;White;45-54;18;77128;23.3
+2024;New Hampshire;Male;White;15-24;11;76334;14.4
+2024;New Hampshire;Male;White;25-34;28;83247;33.6
+2024;New Hampshire;Male;White;35-44;53;83973;63.1
+2024;New Hampshire;Male;White;45-54;36;76690;46.9
+2024;New Hampshire;Male;White;55-64;32;98542;32.5
+2024;New Jersey;Female;Black or African American;25-34;14;110060;12.7
+2024;New Jersey;Female;Black or African American;35-44;21;105422;19.9
+2024;New Jersey;Female;Black or African American;45-54;18;98458;18.3
+2024;New Jersey;Female;Black or African American;55-64;53;96278;55.0
+2024;New Jersey;Female;Black or African American;65-74;15;67265;22.3
+2024;New Jersey;Female;White;15-24;14;385330;3.6
+2024;New Jersey;Female;White;25-34;44;398514;11.0
+2024;New Jersey;Female;White;35-44;86;414061;20.8
+2024;New Jersey;Female;White;45-54;74;408284;18.1
+2024;New Jersey;Female;White;55-64;64;466419;13.7
+2024;New Jersey;Female;White;65-74;18;398653;4.5
+2024;New Jersey;Male;Black or African American;25-34;33;110263;29.9
+2024;New Jersey;Male;Black or African American;35-44;50;102406;48.8
+2024;New Jersey;Male;Black or African American;45-54;58;86653;66.9
+2024;New Jersey;Male;Black or African American;55-64;107;81677;131.0
+2024;New Jersey;Male;Black or African American;65-74;52;50259;103.5
+2024;New Jersey;Male;White;15-24;36;405758;8.9
+2024;New Jersey;Male;White;25-34;168;410531;40.9
+2024;New Jersey;Male;White;35-44;246;429888;57.2
+2024;New Jersey;Male;White;45-54;175;412935;42.4
+2024;New Jersey;Male;White;55-64;166;458029;36.2
+2024;New Jersey;Male;White;65-74;47;361910;13.0
+2024;New Mexico;Female;White;15-24;12;108782;11.0
+2024;New Mexico;Female;White;25-34;31;104314;29.7
+2024;New Mexico;Female;White;35-44;35;106878;32.7
+2024;New Mexico;Female;White;45-54;34;96648;35.2
+2024;New Mexico;Female;White;55-64;21;109555;19.2
+2024;New Mexico;Male;American Indian or Alaska Native;25-34;11;17606;62.5
+2024;New Mexico;Male;White;15-24;19;117349;16.2
+2024;New Mexico;Male;White;25-34;66;112760;58.5
+2024;New Mexico;Male;White;35-44;74;113344;65.3
+2024;New Mexico;Male;White;45-54;63;96491;65.3
+2024;New Mexico;Male;White;55-64;48;103311;46.5
+2024;New Mexico;Male;White;65-74;15;101666;14.8
+2024;New York;Female;Black or African American;25-34;31;268945;11.5
+2024;New York;Female;Black or African American;35-44;53;244217;21.7
+2024;New York;Female;Black or African American;45-54;47;226311;20.8
+2024;New York;Female;Black or African American;55-64;76;242790;31.3
+2024;New York;Female;Black or African American;65-74;31;183465;16.9
+2024;New York;Female;White;15-24;25;809276;3.1
+2024;New York;Female;White;25-34;116;901629;12.9
+2024;New York;Female;White;35-44;174;848553;20.5
+2024;New York;Female;White;45-54;135;790084;17.1
+2024;New York;Female;White;55-64;127;917134;13.8
+2024;New York;Female;White;65-74;52;821040;6.3
+2024;New York;Male;Asian;25-34;14;150388;9.3
+2024;New York;Male;Asian;35-44;14;140883;9.9
+2024;New York;Male;Black or African American;15-24;24;231757;10.4
+2024;New York;Male;Black or African American;25-34;92;265007;34.7
+2024;New York;Male;Black or African American;35-44;112;232165;48.2
+2024;New York;Male;Black or African American;45-54;130;196652;66.1
+2024;New York;Male;Black or African American;55-64;232;200342;115.8
+2024;New York;Male;Black or African American;65-74;112;137073;81.7
+2024;New York;Male;Black or African American;75-84;17;59441;28.6
+2024;New York;Male;White;15-24;51;832010;6.1
+2024;New York;Male;White;25-34;313;909968;34.4
+2024;New York;Male;White;35-44;450;885021;50.8
+2024;New York;Male;White;45-54;369;805034;45.8
+2024;New York;Male;White;55-64;334;903414;37.0
+2024;New York;Male;White;65-74;148;748433;19.8
+2024;New York;Male;White;75-84;13;397501;3.3
+2024;North Carolina;Female;Black or African American;15-24;14;175410;8.0
+2024;North Carolina;Female;Black or African American;25-34;43;183969;23.4
+2024;North Carolina;Female;Black or African American;35-44;34;170148;20.0
+2024;North Carolina;Female;Black or African American;45-54;20;160094;12.5
+2024;North Carolina;Female;Black or African American;55-64;13;156988;8.3
+2024;North Carolina;Female;White;15-24;38;474623;8.0
+2024;North Carolina;Female;White;25-34;126;492861;25.6
+2024;North Carolina;Female;White;35-44;141;487681;28.9
+2024;North Carolina;Female;White;45-54;100;481509;20.8
+2024;North Carolina;Female;White;55-64;93;519535;17.9
+2024;North Carolina;Female;White;65-74;20;469765;4.3
+2024;North Carolina;Male;American Indian or Alaska Native;35-44;12;11229;106.9
+2024;North Carolina;Male;American Indian or Alaska Native;45-54;12;11059;108.5
+2024;North Carolina;Male;Black or African American;15-24;28;175363;16.0
+2024;North Carolina;Male;Black or African American;25-34;83;174714;47.5
+2024;North Carolina;Male;Black or African American;35-44;92;148311;62.0
+2024;North Carolina;Male;Black or African American;45-54;64;131223;48.8
+2024;North Carolina;Male;Black or African American;55-64;57;129392;44.1
+2024;North Carolina;Male;Black or African American;65-74;23;96010;24.0
+2024;North Carolina;Male;White;15-24;65;507760;12.8
+2024;North Carolina;Male;White;25-34;245;499059;49.1
+2024;North Carolina;Male;White;35-44;343;484027;70.9
+2024;North Carolina;Male;White;45-54;199;480482;41.4
+2024;North Carolina;Male;White;55-64;143;502365;28.5
+2024;North Carolina;Male;White;65-74;35;417598;8.4
+2024;North Dakota;Male;White;35-44;13;48006;27.1
+2024;Ohio;Female;Black or African American;25-34;39;126208;30.9
+2024;Ohio;Female;Black or African American;35-44;32;108666;29.4
+2024;Ohio;Female;Black or African American;45-54;14;92380;15.2
+2024;Ohio;Female;Black or African American;55-64;23;89808;25.6
+2024;Ohio;Female;Black or African American;65-74;14;76406;18.3
+2024;Ohio;Female;White;15-24;23;565917;4.1
+2024;Ohio;Female;White;25-34;128;591440;21.6
+2024;Ohio;Female;White;35-44;194;595547;32.6
+2024;Ohio;Female;White;45-54;131;570267;23.0
+2024;Ohio;Female;White;55-64;99;644068;15.4
+2024;Ohio;Female;White;65-74;28;608489;4.6
+2024;Ohio;Male;Black or African American;25-34;72;124259;57.9
+2024;Ohio;Male;Black or African American;35-44;77;100742;76.4
+2024;Ohio;Male;Black or African American;45-54;53;84749;62.5
+2024;Ohio;Male;Black or African American;55-64;74;79305;93.3
+2024;Ohio;Male;Black or African American;65-74;42;59316;70.8
+2024;Ohio;Male;White;15-24;50;595449;8.4
+2024;Ohio;Male;White;25-34;215;611889;35.1
+2024;Ohio;Male;White;35-44;390;608446;64.1
+2024;Ohio;Male;White;45-54;269;575962;46.7
+2024;Ohio;Male;White;55-64;195;630225;30.9
+2024;Ohio;Male;White;65-74;63;554913;11.4
+2024;Oklahoma;Female;White;25-34;39;187782;20.8
+2024;Oklahoma;Female;White;35-44;37;197987;18.7
+2024;Oklahoma;Female;White;45-54;24;175588;13.7
+2024;Oklahoma;Female;White;55-64;22;185809;11.8
+2024;Oklahoma;Female;White;65-74;12;174027;6.9
+2024;Oklahoma;Male;American Indian or Alaska Native;25-34;10;29038;34.4
+2024;Oklahoma;Male;American Indian or Alaska Native;35-44;13;24544;53.0
+2024;Oklahoma;Male;Black or African American;25-34;18;27642;65.1
+2024;Oklahoma;Male;Black or African American;35-44;18;23042;78.1
+2024;Oklahoma;Male;White;15-24;17;202241;8.4
+2024;Oklahoma;Male;White;25-34;70;195826;35.7
+2024;Oklahoma;Male;White;35-44;84;203246;41.3
+2024;Oklahoma;Male;White;45-54;56;180277;31.1
+2024;Oklahoma;Male;White;55-64;33;181082;18.2
+2024;Oklahoma;Male;White;65-74;15;157633;9.5
+2024;Oregon;Female;White;15-24;12;207926;5.8
+2024;Oregon;Female;White;25-34;54;238357;22.7
+2024;Oregon;Female;White;35-44;52;251086;20.7
+2024;Oregon;Female;White;45-54;50;222068;22.5
+2024;Oregon;Female;White;55-64;41;224417;18.3
+2024;Oregon;Female;White;65-74;29;238097;12.2
+2024;Oregon;Male;Black or African American;25-34;11;11048;99.6
+2024;Oregon;Male;Black or African American;35-44;16;9881;161.9
+2024;Oregon;Male;Black or African American;55-64;16;5751;278.2
+2024;Oregon;Male;White;15-24;32;218556;14.6
+2024;Oregon;Male;White;25-34;151;246601;61.2
+2024;Oregon;Male;White;35-44;213;260198;81.9
+2024;Oregon;Male;White;45-54;139;232270;59.8
+2024;Oregon;Male;White;55-64;113;219565;51.5
+2024;Oregon;Male;White;65-74;43;213416;20.1
+2024;Pennsylvania;Female;Black or African American;25-34;25;125855;19.9
+2024;Pennsylvania;Female;Black or African American;35-44;38;111180;34.2
+2024;Pennsylvania;Female;Black or African American;45-54;41;92660;44.2
+2024;Pennsylvania;Female;Black or African American;55-64;38;93198;40.8
+2024;Pennsylvania;Female;White;15-24;16;618180;2.6
+2024;Pennsylvania;Female;White;25-34;112;620389;18.1
+2024;Pennsylvania;Female;White;35-44;183;654982;27.9
+2024;Pennsylvania;Female;White;45-54;126;610503;20.6
+2024;Pennsylvania;Female;White;55-64;92;735431;12.5
+2024;Pennsylvania;Female;White;65-74;36;702673;5.1
+2024;Pennsylvania;Male;Black or African American;25-34;51;130638;39.0
+2024;Pennsylvania;Male;Black or African American;35-44;57;107096;53.2
+2024;Pennsylvania;Male;Black or African American;45-54;79;85119;92.8
+2024;Pennsylvania;Male;Black or African American;55-64;95;80239;118.4
+2024;Pennsylvania;Male;Black or African American;65-74;38;54921;69.2
+2024;Pennsylvania;Male;White;15-24;31;640756;4.8
+2024;Pennsylvania;Male;White;25-34;202;644879;31.3
+2024;Pennsylvania;Male;White;35-44;399;677700;58.9
+2024;Pennsylvania;Male;White;45-54;276;621502;44.4
+2024;Pennsylvania;Male;White;55-64;198;720588;27.5
+2024;Pennsylvania;Male;White;65-74;86;650573;13.2
+2024;Rhode Island;Female;White;35-44;13;57798;22.5
+2024;Rhode Island;Female;White;45-54;13;53768;24.2
+2024;Rhode Island;Female;White;55-64;11;67836;16.2
+2024;Rhode Island;Male;White;25-34;21;60187;34.9
+2024;Rhode Island;Male;White;35-44;45;60192;74.8
+2024;Rhode Island;Male;White;45-54;33;52456;62.9
+2024;Rhode Island;Male;White;55-64;36;63601;56.6
+2024;South Carolina;Female;Black or African American;25-34;10;101836;9.8
+2024;South Carolina;Female;Black or African American;35-44;16;98391;16.3
+2024;South Carolina;Female;Black or African American;45-54;16;89809;17.8
+2024;South Carolina;Female;Black or African American;55-64;14;93835;14.9
+2024;South Carolina;Female;White;15-24;15;221648;6.8
+2024;South Carolina;Female;White;25-34;58;231799;25.0
+2024;South Carolina;Female;White;35-44;72;237127;30.4
+2024;South Carolina;Female;White;45-54;52;228944;22.7
+2024;South Carolina;Female;White;55-64;48;264269;18.2
+2024;South Carolina;Female;White;65-74;12;254172;4.7
+2024;South Carolina;Male;Black or African American;25-34;27;96094;28.1
+2024;South Carolina;Male;Black or African American;35-44;45;83516;53.9
+2024;South Carolina;Male;Black or African American;45-54;38;72865;52.2
+2024;South Carolina;Male;Black or African American;55-64;29;75755;38.3
+2024;South Carolina;Male;Black or African American;65-74;12;59550;20.2
+2024;South Carolina;Male;White;15-24;31;235832;13.1
+2024;South Carolina;Male;White;25-34;106;231731;45.7
+2024;South Carolina;Male;White;35-44;181;235586;76.8
+2024;South Carolina;Male;White;45-54;117;227934;51.3
+2024;South Carolina;Male;White;55-64;75;249771;30.0
+2024;South Carolina;Male;White;65-74;30;224901;13.3
+2024;Tennessee;Female;Black or African American;15-24;12;86014;14.0
+2024;Tennessee;Female;Black or African American;25-34;30;95901;31.3
+2024;Tennessee;Female;Black or African American;35-44;31;84034;36.9
+2024;Tennessee;Female;Black or African American;45-54;30;74323;40.4
+2024;Tennessee;Female;Black or African American;55-64;13;72539;17.9
+2024;Tennessee;Female;White;15-24;22;340405;6.5
+2024;Tennessee;Female;White;25-34;96;377564;25.4
+2024;Tennessee;Female;White;35-44;135;362574;37.2
+2024;Tennessee;Female;White;45-54;115;351199;32.7
+2024;Tennessee;Female;White;55-64;65;376892;17.2
+2024;Tennessee;Female;White;65-74;21;333827;6.3
+2024;Tennessee;Male;Black or African American;15-24;11;86968;12.6
+2024;Tennessee;Male;Black or African American;25-34;75;91441;82.0
+2024;Tennessee;Male;Black or African American;35-44;87;73807;117.9
+2024;Tennessee;Male;Black or African American;45-54;60;63130;95.0
+2024;Tennessee;Male;Black or African American;55-64;39;60076;64.9
+2024;Tennessee;Male;Black or African American;65-74;15;43512;34.5
+2024;Tennessee;Male;White;15-24;62;356595;17.4
+2024;Tennessee;Male;White;25-34;203;379692;53.5
+2024;Tennessee;Male;White;35-44;268;361550;74.1
+2024;Tennessee;Male;White;45-54;200;352290;56.8
+2024;Tennessee;Male;White;55-64;153;364642;42.0
+2024;Tennessee;Male;White;65-74;38;298825;12.7
+2024;Texas;Female;Black or African American;15-24;18;306900;5.9
+2024;Texas;Female;Black or African American;25-34;30;353028;8.5
+2024;Texas;Female;Black or African American;35-44;31;329410;9.4
+2024;Texas;Female;Black or African American;45-54;20;268851;7.4
+2024;Texas;Female;Black or African American;55-64;16;232240;6.9
+2024;Texas;Female;White;15-24;88;1643331;5.4
+2024;Texas;Female;White;25-34;126;1629821;7.7
+2024;Texas;Female;White;35-44;156;1605890;9.7
+2024;Texas;Female;White;45-54;106;1440094;7.4
+2024;Texas;Female;White;55-64;99;1338745;7.4
+2024;Texas;Female;White;65-74;42;1113476;3.8
+2024;Texas;Male;Black or African American;15-24;36;316628;11.4
+2024;Texas;Male;Black or African American;25-34;59;347390;17.0
+2024;Texas;Male;Black or African American;35-44;74;310791;23.8
+2024;Texas;Male;Black or African American;45-54;65;247290;26.3
+2024;Texas;Male;Black or African American;55-64;31;204498;15.2
+2024;Texas;Male;Black or African American;65-74;12;133249;9.0
+2024;Texas;Male;White;15-24;139;1740747;8.0
+2024;Texas;Male;White;25-34;368;1712327;21.5
+2024;Texas;Male;White;35-44;420;1697050;24.7
+2024;Texas;Male;White;45-54;209;1473115;14.2
+2024;Texas;Male;White;55-64;145;1323990;11.0
+2024;Texas;Male;White;65-74;60;1010439;5.9
+2024;Utah;Female;White;25-34;28;224195;12.5
+2024;Utah;Female;White;35-44;35;206920;16.9
+2024;Utah;Female;White;45-54;37;178777;20.7
+2024;Utah;Female;White;55-64;26;143046;18.2
+2024;Utah;Female;White;65-74;13;126329;10.3
+2024;Utah;Male;White;15-24;16;268811;6.0
+2024;Utah;Male;White;25-34;57;238460;23.9
+2024;Utah;Male;White;35-44;92;215393;42.7
+2024;Utah;Male;White;45-54;50;188229;26.6
+2024;Utah;Male;White;55-64;32;144320;22.2
+2024;Utah;Male;White;65-74;18;119467;15.1
+2024;Vermont;Female;White;25-34;11;34489;31.9
+2024;Vermont;Female;White;35-44;13;37946;34.3
+2024;Vermont;Female;White;45-54;10;35507;28.2
+2024;Vermont;Male;White;25-34;17;35181;48.3
+2024;Vermont;Male;White;35-44;37;38048;97.2
+2024;Vermont;Male;White;45-54;39;35856;108.8
+2024;Vermont;Male;White;55-64;22;41949;52.4
+2024;Virginia;Female;Black or African American;25-34;19;127609;14.9
+2024;Virginia;Female;Black or African American;35-44;21;124909;16.8
+2024;Virginia;Female;Black or African American;45-54;22;107912;20.4
+2024;Virginia;Female;Black or African American;55-64;17;116509;14.6
+2024;Virginia;Female;White;15-24;15;362037;4.1
+2024;Virginia;Female;White;25-34;44;377300;11.7
+2024;Virginia;Female;White;35-44;84;396766;21.2
+2024;Virginia;Female;White;45-54;59;363729;16.2
+2024;Virginia;Female;White;55-64;31;392987;7.9
+2024;Virginia;Female;White;65-74;15;346358;4.3
+2024;Virginia;Male;Black or African American;15-24;12;123483;9.7
+2024;Virginia;Male;Black or African American;25-34;46;130825;35.2
+2024;Virginia;Male;Black or African American;35-44;73;120133;60.8
+2024;Virginia;Male;Black or African American;45-54;73;98863;73.8
+2024;Virginia;Male;Black or African American;55-64;59;100541;58.7
+2024;Virginia;Male;Black or African American;65-74;27;72604;37.2
+2024;Virginia;Male;White;15-24;50;386706;12.9
+2024;Virginia;Male;White;25-34;89;390868;22.8
+2024;Virginia;Male;White;35-44;148;410962;36.0
+2024;Virginia;Male;White;45-54;109;374171;29.1
+2024;Virginia;Male;White;55-64;81;388440;20.9
+2024;Virginia;Male;White;65-74;15;315790;4.7
+2024;Washington;Female;American Indian or Alaska Native;25-34;12;11668;102.8
+2024;Washington;Female;American Indian or Alaska Native;35-44;17;10165;167.2
+2024;Washington;Female;American Indian or Alaska Native;45-54;10;7995;125.1
+2024;Washington;Female;Black or African American;25-34;10;30458;32.8
+2024;Washington;Female;Black or African American;35-44;20;27237;73.4
+2024;Washington;Female;Black or African American;45-54;20;19802;101.0
+2024;Washington;Female;Black or African American;55-64;10;17439;57.3
+2024;Washington;Female;White;15-24;16;336597;4.8
+2024;Washington;Female;White;25-34;84;406774;20.7
+2024;Washington;Female;White;35-44;114;413737;27.6
+2024;Washington;Female;White;45-54;96;353679;27.1
+2024;Washington;Female;White;55-64;119;373173;31.9
+2024;Washington;Female;White;65-74;38;360714;10.5
+2024;Washington;Female;More than one race;35-44;11;25469;43.2
+2024;Washington;Female;More than one race;45-54;10;16533;60.5
+2024;Washington;Male;American Indian or Alaska Native;25-34;27;12629;213.8
+2024;Washington;Male;American Indian or Alaska Native;35-44;32;11437;279.8
+2024;Washington;Male;American Indian or Alaska Native;45-54;22;8385;262.4
+2024;Washington;Male;American Indian or Alaska Native;55-64;20;7118;281.0
+2024;Washington;Male;Asian;35-44;16;79724;20.1
+2024;Washington;Male;Black or African American;15-24;13;27304;47.6
+2024;Washington;Male;Black or African American;25-34;40;37793;105.8
+2024;Washington;Male;Black or African American;35-44;51;35882;142.1
+2024;Washington;Male;Black or African American;45-54;30;26432;113.5
+2024;Washington;Male;Black or African American;55-64;40;20801;192.3
+2024;Washington;Male;Black or African American;65-74;15;12697;118.1
+2024;Washington;Male;White;15-24;48;361922;13.3
+2024;Washington;Male;White;25-34;286;439135;65.1
+2024;Washington;Male;White;35-44;389;447403;86.9
+2024;Washington;Male;White;45-54;273;372938;73.2
+2024;Washington;Male;White;55-64;269;377120;71.3
+2024;Washington;Male;White;65-74;122;333624;36.6
+2024;Washington;Male;White;75-84;12;175597;6.8
+2024;Washington;Male;More than one race;15-24;11;43654;25.2
+2024;Washington;Male;More than one race;25-34;25;36941;67.7
+2024;Washington;Male;More than one race;35-44;28;24749;113.1
+2024;Washington;Male;More than one race;45-54;10;15341;65.2
+2024;West Virginia;Female;White;25-34;37;94951;39.0
+2024;West Virginia;Female;White;35-44;58;95929;60.5
+2024;West Virginia;Female;White;45-54;43;103087;41.7
+2024;West Virginia;Female;White;55-64;34;111255;30.6
+2024;West Virginia;Male;White;15-24;10;102974;9.7
+2024;West Virginia;Male;White;25-34;57;100717;56.6
+2024;West Virginia;Male;White;35-44;135;97849;138.0
+2024;West Virginia;Male;White;45-54;106;104759;101.2
+2024;West Virginia;Male;White;55-64;72;108207;66.5
+2024;West Virginia;Male;White;65-74;22;101679;21.6
+2024;Wisconsin;Female;Black or African American;25-34;10;32859;30.4
+2024;Wisconsin;Female;Black or African American;45-54;11;21730;50.6
+2024;Wisconsin;Female;Black or African American;55-64;10;19237;52.0
+2024;Wisconsin;Female;White;25-34;31;298622;10.4
+2024;Wisconsin;Female;White;35-44;50;314620;15.9
+2024;Wisconsin;Female;White;45-54;38;297744;12.8
+2024;Wisconsin;Female;White;55-64;33;360372;9.2
+2024;Wisconsin;Female;White;65-74;12;331978;3.6
+2024;Wisconsin;Male;Black or African American;25-34;19;33981;55.9
+2024;Wisconsin;Male;Black or African American;35-44;26;25410;102.3
+2024;Wisconsin;Male;Black or African American;45-54;29;20078;144.4
+2024;Wisconsin;Male;Black or African American;55-64;34;16886;201.4
+2024;Wisconsin;Male;Black or African American;65-74;18;10868;165.6
+2024;Wisconsin;Male;White;15-24;10;333461;3.0
+2024;Wisconsin;Male;White;25-34;86;316272;27.2
+2024;Wisconsin;Male;White;35-44;132;329993;40.0
+2024;Wisconsin;Male;White;45-54;89;311516;28.6
+2024;Wisconsin;Male;White;55-64;67;362491;18.5
+2024;Wisconsin;Male;White;65-74;27;321422;8.4
+2024;Wyoming;Male;White;45-54;10;33018;30.3

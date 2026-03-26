@@ -56,7 +56,7 @@ The analysis included:
 ![Map](figure/map_4years_elegant_blue_age_adjusted.png)
 
 ### Population profile (sex distribution)
-![Sex](figure/graph_observed_deaths_sex_year.png)
+![Sex](figure/graph_observed_deaths_age_sex.png)
 
 ## Repository structure
 - `scripts/` contains R scripts for data cleaning, descriptive analysis, age adjustment, and Joinpoint preparation  

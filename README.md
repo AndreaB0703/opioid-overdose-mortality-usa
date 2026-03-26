@@ -7,7 +7,7 @@
 ## Why this project matters
 The opioid overdose crisis remains one of the most pressing public health challenges in the United States.
 
-Understanding how mortality patterns have evolved over time — particularly across opioid subtypes — is essential for identifying the drivers of the epidemic and informing public health responses. This project highlights the role of synthetic opioids, especially fentanyl, in shaping recent mortality trends and provides a structured analysis of how the epidemic has changed between 2013 and 2024.
+Understanding how mortality patterns have evolved over time — particularly across opioid subtypes — is essential for identifying the drivers of the epidemic and informing public health responses. This project highlights the role of synthetic opioids, specially fentanyl, in shaping recent mortality trends and provides a structured analysis of how the epidemic has changed between 2013 and 2024.
 
 ## Objectives
 - Describe national trends in opioid overdose mortality over time  

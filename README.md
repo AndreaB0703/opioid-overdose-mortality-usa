@@ -44,7 +44,8 @@ The analysis included:
 
 ## Repository structure
 - `scripts/` contains R scripts for data cleaning, descriptive analysis, age adjustment, and Joinpoint preparation  
-- `figure/` contains visualizations  
+- `figure/` contains visualizations
+-  `data/` contains data used in this project
 - `output/` contains summary tables and Joinpoint outputs  
 
 ## Reproducibility

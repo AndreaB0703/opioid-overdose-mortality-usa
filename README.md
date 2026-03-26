@@ -40,7 +40,23 @@ The analysis included:
 - Substantial geographic variation was observed, with higher mortality rates in eastern states.  
 
 - Joinpoint analysis identified a significant increase from 2013 to 2022 (APC 12.9%) followed by a decline from 2022 to 2024 (APC −18.9%).  
-- Trends for synthetic opioids showed a rapid increase, sustained growth, and a recent decline, consistent with the overall epidemic pattern.  
+- Trends for synthetic opioids showed a rapid increase, sustained growth, and a recent decline, consistent with the overall epidemic pattern.
+  ## Selected visualizations
+
+### Epidemic growth (observed deaths)
+![Observed deaths](figure/graph_observed_deaths_year.png)
+
+### Drivers of the epidemic (opioid subtype)
+![Opioid subtype](figure/graph_observed_deaths_opioid.png)
+
+### Age-adjusted mortality trend
+![Trend](figure/graph_age_adjusted_rate.png)
+
+### Geographic distribution
+![Map](figure/map_4years_elegant_blue_age_adjusted.png)
+
+### Population profile (sex distribution)
+![Sex](figure/graph_observed_deaths_sex_year.png)
 
 ## Repository structure
 - `scripts/` contains R scripts for data cleaning, descriptive analysis, age adjustment, and Joinpoint preparation  

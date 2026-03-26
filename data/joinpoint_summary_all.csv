@@ -1,0 +1,13 @@
+opioid_type,joinpoints_n,joinpoint_year,segment,start_year,end_year,apc,ci_lower,ci_upper,p_value,significant
+Any opioid,1,2022,1,2013,2022,12.9391,10.7317,19.1486,0.000400,Yes
+Any opioid,1,2022,2,2022,2024,-18.8672,-33.2249,-2.3756,0.029594,Yes
+T40.1 Heroin,2,2016; 2020,1,2013,2016,18.2567,13.281,23.3424,<0.000001,Yes
+T40.1 Heroin,2,2016; 2020,2,2016,2020,-5.8022,-7.9068,-3.6399,0.002000,Yes
+T40.1 Heroin,2,2016; 2020,3,2020,2024,-24.582,-28.4772,-20.6587,<0.000001,Yes
+T40.2 Natural and semisynthetic opioids,1,2021,1,2013,2021,-0.0302,-2.1578,4.833,0.876625,No
+T40.2 Natural and semisynthetic opioids,1,2021,2,2021,2024,-15.9193,-30.69,-6.6561,<0.000001,Yes
+T40.3 Methadone,0,None,1,2013,2024,-0.037,-1.7324,1.7604,0.985403,No
+T40.4 Synthetic opioids other than methadone,2,2016; 2022,1,2013,2016,84.6386,40.1212,497.4677,<0.000001,Yes
+T40.4 Synthetic opioids other than methadone,2,2016; 2022,2,2016,2022,20.4012,15.6465,28.3578,<0.000001,Yes
+T40.4 Synthetic opioids other than methadone,2,2016; 2022,3,2022,2024,-20.708,-35.1724,-4.8482,0.010798,Yes
+T40.6 Other and unspecified narcotics,0,None,1,2013,2024,-9.5901,-13.4876,-7.3317,<0.000001,Yes
